@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Correzione testo.md",
+                "file": "ITA/Correzione testo.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Correzione testo.md",
+                "file": "ITA/Correzione testo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Correzione testo.md",
+                "file": "ITA/Correzione testo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Correzione testo.md"
+                "file": "ITA/Correzione testo.md"
               }
             }
           },
@@ -166,9 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba29ffa73c033b22",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "Correzione testo.md",
+    "ITA/Correzione testo.md",
     "Test.md",
     "SISTEMI/Lo standard LAN.md",
     "Excalidraw/Drawing 2023-02-14 11.17.43.excalidraw.md"

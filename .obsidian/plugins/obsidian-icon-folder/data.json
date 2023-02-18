@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasSatellite-dish",
-      "RiMap-2-line",
-      "IbConnectivity",
-      "FarFloppy-disk"
+      "FasBook",
+      "FasSatelliteDish",
+      "FarMap",
+      "FarFloppyDisk",
+      "FasSatellite-dish"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,8 +21,9 @@
       "left": 0
     }
   },
-  "INFORMATICA": "FarFloppy-disk",
+  "INFORMATICA": "FarFloppyDisk",
   "SISTEMI": "IbConnectivity",
-  "TDP": "RiMap-2-line",
-  "TELECOMUNICAZIONI": "FasSatellite-dish"
+  "TDP": "FarMap",
+  "TELECOMUNICAZIONI": "FasSatelliteDish",
+  "ITA": "FasBook"
 }
