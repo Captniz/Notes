@@ -1,10 +1,10 @@
 {
   "useCache": true,
-  "hideExcluded": false,
+  "hideExcluded": true,
   "ignoreDiacritics": true,
   "indexedFileTypes": [],
-  "PDFIndexing": false,
-  "imagesIndexing": false,
+  "PDFIndexing": true,
+  "imagesIndexing": true,
   "showShortName": false,
   "ribbonIcon": true,
   "showExcerpt": true,

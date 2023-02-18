@@ -11,12 +11,13 @@
   "obsidian-icon-folder",
   "obsidian-kanban",
   "obsidian-linter",
-  "obsidian-git",
   "omnisearch",
   "obsidian-outliner",
   "oz-image-plugin",
   "obsidian-pandoc",
   "obsidian-style-settings",
   "tag-wrangler",
-  "templater-obsidian"
+  "templater-obsidian",
+  "text-extractor",
+  "obsidian-git"
 ]
