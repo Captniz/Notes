@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba29ffa73c033b22",
+            "id": "0e86d69a39c7b71c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITA/Correzione testo.md",
+                "file": "ITA/La nascita del capitalismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITA/Correzione testo.md",
+                "file": "ITA/La nascita del capitalismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITA/Correzione testo.md",
+                "file": "ITA/La nascita del capitalismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITA/Correzione testo.md"
+                "file": "ITA/La nascita del capitalismo.md"
               }
             }
           },
@@ -166,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db33aa361e8e904e",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
     "ITA/Correzione testo.md",
     "Test.md",
