@@ -39,7 +39,15 @@ Sulla scia del Luddismo le rivolte operaie portano alla nascita degli scioperi
 **Combinations act - 1824**
 Vieta gli scioperi e le unioni operaie, vengono revocati nella speranza che calmino i lavoratori.
 
-Nascono le **Trade unions**, simili a sindacati.
+Nascono le **Trade unions**, simili a sindacati; viene a crearsi il **Trade union congress**, con l'obbiettivo di unire tutti le trade unions, cosa che fallisce ma instaura comunque dei solidi rapporti tra questi sindacati.
+
+**People's charter - 1838**
+Dopo che non viene approvata per due volte si scatenano incredibili rivolte (**Cartisti**)
+Punti importanti di questo documento:
+1. Suffragio universale maschile
+2. Voto segreto
+3. Abolizione dell'obbligo di avere una proprietà per entrare in parlamento
+4. Indennità parlamentare
 
 # Conquiste delle lotte operaie
 
