@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc0814a48323567",
+        "id": "2d4286bfa317febd",
         "type": "tabs",
         "children": [
           {
-            "id": "5a931216ffb1d2b4",
+            "id": "ebb34fb66b999abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITA/Liberismo.md",
+                "file": "UMANISTICA/Liberismo.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "51e007db266e4c61"
-          }
-        ]
-      },
-      {
-        "id": "23e89542868ef979",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "33200510763ef0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITA/Liberismo.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "51e007db266e4c61"
+            }
           }
         ]
       }
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITA/Liberismo.md",
+                "file": "UMANISTICA/Liberismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITA/Liberismo.md",
+                "file": "UMANISTICA/Liberismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITA/Liberismo.md"
+                "file": "UMANISTICA/Liberismo.md"
               }
             }
           },
@@ -182,15 +162,16 @@
       "command-palette:Open command palette": true,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "ITA/La nascita del capitalismo.md",
-    "ITA/Liberismo.md",
-    "ITA/Correzione testo.md",
+    "UMANISTICA/Questionario sulla Restaurazione.pdf",
+    "UMANISTICA/Liberismo.md",
+    "UMANISTICA/La nascita del capitalismo.md",
+    "UMANISTICA/Correzione testo.md",
     "Test.md",
     "SISTEMI/Lo standard LAN.md",
     "Excalidraw/Drawing 2023-02-14 11.17.43.excalidraw.md"

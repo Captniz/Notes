@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Solarized",
+  "accentColor": "#8da101",
+  "cssTheme": "Everforest",
   "theme": "moonstone",
   "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }
