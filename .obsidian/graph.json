@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#storia ",
+      "color": {
+        "a": 1,
+        "rgb": 14655488
+      }
+    },
+    {
+      "query": "tag:#inglese",
+      "color": {
+        "a": 1,
+        "rgb": 14641594
+      }
+    },
+    {
+      "query": "tag:#extra",
+      "color": {
+        "a": 1,
+        "rgb": 16274770
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 1.98854166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 0.5,
+  "linkDistance": 108,
+  "scale": 1,
+  "close": true
+}

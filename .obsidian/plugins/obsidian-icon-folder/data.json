@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasBook",
-      "FasSatelliteDish",
-      "FarMap",
-      "FarFloppyDisk",
-      "FasSatellite-dish"
+      "FasLanguage",
+      "SiLinux",
+      "FasPen",
+      "FarFilePdf",
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,5 +25,9 @@
   "SISTEMI": "IbConnectivity",
   "TDP": "FarMap",
   "TELECOMUNICAZIONI": "FasSatelliteDish",
-  "UMANISTICA": "FasBook"
+  "NoteLinux.md": "SiLinux",
+  "UMANISTICA": "FasBook",
+  "UMANISTICA/PDFs": "FarFilePdf",
+  "UMANISTICA/PDFs/Annotator.md": "FasPen",
+  "INGLESE": "FasLanguage"
 }

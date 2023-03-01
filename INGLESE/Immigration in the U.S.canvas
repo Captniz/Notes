@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"bf457f62dbbbc55f","x":-125,"y":-30,"width":250,"height":50,"type":"text","text":"ITALY IN 1907"},
+		{"id":"0f1a93e41833861b","x":-125,"y":70,"width":250,"height":50,"type":"text","text":"Many problems"},
+		{"id":"32dbee6787364c63","x":260,"y":-25,"width":250,"height":60,"type":"text","text":"Lack of good government"},
+		{"id":"836ab5f678224e01","x":260,"y":65,"width":250,"height":60,"type":"text","text":"Disease"},
+		{"id":"9611979e7388a530","x":260,"y":165,"width":250,"height":60,"type":"text","text":"Poverty"},
+		{"id":"b6f5b90001e2a4d0","x":-125,"y":395,"width":250,"height":50,"type":"text","text":"Difficult living conditions"},
+		{"id":"ab281550e7096224","x":-125,"y":490,"width":250,"height":60,"type":"text","text":"Immigrations in the U.S"},
+		{"id":"20ace20ae1614712","x":-125,"y":590,"width":250,"height":60,"type":"text","text":"Difficulties during transportation"},
+		{"id":"2e8896c48879be5c","x":-125,"y":685,"width":250,"height":60,"type":"text","text":"Better living conditions upon arrival"},
+		{"id":"82dcaf01ded471d7","x":260,"y":395,"width":250,"height":60,"type":"text","text":"Diseases"},
+		{"id":"877e23d527eb1bcc","x":260,"y":490,"width":250,"height":60,"type":"text","text":"Crammed spaces"},
+		{"id":"8c03c52b4716714c","x":260,"y":585,"width":250,"height":60,"type":"text","text":"Long travel"},
+		{"id":"71d4e219f4f9d97c","x":260,"y":685,"width":250,"height":60,"type":"text","text":"Invasive health inspections"},
+		{"id":"f07dfb353f19d395","x":260,"y":295,"width":250,"height":60,"type":"text","text":"CONS"},
+		{"id":"7cc11084bc2df4e9","x":-520,"y":295,"width":250,"height":60,"type":"text","text":"PROS"},
+		{"id":"8d7dfbe988c2f5fe","x":-520,"y":445,"width":250,"height":60,"type":"text","text":"Cheap overseas travel"},
+		{"id":"9cc67d0b25a390b0","x":-520,"y":540,"width":250,"height":60,"type":"text","text":"U.S. Prosperity"}
+	],
+	"edges":[
+		{"id":"a0a7a5324cca5520","fromNode":"0f1a93e41833861b","fromSide":"right","toNode":"32dbee6787364c63","toSide":"left"},
+		{"id":"ef1c825d9c0dc65a","fromNode":"0f1a93e41833861b","fromSide":"right","toNode":"836ab5f678224e01","toSide":"left"},
+		{"id":"e112293a7189ebfb","fromNode":"0f1a93e41833861b","fromSide":"right","toNode":"9611979e7388a530","toSide":"left"},
+		{"id":"cece3c28f7346539","fromNode":"bf457f62dbbbc55f","fromSide":"bottom","toNode":"0f1a93e41833861b","toSide":"top"},
+		{"id":"30ff0d05d1ff59b9","fromNode":"0f1a93e41833861b","fromSide":"bottom","toNode":"b6f5b90001e2a4d0","toSide":"top"},
+		{"id":"b077dde80e639cbd","fromNode":"b6f5b90001e2a4d0","fromSide":"bottom","toNode":"ab281550e7096224","toSide":"top"},
+		{"id":"1fa9a2d2c0d15a80","fromNode":"ab281550e7096224","fromSide":"bottom","toNode":"20ace20ae1614712","toSide":"top"},
+		{"id":"c283307ade617020","fromNode":"20ace20ae1614712","fromSide":"bottom","toNode":"2e8896c48879be5c","toSide":"top"},
+		{"id":"f163bb8f1b6e8c3b","fromNode":"ab281550e7096224","fromSide":"left","toNode":"8d7dfbe988c2f5fe","toSide":"right"},
+		{"id":"84ffa5c9a2d1f706","fromNode":"ab281550e7096224","fromSide":"left","toNode":"9cc67d0b25a390b0","toSide":"right"},
+		{"id":"ecca4b74f976fd70","fromNode":"ab281550e7096224","fromSide":"right","toNode":"877e23d527eb1bcc","toSide":"left"},
+		{"id":"a8570e008f06d5cb","fromNode":"ab281550e7096224","fromSide":"right","toNode":"82dcaf01ded471d7","toSide":"left"},
+		{"id":"bbec3d732712b46a","fromNode":"ab281550e7096224","fromSide":"right","toNode":"8c03c52b4716714c","toSide":"left"},
+		{"id":"37d838d0d907a5d0","fromNode":"ab281550e7096224","fromSide":"right","toNode":"71d4e219f4f9d97c","toSide":"left"}
+	]
+}
