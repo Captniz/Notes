@@ -7,6 +7,10 @@
 **Verb:**
 Any form of *Be* + Past participle of the verb
 
+> [!warning]- Transtive verbs
+> 
+Verbi che dopo essere espressi per essere completi pongono la domanda "*chi, cosa o dove*".
+
 ## Uses
 - Don't care / Don't know the subject
 - Enphasize the object instead of the subject
@@ -33,9 +37,9 @@ Any form of *Be* + Past participle of the verb
 10. is watched
 
 **2 )**
-1. has been designed
+1. was designed
 2. is directed
-3. has been invented
+3. was invented
 4. was won
 5. is written
 6. were held

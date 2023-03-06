@@ -10,7 +10,7 @@
 |       neovim       |          |            |
 |    libreoffice     |          |           |
 |    packetracer     |          |           |
-|        wine        |           |            |
+|        wine        |           |            |
 |      firefox       |          |           |
 |     alacritty      |          |           |
 |       vscode       |          |           |
@@ -29,7 +29,9 @@
 |       ranger       |          |            |
 |        sddm        |          |            |
 
-Rofi x Moodle x chatGPT x CVV x Mail x Telegram x Wikipedia x Dizionario italiano e inglese
+Rofi x control panel (update all, volume, brightness, wifi,connection status, disable connection, icone, https://github.com/cjbassi/awesome-rofi) x Moodle x chatGPT x CVV x Mail x Telegram x Wikipedia x Dizionario italiano e inglese x Mount Drive x Wifi (sudo mount /dev/****PARTITION**** ~/ExternalDriveMount), tastiera onscreen
+
+Dir per pgm: .local/share/applications
 
 Backup costanti
 
