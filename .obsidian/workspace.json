@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77da3087daacaea4",
+        "id": "9d43bddf065937af",
         "type": "tabs",
         "children": [
           {
-            "id": "0354d108e3b2d48f",
+            "id": "a5fb41858c210a5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoteLinux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoteLinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoteLinux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NoteLinux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,26 +168,33 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "UMANISTICA/I moti del '20, '30, '31.md",
+    "TELECOMUNICAZIONI/Untitled.md",
+    "TDP/Untitled.md",
+    "SISTEMI/Untitled.md",
+    "INFORMATICA/Untitled.md",
     "NoteLinux.md",
-    "UMANISTICA/Il socialismo dei proletari.md",
-    "INGLESE/Futures.md",
+    "UMANISTICA/INGLESE/Immigration in the U.S.canvas",
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
+    "UMANISTICA/STORIA/La nascita del capitalismo.md",
+    "UMANISTICA/STORIA/La restaurazione.md",
+    "UMANISTICA/STORIA/Liberismo.md",
+    "UMANISTICA/INGLESE/If clauses.md",
+    "UMANISTICA/ITALIANO",
+    "UMANISTICA/STORIA",
+    "UMANISTICA/INGLESE/Futures.md",
+    "UMANISTICA/INGLESE/Gentrification.md",
+    "UMANISTICA/INGLESE/The passive form.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-03-04 08.13.33.excalidraw.md",
     "Excalidraw",
-    "INGLESE/The passive form.md",
-    "UMANISTICA/La nascita del capitalismo.md",
-    "INGLESE/Gentrification.md",
-    "INGLESE/If clauses.md",
-    "INGLESE/Immigration in 1907.md",
-    "INGLESE/Immigration in the U.S.canvas",
-    "INGLESE/Writing essays.md",
+    "UMANISTICA/INGLESE/Immigration in 1907.md",
+    "UMANISTICA/INGLESE/Writing essays.md",
     "Transitive verbs.md",
-    "UMANISTICA/Liberismo.md",
-    "INGLESE",
-    "UMANISTICA/PDFs/Annotator.md",
-    "UMANISTICA/PDFs/Questionario sulla Restaurazione.pdf",
-    "UMANISTICA/PDFs",
+    "UMANISTICA/INGLESE",
+    "UMANISTICA/STORIA/PDFs/Annotator.md",
+    "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
+    "UMANISTICA/STORIA/PDFs",
     "UMANISTICA/Correzione testo.md",
     "Test.md",
     "SISTEMI/Lo standard LAN.md",

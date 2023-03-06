@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiHistoryFill",
+      "IbText",
       "FasLanguage",
       "SiLinux",
-      "FasPen",
-      "FarFilePdf",
-      "FasBook"
+      "FasPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,7 +27,9 @@
   "TELECOMUNICAZIONI": "FasSatelliteDish",
   "NoteLinux.md": "SiLinux",
   "UMANISTICA": "FasBook",
-  "UMANISTICA/PDFs": "FarFilePdf",
-  "UMANISTICA/PDFs/Annotator.md": "FasPen",
-  "INGLESE": "FasLanguage"
+  "UMANISTICA/INGLESE": "FasLanguage",
+  "UMANISTICA/ITALIANO": "IbText",
+  "UMANISTICA/STORIA": "RiHistoryFill",
+  "UMANISTICA/STORIA/PDFs": "FarFilePdf",
+  "UMANISTICA/STORIA/PDFs/Annotator.md": "FasPen"
 }
