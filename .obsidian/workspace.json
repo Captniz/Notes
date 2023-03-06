@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c3b505fc6aa654f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UMANISTICA/I moti del '20, '30, '31.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/I moti del '20, '30, '31.md",
+                "file": "NoteLinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/I moti del '20, '30, '31.md",
+                "file": "NoteLinux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/I moti del '20, '30, '31.md"
+                "file": "NoteLinux.md"
               }
             }
           },
@@ -185,12 +174,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e363790db87bd6e6",
+  "active": "0354d108e3b2d48f",
   "lastOpenFiles": [
+    "UMANISTICA/I moti del '20, '30, '31.md",
     "NoteLinux.md",
     "UMANISTICA/Il socialismo dei proletari.md",
     "INGLESE/Futures.md",
-    "UMANISTICA/I moti del '20, '30, '31.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-03-04 08.13.33.excalidraw.md",
     "Excalidraw",

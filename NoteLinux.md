@@ -4,7 +4,7 @@
 |:------------------:|:---------:|:----------:|
 |      Hyprland      |          |            |
 |      nightab       |          |           |
-|       dunst        |          |            |
+|       dunst        |          |            |
 |    arduino IDE     |          |           |
 |      obsidian      |          |           |
 |       neovim       |          |            |
@@ -18,13 +18,13 @@
 |       nmcli        |          |           |
 | Firacode/nerdFonts |          |           |
 |        eww         |          |            |
-|    pavucontrol     |          |            |
+|    pavucontrol     |          |            |
 |      pipewire      |          |            |
 |       nitch        |          |           |
 |       bpytop       |          |           |
 |    zsh/ohmyzsh     |          |           |
-|     hyprpaper      |          |            |
-|        snap        |          |            |
+|     hyprpaper      |          |            |
+|        snap        |          |            |
 |        yay         |          |           |
 |       ranger       |          |            |
 |        sddm        |          |            |
