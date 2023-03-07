@@ -4,36 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f384058911fa0ee8",
+        "id": "f0d3b248b043bede",
         "type": "tabs",
         "children": [
           {
-            "id": "0819cf72eeeaecd6",
+            "id": "037bd78277a9e0fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SISTEMI/05 - Mixed info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d3640e6afac8b102",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1d74a3008fafbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SISTEMI/04 - LAN (Local Area Network).md",
-                "mode": "source",
-                "source": false
+                "file": "SISTEMI/100 - Riassunto.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -112,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMI/05 - Mixed info.md",
+                "file": "SISTEMI/100 - Riassunto.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMI/05 - Mixed info.md",
+                "file": "SISTEMI/100 - Riassunto.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMI/05 - Mixed info.md"
+                "file": "SISTEMI/100 - Riassunto.canvas"
               }
             }
           },
@@ -194,12 +179,14 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "SISTEMI/100.md",
+    "SISTEMI/100 - Riassunto.canvas",
+    "SISTEMI/05 - Mixed info.md",
     "SISTEMI/04 - LAN (Local Area Network).md",
     "SISTEMI/03 - Accesso multiplo a canali condivisi.md",
     "SISTEMI/02 - Bit-stuffing e piggybacking.md",
     "SISTEMI/01 - Enti Normatori.md",
     "SISTEMI/000 - Riassunto.canvas",
-    "SISTEMI/05 - Mixed info.md",
     "SISTEMI/PDFs/10.2 - StarndardEthernetDocum.pdf",
     "SISTEMI/PDFs/10.1 - StandardEthernet.pdf",
     "SISTEMI/PDFs/10 - LAN.pdf",
@@ -229,7 +216,6 @@
     "UMANISTICA/STORIA/La restaurazione.md",
     "UMANISTICA/STORIA/Liberismo.md",
     "Excalidraw/Drawing 2023-03-04 08.13.33.excalidraw.md",
-    "UMANISTICA/INGLESE/Immigration in 1907.md",
-    "UMANISTICA/INGLESE/Writing essays.md"
+    "UMANISTICA/INGLESE/Immigration in 1907.md"
   ]
 }
