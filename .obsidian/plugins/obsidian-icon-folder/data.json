@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiHistoryFill",
-      "IbText",
-      "FasLanguage",
-      "SiLinux",
-      "FasPen"
+      "SiJavascript",
+      "FabJava",
+      "FarFilePdf",
+      "SiCplusplus",
+      "FasC"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,12 @@
   "UMANISTICA/ITALIANO": "IbText",
   "UMANISTICA/STORIA": "RiHistoryFill",
   "UMANISTICA/STORIA/PDFs": "FarFilePdf",
-  "UMANISTICA/STORIA/PDFs/Annotator.md": "FasPen"
+  "UMANISTICA/STORIA/PDFs/Annotator.md": "FasPen",
+  "INFORMATICA/C - C++": "SiCplusplus",
+  "INFORMATICA/C - C++/PDFs": "FarFilePdf",
+  "INFORMATICA/Java": "FabJava",
+  "INFORMATICA/Javascript": "SiJavascript",
+  "INFORMATICA/Javascript/PDFs": "FarFilePdf",
+  "SISTEMI/PDFs": "FarFilePdf",
+  "TDP/PDFs": "FarFilePdf"
 }

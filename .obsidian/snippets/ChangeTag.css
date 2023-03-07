@@ -1,0 +1,13 @@
+/* Set node colors in graph view */
+  .theme-light .graph-view.color-fill-unresolved {
+      color: red
+  }
+  .theme-light .graph-view.color-fill-tag {
+    color: #EAEDC8;
+  }
+  .theme-light .graph-view.color-fill-unresolved {
+    color: red;
+  }
+  .theme-light .graph-view.color-fill-attachment {
+    color: #5c6a72;
+  }

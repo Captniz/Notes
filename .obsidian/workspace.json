@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9d43bddf065937af",
+        "id": "51e6a9d9e1c3c821",
         "type": "tabs",
         "children": [
           {
-            "id": "a5fb41858c210a5f",
+            "id": "c0191b11ec86bc2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#italiano",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,33 +168,38 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+    "UMANISTICA/STORIA/La nascita del capitalismo.md",
+    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
+    "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
+    "UMANISTICA/INGLESE/If clauses.md",
+    "UMANISTICA/INGLESE/Gentrification.md",
+    "UMANISTICA/INGLESE/Futures.md",
     "TELECOMUNICAZIONI/Untitled.md",
+    "SISTEMI/Enti Normatori.md",
+    "SISTEMI/PDFs/10.2 - StarndardEthernetDocum.pdf",
+    "SISTEMI/PDFs/7 - Enti normatori.pdf",
+    "SISTEMI/PDFs/8 - Bit-stuffing and piggybacking.pdf",
+    "SISTEMI/PDFs/10.1 - StandardEthernet.pdf",
+    "SISTEMI/PDFs/10.6 - Switch.pdf",
+    "SISTEMI/PDFs/10.3 - StandardEthernetFisico.pdf",
+    "SISTEMI/PDFs/10.5 - Fondamentali della comunicazione.pdf",
+    "SISTEMI/PDFs/10.4 - 10 GigaBit Ethernet.pdf",
+    "SISTEMI/PDFs/10 - LAN.pdf",
+    "INFORMATICA/Javascript/PDFs/ripasso_javascript.pdf",
     "TDP/Untitled.md",
-    "SISTEMI/Untitled.md",
     "INFORMATICA/Untitled.md",
     "NoteLinux.md",
     "UMANISTICA/INGLESE/Immigration in the U.S.canvas",
-    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
-    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
-    "UMANISTICA/STORIA/La nascita del capitalismo.md",
     "UMANISTICA/STORIA/La restaurazione.md",
     "UMANISTICA/STORIA/Liberismo.md",
-    "UMANISTICA/INGLESE/If clauses.md",
-    "UMANISTICA/ITALIANO",
-    "UMANISTICA/STORIA",
-    "UMANISTICA/INGLESE/Futures.md",
-    "UMANISTICA/INGLESE/Gentrification.md",
     "UMANISTICA/INGLESE/The passive form.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-03-04 08.13.33.excalidraw.md",
-    "Excalidraw",
     "UMANISTICA/INGLESE/Immigration in 1907.md",
     "UMANISTICA/INGLESE/Writing essays.md",
     "Transitive verbs.md",
-    "UMANISTICA/INGLESE",
     "UMANISTICA/STORIA/PDFs/Annotator.md",
-    "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
-    "UMANISTICA/STORIA/PDFs",
     "UMANISTICA/Correzione testo.md",
     "Test.md",
     "SISTEMI/Lo standard LAN.md",

@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -18,7 +18,7 @@
       "query": "tag:#inglese",
       "color": {
         "a": 1,
-        "rgb": 14641594
+        "rgb": 16088358
       }
     },
     {
@@ -26,6 +26,41 @@
       "color": {
         "a": 1,
         "rgb": 16274770
+      }
+    },
+    {
+      "query": "tag:#informatica",
+      "color": {
+        "a": 1,
+        "rgb": 14641594
+      }
+    },
+    {
+      "query": "tag:#sistemi",
+      "color": {
+        "a": 1,
+        "rgb": 7879110
+      }
+    },
+    {
+      "query": "tag:#telecomunicazioni",
+      "color": {
+        "a": 1,
+        "rgb": 3756486
+      }
+    },
+    {
+      "query": "tag:#tdp",
+      "color": {
+        "a": 1,
+        "rgb": 3839173
+      }
+    },
+    {
+      "query": "tag:#italiano",
+      "color": {
+        "a": 1,
+        "rgb": 9281793
       }
     }
   ],
@@ -39,6 +74,6 @@
   "repelStrength": 8.85416666666667,
   "linkStrength": 0.755208333333333,
   "linkDistance": 72,
-  "scale": 1,
+  "scale": 0.6849331060424816,
   "close": true
 }
