@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f8de34f371804c5",
+            "id": "0819cf72eeeaecd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMI/03_LAN - Local Area Network.md",
+                "file": "SISTEMI/05 - Mixed info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d3640e6afac8b102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d74a3008fafbef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SISTEMI/04 - LAN (Local Area Network).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMI/03_LAN - Local Area Network.md",
+                "file": "SISTEMI/05 - Mixed info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMI/03_LAN - Local Area Network.md",
+                "file": "SISTEMI/05 - Mixed info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMI/03_LAN - Local Area Network.md"
+                "file": "SISTEMI/05 - Mixed info.md"
               }
             }
           },
@@ -176,19 +194,21 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "SISTEMI/04 - LAN (Local Area Network).md",
+    "SISTEMI/03 - Accesso multiplo a canali condivisi.md",
+    "SISTEMI/02 - Bit-stuffing e piggybacking.md",
+    "SISTEMI/01 - Enti Normatori.md",
+    "SISTEMI/000 - Riassunto.canvas",
+    "SISTEMI/05 - Mixed info.md",
+    "SISTEMI/PDFs/10.2 - StarndardEthernetDocum.pdf",
     "SISTEMI/PDFs/10.1 - StandardEthernet.pdf",
-    "SISTEMI/02_Accesso multiplo a canali condivisi.md",
-    "SISTEMI/03_LAN - Local Area Network.md",
     "SISTEMI/PDFs/10 - LAN.pdf",
-    "SISTEMI/01_Bit-stuffing e piggybacking.md",
-    "SISTEMI/00_Enti Normatori.md",
     "SISTEMI/PDFs/9 - Accesso multiplo a canali condivisi.pdf",
     "Accesso.md",
     "Excalidraw/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
     "UMANISTICA/INGLESE/The passive form.md",
     "Excalidraw",
     "UMANISTICA/INGLESE/If clauses.md",
-    "Untitled.canvas",
     "Untitled.md",
     "SISTEMI/PDFs/8 - Bit-stuffing and piggybacking.pdf",
     "SISTEMI/PDFs/7 - Enti normatori.pdf",
@@ -199,7 +219,6 @@
     "UMANISTICA/INGLESE/Gentrification.md",
     "UMANISTICA/INGLESE/Futures.md",
     "TELECOMUNICAZIONI/Untitled.md",
-    "SISTEMI/PDFs/10.2 - StarndardEthernetDocum.pdf",
     "SISTEMI/PDFs/10.6 - Switch.pdf",
     "SISTEMI/PDFs/10.3 - StandardEthernetFisico.pdf",
     "SISTEMI/PDFs/10.5 - Fondamentali della comunicazione.pdf",
@@ -211,7 +230,6 @@
     "UMANISTICA/STORIA/Liberismo.md",
     "Excalidraw/Drawing 2023-03-04 08.13.33.excalidraw.md",
     "UMANISTICA/INGLESE/Immigration in 1907.md",
-    "UMANISTICA/INGLESE/Writing essays.md",
-    "Transitive verbs.md"
+    "UMANISTICA/INGLESE/Writing essays.md"
   ]
 }

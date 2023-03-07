@@ -1,6 +1,6 @@
 #sistemi #protocolli #reti #hardware
 
-PDF: [ [[10 - LAN.pdf]] ]
+PDF: \[ [[10 - LAN.pdf]] ]
 
 ---
 
