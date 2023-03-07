@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "51e6a9d9e1c3c821",
+        "id": "f384058911fa0ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "c0191b11ec86bc2d",
+            "id": "9f8de34f371804c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SISTEMI/03_LAN - Local Area Network.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SISTEMI/03_LAN - Local Area Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SISTEMI/03_LAN - Local Area Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SISTEMI/03_LAN - Local Area Network.md"
+              }
             }
           },
           {
@@ -168,41 +176,42 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "SISTEMI/PDFs/10.1 - StandardEthernet.pdf",
+    "SISTEMI/02_Accesso multiplo a canali condivisi.md",
+    "SISTEMI/03_LAN - Local Area Network.md",
+    "SISTEMI/PDFs/10 - LAN.pdf",
+    "SISTEMI/01_Bit-stuffing e piggybacking.md",
+    "SISTEMI/00_Enti Normatori.md",
+    "SISTEMI/PDFs/9 - Accesso multiplo a canali condivisi.pdf",
+    "Accesso.md",
+    "Excalidraw/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
+    "UMANISTICA/INGLESE/The passive form.md",
+    "Excalidraw",
+    "UMANISTICA/INGLESE/If clauses.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "SISTEMI/PDFs/8 - Bit-stuffing and piggybacking.pdf",
+    "SISTEMI/PDFs/7 - Enti normatori.pdf",
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/La nascita del capitalismo.md",
     "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
     "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
-    "UMANISTICA/INGLESE/If clauses.md",
     "UMANISTICA/INGLESE/Gentrification.md",
     "UMANISTICA/INGLESE/Futures.md",
     "TELECOMUNICAZIONI/Untitled.md",
-    "SISTEMI/Enti Normatori.md",
     "SISTEMI/PDFs/10.2 - StarndardEthernetDocum.pdf",
-    "SISTEMI/PDFs/7 - Enti normatori.pdf",
-    "SISTEMI/PDFs/8 - Bit-stuffing and piggybacking.pdf",
-    "SISTEMI/PDFs/10.1 - StandardEthernet.pdf",
     "SISTEMI/PDFs/10.6 - Switch.pdf",
     "SISTEMI/PDFs/10.3 - StandardEthernetFisico.pdf",
     "SISTEMI/PDFs/10.5 - Fondamentali della comunicazione.pdf",
-    "SISTEMI/PDFs/10.4 - 10 GigaBit Ethernet.pdf",
-    "SISTEMI/PDFs/10 - LAN.pdf",
-    "INFORMATICA/Javascript/PDFs/ripasso_javascript.pdf",
     "TDP/Untitled.md",
     "INFORMATICA/Untitled.md",
     "NoteLinux.md",
     "UMANISTICA/INGLESE/Immigration in the U.S.canvas",
     "UMANISTICA/STORIA/La restaurazione.md",
     "UMANISTICA/STORIA/Liberismo.md",
-    "UMANISTICA/INGLESE/The passive form.md",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2023-03-04 08.13.33.excalidraw.md",
     "UMANISTICA/INGLESE/Immigration in 1907.md",
     "UMANISTICA/INGLESE/Writing essays.md",
-    "Transitive verbs.md",
-    "UMANISTICA/STORIA/PDFs/Annotator.md",
-    "UMANISTICA/Correzione testo.md",
-    "Test.md",
-    "SISTEMI/Lo standard LAN.md",
-    "Excalidraw/Drawing 2023-02-14 11.17.43.excalidraw.md"
+    "Transitive verbs.md"
   ]
 }
