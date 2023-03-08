@@ -4,20 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d3b248b043bede",
+        "id": "64246ef02749f855",
         "type": "tabs",
         "children": [
           {
-            "id": "037bd78277a9e0fc",
+            "id": "810063f1d0c5e493",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ee95c393e2bb59b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de91831679fba5f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "SISTEMI/100 - Riassunto.canvas",
+                "file": "SISTEMI/000 - Riassunto.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 915.4259820806208,
+                  "y": -54.19737359086159,
+                  "zoom": -0.9202876244079011
                 }
               }
             }
@@ -51,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#italiano",
+                "query": "tag:#inglese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMI/100 - Riassunto.canvas",
+                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMI/100 - Riassunto.canvas",
+                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMI/100 - Riassunto.canvas"
+                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md"
               }
             }
           },
@@ -158,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,24 +189,26 @@
       "command-palette:Open command palette": true,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "SISTEMI/100.md",
-    "SISTEMI/100 - Riassunto.canvas",
+    "SISTEMI/000 - Riassunto.canvas",
+    "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
+    "NoteLinux.md",
+    "SISTEMI/03 - Accesso multiplo a canali condivisi.md",
+    "SISTEMI/PDFs/9 - Accesso multiplo a canali condivisi.pdf",
     "SISTEMI/05 - Mixed info.md",
     "SISTEMI/04 - LAN (Local Area Network).md",
-    "SISTEMI/03 - Accesso multiplo a canali condivisi.md",
     "SISTEMI/02 - Bit-stuffing e piggybacking.md",
+    "SISTEMI/100 - Riassunto.canvas",
+    "SISTEMI/100.md",
     "SISTEMI/01 - Enti Normatori.md",
-    "SISTEMI/000 - Riassunto.canvas",
     "SISTEMI/PDFs/10.2 - StarndardEthernetDocum.pdf",
     "SISTEMI/PDFs/10.1 - StandardEthernet.pdf",
     "SISTEMI/PDFs/10 - LAN.pdf",
-    "SISTEMI/PDFs/9 - Accesso multiplo a canali condivisi.pdf",
     "Accesso.md",
     "Excalidraw/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
     "UMANISTICA/INGLESE/The passive form.md",
@@ -202,7 +220,6 @@
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/La nascita del capitalismo.md",
     "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
-    "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
     "UMANISTICA/INGLESE/Gentrification.md",
     "UMANISTICA/INGLESE/Futures.md",
     "TELECOMUNICAZIONI/Untitled.md",
@@ -211,7 +228,6 @@
     "SISTEMI/PDFs/10.5 - Fondamentali della comunicazione.pdf",
     "TDP/Untitled.md",
     "INFORMATICA/Untitled.md",
-    "NoteLinux.md",
     "UMANISTICA/INGLESE/Immigration in the U.S.canvas",
     "UMANISTICA/STORIA/La restaurazione.md",
     "UMANISTICA/STORIA/Liberismo.md",

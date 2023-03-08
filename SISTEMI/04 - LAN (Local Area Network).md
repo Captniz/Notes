@@ -5,7 +5,7 @@ PDF: \[ [[10 - LAN.pdf]] ]
 ---
 
 ## La LAN
-**La LAN** è uno **standard** di sistema di comunicazione che permette ad unsieme di nodi di comunicare con alta velocità, basso tasso di errore ma area limitata; è presente a livello 1 e 2.
+**La LAN** è uno **standard** di sistema di comunicazione che permette ad un insieme di nodi di comunicare con alta velocità, basso tasso di errore ma area limitata; è presente a livello 1 e 2.
 
 Caratteristiche:
 1. Supporto per protcolli a canale condiviso.
@@ -104,7 +104,7 @@ Caratteristica principale:
 | Campo       | Dimensione   | Descrizione                  |
 | ----------- | ------------ | ---------------------------- |
 | DSAP   | 1 Byte       | Destination Service Access Point (Punto del lv.3 del destinatario) |
-| Destination | 1 Byte       | Source Service Access Point (Punto del lv.3 del mittente)|
+| SSAP | 1 Byte       | Source Service Access Point (Punto del lv.3 del mittente)|
 | Control      | 1 Byte       | Gestisce conferma e sequenza                 |
 
 

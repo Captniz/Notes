@@ -1,6 +1,6 @@
 #sistemi #protocolli #reti
 
-PDF: [ [[9 - Accesso multiplo a canali condivisi.pdf]] ]
+PDF: \[ [[9 - Accesso multiplo a canali condivisi.pdf]]]
 
 ---
 
