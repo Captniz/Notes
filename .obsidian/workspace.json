@@ -31,9 +31,9 @@
               "state": {
                 "file": "SISTEMI/000 - Riassunto.canvas",
                 "viewState": {
-                  "x": 915.4259820806208,
-                  "y": -54.19737359086159,
-                  "zoom": -0.9202876244079011
+                  "x": 603.5,
+                  "y": 748.4037190721649,
+                  "zoom": -1.1751212330881171
                 }
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
+                "file": "SISTEMI/000 - Riassunto.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
+                "file": "SISTEMI/000 - Riassunto.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md"
+                "file": "SISTEMI/000 - Riassunto.canvas"
               }
             }
           },
@@ -193,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e363790db87bd6e6",
+  "active": "9de91831679fba5f",
   "lastOpenFiles": [
-    "SISTEMI/000 - Riassunto.canvas",
     "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
+    "SISTEMI/000 - Riassunto.canvas",
     "NoteLinux.md",
     "SISTEMI/03 - Accesso multiplo a canali condivisi.md",
     "SISTEMI/PDFs/9 - Accesso multiplo a canali condivisi.pdf",
