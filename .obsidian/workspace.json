@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64246ef02749f855",
+        "id": "b0bdf2e50b96c256",
         "type": "tabs",
         "children": [
           {
-            "id": "810063f1d0c5e493",
+            "id": "bdced9a29f2532bb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9ee95c393e2bb59b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9de91831679fba5f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SISTEMI/000 - Riassunto.canvas",
-                "viewState": {
-                  "x": 603.5,
-                  "y": 748.4037190721649,
-                  "zoom": -1.1751212330881171
-                }
+                "file": "UMANISTICA/ITALIANO/Il bacio e le lìillusioni - Ugo Foscolo.md"
               }
             }
           }
@@ -67,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#inglese",
+                "query": "tag:#protocolli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMI/000 - Riassunto.canvas",
+                "file": "UMANISTICA/ITALIANO/Il bacio e le lìillusioni - Ugo Foscolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMI/000 - Riassunto.canvas",
+                "file": "UMANISTICA/ITALIANO/Il bacio e le lìillusioni - Ugo Foscolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMI/000 - Riassunto.canvas"
+                "file": "UMANISTICA/ITALIANO/Il bacio e le lìillusioni - Ugo Foscolo.md"
               }
             }
           },
@@ -183,55 +162,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "9de91831679fba5f",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
-    "SISTEMI/000 - Riassunto.canvas",
-    "NoteLinux.md",
-    "SISTEMI/03 - Accesso multiplo a canali condivisi.md",
-    "SISTEMI/PDFs/9 - Accesso multiplo a canali condivisi.pdf",
-    "SISTEMI/05 - Mixed info.md",
     "SISTEMI/04 - LAN (Local Area Network).md",
-    "SISTEMI/02 - Bit-stuffing e piggybacking.md",
+    "DISEGNI/04 - LAN (Local Area Network) 2023-03-11 10.20.49.excalidraw.md",
+    "SISTEMI/000 - Riassunto.canvas",
+    "DISEGNI/Drawing 2023-03-11 10.20.23.excalidraw.md",
+    "UMANISTICA/ITALIANO/Il bacio e le lìillusioni - Ugo Foscolo.md",
+    "Excalidraw/Untitled",
+    "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
     "SISTEMI/100 - Riassunto.canvas",
-    "SISTEMI/100.md",
+    "SISTEMI/05 - Mixed info.md",
+    "SISTEMI/03 - Accesso multiplo a canali condivisi.md",
+    "SISTEMI/02 - Bit-stuffing e piggybacking.md",
     "SISTEMI/01 - Enti Normatori.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-03-11 09.23.34.excalidraw.md",
+    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
+    "UMANISTICA/INGLESE/Homework/Essay - Death penalty.md",
+    "UMANISTICA/INGLESE/Writing essays.md",
+    "UMANISTICA/INGLESE/The passive form.md",
+    "UMANISTICA/INGLESE/Homework",
+    "NoteLinux.md",
+    "SISTEMI/PDFs/9 - Accesso multiplo a canali condivisi.pdf",
+    "SISTEMI/100.md",
     "SISTEMI/PDFs/10.2 - StarndardEthernetDocum.pdf",
     "SISTEMI/PDFs/10.1 - StandardEthernet.pdf",
     "SISTEMI/PDFs/10 - LAN.pdf",
     "Accesso.md",
-    "Excalidraw/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
-    "UMANISTICA/INGLESE/The passive form.md",
-    "Excalidraw",
+    "DISEGNI/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
+    "DISEGNI",
     "UMANISTICA/INGLESE/If clauses.md",
-    "Untitled.md",
     "SISTEMI/PDFs/8 - Bit-stuffing and piggybacking.pdf",
     "SISTEMI/PDFs/7 - Enti normatori.pdf",
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/La nascita del capitalismo.md",
-    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
-    "UMANISTICA/INGLESE/Gentrification.md",
+    "UMANISTICA/INGLESE/Homework/Gentrification.md",
     "UMANISTICA/INGLESE/Futures.md",
     "TELECOMUNICAZIONI/Untitled.md",
     "SISTEMI/PDFs/10.6 - Switch.pdf",
-    "SISTEMI/PDFs/10.3 - StandardEthernetFisico.pdf",
-    "SISTEMI/PDFs/10.5 - Fondamentali della comunicazione.pdf",
     "TDP/Untitled.md",
-    "INFORMATICA/Untitled.md",
-    "UMANISTICA/INGLESE/Immigration in the U.S.canvas",
-    "UMANISTICA/STORIA/La restaurazione.md",
-    "UMANISTICA/STORIA/Liberismo.md",
-    "Excalidraw/Drawing 2023-03-04 08.13.33.excalidraw.md",
-    "UMANISTICA/INGLESE/Immigration in 1907.md"
+    "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas"
   ]
 }

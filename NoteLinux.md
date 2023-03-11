@@ -1,4 +1,4 @@
-#extra
+\#extra
 
 |      Package       | Installed | Configured |
 |:------------------:|:---------:|:----------:|

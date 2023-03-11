@@ -1,10 +1,21 @@
 #inglese
 
+---
+## Basic structure
+
+1. Introduction
+	1. Hook
+	2. Background
+	3. Thesis
+2. Body
+	1. Paragraphs ( Arguments )
+3. Conclusion
+
 ## Starting phrases
 - "In my opinion"
 - "I think"
 - "My P.O.V."
-- I believe
+- "I believe"
 
 > + "*Strongly*" to emphasize
 
@@ -27,3 +38,15 @@ To split parapgraphs with different topics or arguments we use indentation.
 - "To sum up"
 - "Finally"
 - "All things considered"
+
+## Language
+- **NO** informal language
+- **NO** first person
+- **NO** contractions
+- **NO** personal expression
+- **NO** addressing the reader directly
+- **NO** emotional
+- **NO** generalization
+- **NO** data without reference
+
+- **YES** passive

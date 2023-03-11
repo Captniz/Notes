@@ -1,4 +1,4 @@
-#sistemi #protocolli #reti
+#sistemi #canaliComunicazione
 
 PDF: \[ [[9 - Accesso multiplo a canali condivisi.pdf]]]
 

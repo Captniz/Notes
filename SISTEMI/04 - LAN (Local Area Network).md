@@ -1,4 +1,4 @@
-#sistemi #protocolli #reti #hardware
+#sistemi #canaliComunicazione 
 
 PDF: \[ [[10 - LAN.pdf]] ]
 

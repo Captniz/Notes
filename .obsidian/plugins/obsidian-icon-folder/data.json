@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPen",
       "SiJavascript",
       "FabJava",
       "FarFilePdf",
-      "SiCplusplus",
-      "FasC"
+      "SiCplusplus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "INFORMATICA/Javascript": "SiJavascript",
   "INFORMATICA/Javascript/PDFs": "FarFilePdf",
   "SISTEMI/PDFs": "FarFilePdf",
-  "TDP/PDFs": "FarFilePdf"
+  "TDP/PDFs": "FarFilePdf",
+  "DISEGNI": "FasPen"
 }
