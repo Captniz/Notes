@@ -1,16 +1,16 @@
-\#extra
+#extra 
 
 |      Package       | Installed | Configured |
 |:------------------:|:---------:|:----------:|
 |      Hyprland      |          |            |
 |      nightab       |          |           |
-|       dunst        |          |            |
+|       dunst        |          |           |
 |    arduino IDE     |          |           |
 |      obsidian      |          |           |
 |       neovim       |          |            |
 |    libreoffice     |          |           |
 |    packetracer     |          |           |
-|        wine        |           |            |
+|        wine        |          |           |
 |      firefox       |          |           |
 |     alacritty      |          |           |
 |       vscode       |          |           |
@@ -18,16 +18,17 @@
 |       nmcli        |          |           |
 | Firacode/nerdFonts |          |           |
 |        eww         |          |            |
-|    pavucontrol     |          |            |
+|    pavucontrol     |          |           |
 |      pipewire      |          |            |
 |       nitch        |          |           |
 |       bpytop       |          |           |
 |    zsh/ohmyzsh     |          |           |
-|     hyprpaper      |          |            |
-|        snap        |          |            |
+|     hyprpaper      |          |           |
+|        snap        |          |           |
 |        yay         |          |           |
 |       ranger       |          |            |
 |        sddm        |          |            |
+|   screenshot sw    |           |            | 
 
 Rofi x control panel (update all, volume, brightness, wifi,connection status, disable connection, icone, https://github.com/cjbassi/awesome-rofi) x Moodle x chatGPT x CVV x Mail x Telegram x Wikipedia x Dizionario italiano e inglese x Mount Drive x Wifi (sudo mount /dev/****PARTITION**** ~/ExternalDriveMount), tastiera onscreen
 
@@ -40,3 +41,4 @@ Backup costanti
 [awesome github](https://github.com/topics/awesome)
 [Unixporn material](https://www.reddit.com/r/unixporn/?f=flair_name%3A%22Material%22)
 [Unixporn](https://www.reddit.com/r/unixporn/)
+[FIXXA TUTTI QUESTI](https://wiki.hyprland.org/FAQ/)

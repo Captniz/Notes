@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#extra",
+      "query": "tag:#matematica",
       "color": {
         "a": 1,
         "rgb": 16274770
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 9281793
       }
+    },
+    {
+      "query": "tag:#extra",
+      "color": {
+        "a": 1,
+        "rgb": 3516284
+      }
     }
   ],
   "collapse-display": false,
@@ -75,5 +82,5 @@
   "linkStrength": 0.755208333333333,
   "linkDistance": 72,
   "scale": 0.8232116523430629,
-  "close": true
+  "close": false
 }

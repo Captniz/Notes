@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"type":"file","file":"SISTEMI/01 - Enti Normatori.md","id":"52716c559e7cfa35","x":-193,"y":-111,"width":400,"height":400},
-		{"type":"file","file":"SISTEMI/02 - Bit-stuffing e piggybacking.md","id":"9d1ea0550266ca57","x":384,"y":-108,"width":400,"height":400},
-		{"type":"file","file":"SISTEMI/05 - Mixed info.md","id":"a0bf655d2e9c3ddf","x":960,"y":-108,"width":400,"height":400},
-		{"type":"file","file":"SISTEMI/04 - LAN (Local Area Network).md","id":"a9e1c48a41f000b8","x":384,"y":1280,"width":400,"height":400},
-		{"type":"file","file":"SISTEMI/03 - Accesso multiplo a canali condivisi.md","id":"cc19e7e9c682b1d7","x":384,"y":480,"width":400,"height":400}
+		{"type":"file","file":"SISTEMI/010 - Enti Normatori.md","id":"52716c559e7cfa35","x":-193,"y":-111,"width":400,"height":400},
+		{"type":"file","file":"SISTEMI/020 - Bit-stuffing e piggybacking.md","id":"9d1ea0550266ca57","x":384,"y":-108,"width":400,"height":400},
+		{"type":"file","file":"SISTEMI/050 - Mixed info.md","id":"a0bf655d2e9c3ddf","x":960,"y":-108,"width":400,"height":400},
+		{"type":"file","file":"SISTEMI/040 - LAN (Local Area Network).md","id":"a9e1c48a41f000b8","x":384,"y":1280,"width":400,"height":400},
+		{"type":"file","file":"SISTEMI/030 - Accesso multiplo a canali condivisi.md","id":"cc19e7e9c682b1d7","x":384,"y":480,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"fd3a12560dbc7609","fromNode":"52716c559e7cfa35","fromSide":"bottom","toNode":"a9e1c48a41f000b8","toSide":"top"},
