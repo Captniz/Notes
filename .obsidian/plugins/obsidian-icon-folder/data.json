@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "Fas3",
+      "Fas2",
       "FarFilePdf",
       "FasCalculator",
-      "IbCalculator",
-      "FasPen",
-      "SiJavascript"
+      "IbCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,9 +37,12 @@
   "INFORMATICA/Java": "FabJava",
   "INFORMATICA/Javascript": "SiJavascript",
   "INFORMATICA/Javascript/PDFs": "FarFilePdf",
-  "SISTEMI/PDFs": "FarFilePdf",
   "TDP/PDFs": "FarFilePdf",
   "DISEGNI": "FasPen",
   "MATEMATICA": "FasCalculator",
-  "MATEMATICA/PDFs": "FarFilePdf"
+  "MATEMATICA/PDFs": "FarFilePdf",
+  "SISTEMI/Livello 2/PDFs": "FarFilePdf",
+  "SISTEMI/Livello 2": "Fas2",
+  "SISTEMI/Livello 3": "Fas3",
+  "SISTEMI/Livello 3/PDFs": "FarFilePdf"
 }

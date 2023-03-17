@@ -36,6 +36,10 @@ Dir per pgm: .local/share/applications
 
 Backup costanti
 
+fai si che la barra EWW si possa nascondere
+
+rnager cheatsheet e implementa img viewer / pdf viewer / etc 
+
 [zsh profile](https://www.reddit.com/r/zsh/comments/fjcd35/theres_no_zprofile_file_in_my_home_directory_in/)
 [hyprland wiki](https://wiki.hyprland.org/)
 [awesome github](https://github.com/topics/awesome)
