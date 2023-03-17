@@ -2,5 +2,10 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "/"
+  "attachmentFolderPath": "/",
+  "spellcheckLanguages": [
+    "en-US",
+    "it"
+  ],
+  "spellcheck": true
 }

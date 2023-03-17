@@ -39,7 +39,7 @@ L'efficienza è compresa tra 0 e 1 ( $0 < E < 1$ ), quindi moltiplicando per 100
 
 ### Protocolli di accesso al canale
 #### Protocolli ad assegnamento prefissato
-**Protocolli che suddividono il canale in sottocanali nel dominio del tempo, frequenza o codice.**
+**Protocolli che suddividono il canale in sotto canali nel dominio del tempo, frequenza o codice.**
 
 Protocolli:
 - **TDMA** | Time Division Multiple Access
@@ -51,7 +51,7 @@ Protocolli:
 >Si suddivide l'asse del tempo in finestre assegnate a un nodo, ogni finestra ha tempo **T**. Tra ogni cambio di finestra è presente un tempo **G** detto di guardia, questo assicura che i bit arrivino tutti al destinatario. 
 
 **Vantaggi**
-󰘍 Si evitano collsioni, **molto democratico**.
+󰘍 Si evitano collisioni, **molto democratico**.
 
 **Svantaggi**
 󰘍 Inefficiente con tanti nodi collegati alla rete.
@@ -61,7 +61,7 @@ Protocolli:
 > Si suddivide l'asse delle frequenze in finestre assegnate a un nodo, ogni finestra ha frequenza. Tra ogni cambio di frequenza è presente un salto detto di guardia, questo assicura che anche sforando la frequenza non si trasmettano ad altri canali. 
 
 **Vantaggi**
-󰘍 Si puo trasmettere quando si vuole.
+󰘍 Si può trasmettere quando si vuole.
 
 **Svantaggi**
 󰘍 Ogni stazione ha a disposizione un numero limitato di frequenze stabilito dal protocollo, che varia in base ai nodi collegati.
@@ -74,7 +74,7 @@ Protocolli:
 󰘍 Minimizzare l'uso di banda e di tempo
 
 #### Protocolli ad assegnamento su domanda 
-**Protocolli con l'obbietttivo di minimizzare lo spreco di banda e tempo nell'assegnare la comunicazione a nodi che non devono trasmettere.**
+**Protocolli con l'obbiettivo di minimizzare lo spreco di banda e tempo nell'assegnare la comunicazione a nodi che non devono trasmettere.**
 Questi protocolli funzionano tramite un messaggio inviato quando un nodo vuole trasmettere, chiamato **messaggio di polling**.
 
 > [!warning]- Polling e Interrupt
@@ -96,10 +96,10 @@ Protocolli:
 **L'autorizzazione a trasmettere viene passata di volta in volta al nodo successivo; questa autorizzazione è sotto forma di codice chiamato token.**
 
 #### Protocolli di accesso casuale al canale
-**Questi protocolli sono segnati con l'assenza di segnalazione per cordinare la comunicazione.**
+**Questi protocolli sono segnati con l'assenza di segnalazione per coordinare la comunicazione.**
 
-Princìpi di base:
-1. Un nodo può trasemttere quando vuole.
+Principi di base:
+1. Un nodo può trasmettere quando vuole.
 2. I protocolli possono aggiungere vincoli extra.
 3. Si deve prevedere le eventuali collisioni
 
@@ -112,7 +112,7 @@ Princìpi di base:
 Protocolli:
 - **Pure ALOHA**
 - **Slotted ALOHA**
-- **CSMA / CD** | Carrier-Sense Multiple Acces / Collision Detection
+- **CSMA / CD** | Carrier-Sense Multiple Access / Collision Detection
 
 ###### Pure ALOHA
 **I nodi trasmettono a piacere, in caso di collisione si eliminano entrambi i pacchetti e entrambi i nodi riprendono la comunicazione dopo un tempo casuale.**
@@ -123,7 +123,7 @@ Protocolli:
 ###### CSMA / CD
 **I nodi prima di trasmettere ascoltano che il canale sia libero** (*Listen* ***before*** *talking*) **e se lo è trasmettono.**
 
-In questo protocollo l'unico modo in cui si potrebbe verificare una collisione è nel caso un nodo non faccia in tempo a leggere il messaggio di un atro nodo a causa del **ritardo del canale**.
+In questo protocollo l'unico modo in cui si potrebbe verificare una collisione è nel caso un nodo non faccia in tempo a leggere il messaggio di un altro nodo a causa del **ritardo del canale**.
 
 Il nodo che rileva una collisione smette di trasmettere e invia il segnale di interruzione sul canale, detto **segnale di jamming**.
 La comunicazione riprende dopo un tempo casuale e si ritenta al massimo 16 volte.

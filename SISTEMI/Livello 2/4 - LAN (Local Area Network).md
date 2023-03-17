@@ -74,21 +74,21 @@ Caratteristiche:
 Caratteristica principale:
 > Si comporta diversamente a seconda del tipo di comunicazione richiesta dal livello superiore.
 
-**LLC1**
+**LLC 1**
 - Non confermato
 - Non connesso
 - No frammentazione
 - No controllo errori
 - No consegna in sequenza
 
-**LLC2**
+**LLC 2**
 - Confermato | **Go Back N** , N->127
 - Connesso
 - Controllo errori
 - Consegna in sequenza
 - No Frammentazione
 
-**LLC3**
+**LLC 3**
 - Confermato | **S&W**
 - Non connesso
 - Controllo errori
@@ -109,18 +109,18 @@ Caratteristica principale:
 
 
 ### IEEE 802.11 - WiFi
-Nato nel **1997** basati sulla frequenza **2.4Ghz**, utilizzata per ragioni legali. La più nuova **5Ghz** è più veloce ma anche più soggetta alle distanze.
+Nato nel **1997** basati sulla frequenza **2.4 Ghz**, utilizzata per ragioni legali. La più nuova **5 Ghz** è più veloce ma anche più soggetta alle distanze.
 
-Una rete WiFI è composta da più dispositivi hardware:
-- **Wirless terminal**
+Una rete WiFi è composta da più dispositivi hardware:
+- **Wireless terminal**
 󰘍 Dispositivi mobili.
 - **Access point** 
-󰘍 Consentono ai **WT** di collegarsi alla rete WiFi; spesso sono anche dei bridge che gestiscono la rete cablata. Più **AP** collegati a una rete cablata formano un **Wirless distribution system.**
+󰘍 Consentono ai **WT** di collegarsi alla rete WiFi; spesso sono anche dei bridge che gestiscono la rete cablata. Più **AP** collegati a una rete cablata formano un **Wireless distribution system.**
 
 #### Problemi del WiFi
-**Ci sono due principali problemi noti dello standard WiFI.**
+**Ci sono due principali problemi noti dello standard WiFi.**
 ###### Problema della stazione nascosta
 >Quando due stazioni stanno comunicando con una terza, ma si trovano fuori dal loro raggio di azione ( **A** -> **B** <- **C** | **C** non vede **A**), trovano il canale libero e iniziano una trasmissione; mandando insieme un messaggio creano una collisione.
 
 ###### Problema della stazione esposta
->Quando due paia di stazioni comunicano tra di loro si ha la possibilità che si interromano le trasmissione poichè una coppia sente il canale dell'altra che è impegnato in una comunicazione e lo scambia per il proprio, impedendo la comunicazione ( **A** -> **B** , **C** -> **D** |  **A** sente la comunicazione in corso di **C**). 
+>Quando due paia di stazioni comunicano tra di loro si ha la possibilità che si interrompa le trasmissione poichè una coppia sente il canale dell'altra che è impegnato in una comunicazione e lo scambia per il proprio, impedendo la comunicazione ( **A** -> **B** , **C** -> **D** |  **A** sente la comunicazione in corso di **C**). 
