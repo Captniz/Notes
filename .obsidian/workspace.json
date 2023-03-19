@@ -4,47 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f8221caca8cb1a",
+        "id": "b0c88b362fb2c23c",
         "type": "tabs",
         "children": [
           {
-            "id": "954af5b12b61feaf",
+            "id": "7052a56a5bdc8d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMI/Livello 3/1 - Livello 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7d2b0bd63d3f79c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "00b8eec2c50cc1e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoteLinux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d7263f88070ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SISTEMI/Livello 2/4 - LAN (Local Area Network).md",
-                "mode": "source",
+                "file": "UMANISTICA/INGLESE/Relative clauses.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoteLinux.md",
+                "file": "UMANISTICA/INGLESE/Relative clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoteLinux.md",
+                "file": "UMANISTICA/INGLESE/Relative clauses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoteLinux.md"
+                "file": "UMANISTICA/INGLESE/Relative clauses.md"
               }
             }
           },
@@ -203,11 +174,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "00b8eec2c50cc1e3",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "UMANISTICA/INGLESE/Relative clauses.md",
+    "NoteLinux.md",
+    "SISTEMI/Livello 3/1 - Livello 3.md",
     "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
     "SISTEMI/Livello 2/4 - LAN (Local Area Network).md",
-    "SISTEMI/Livello 3/1 - Livello 3.md",
     "SISTEMI/Livello 3/PDFs/04 - Indirizzi IP.pdf",
     "SISTEMI/Livello 3/PDFs/05 - IOS e CLI.pdf",
     "SISTEMI/Livello 3/PDFs/02 - Switch e Rounter nelle LAN.pdf",
@@ -221,7 +194,6 @@
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
-    "NoteLinux.md",
     "DISEGNI/Derivate - Es1.md",
     "MATEMATICA/Derivate.md",
     "Introduzione alle derivate.md",

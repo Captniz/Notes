@@ -1,5 +1,7 @@
 #extra 
 
+---
+
 |      Package       | Installed | Configured |
 |:------------------:|:---------:|:----------:|
 |      Hyprland      |          |            |
