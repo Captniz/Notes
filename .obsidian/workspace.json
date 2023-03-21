@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0c88b362fb2c23c",
+        "id": "bdf30312af49d049",
         "type": "tabs",
         "children": [
           {
-            "id": "7052a56a5bdc8d7c",
+            "id": "b47961df470f4dd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/INGLESE/Relative clauses.md",
-                "mode": "preview",
-                "source": false
+                "file": "UMANISTICA/STORIA/Il pensiero socialista.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/INGLESE/Relative clauses.md",
+                "file": "UMANISTICA/STORIA/Il pensiero socialista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/INGLESE/Relative clauses.md",
+                "file": "UMANISTICA/STORIA/Il pensiero socialista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/INGLESE/Relative clauses.md"
+                "file": "UMANISTICA/STORIA/Il pensiero socialista.md"
               }
             }
           },
@@ -168,16 +166,27 @@
       "switcher:Open quick switcher": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "UMANISTICA/INGLESE/Relative clauses.md",
+    "UMANISTICA/STORIA/La nascita del capitalismo.md",
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+    "INFORMATICA/C - C++/PDFs/oliC++04_Ricorsione.pdf",
+    "UMANISTICA/STORIA/Il pensiero socialista.md",
+    "MATEMATICA/Derivate.md",
+    "SISTEMI/Livello 2/5 - Mixed info.md",
+    "MATEMATICA/PDFs/Introduzione alle derivate.pdf",
     "NoteLinux.md",
+    "Untitled.md",
+    "MATEMATICA/PDFs/derivate.pdf",
+    "MATEMATICA/PDFs/Prima esercitazione sulle derivate.pdf",
+    "UMANISTICA/INGLESE/Writing essays.md",
+    "UMANISTICA/INGLESE/Relative clauses.md",
     "SISTEMI/Livello 3/1 - Livello 3.md",
     "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
     "SISTEMI/Livello 2/4 - LAN (Local Area Network).md",
@@ -187,34 +196,23 @@
     "SISTEMI/Livello 3/PDFs/01 - Hub, Bridge e Switch.pdf",
     "SISTEMI/Livello 3/PDFs/03 - Router e indirizzi IP.pdf",
     "SISTEMI/Livello 3/PDFs/05 - IOS e CLI",
-    "SISTEMI/Livello 3/PDFs/04 - Indirizzi IP",
-    "SISTEMI/Livello 3/PDFs/03 - Router e indirizzi IP",
-    "SISTEMI/Livello 3/PDFs/02 - Switch e Rounter nelle LAN",
-    "SISTEMI/Livello 3/PDFs/01 - Hub, Bridge e Switch",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "DISEGNI/Derivate - Es1.md",
-    "MATEMATICA/Derivate.md",
     "Introduzione alle derivate.md",
     "SISTEMI/Livello 2/1 - Enti Normatori.md",
-    "UMANISTICA/STORIA/Il pensiero socialista.md",
     "UMANISTICA/ITALIANO/I sepolcri - Ugo Foscolo.md",
-    "SISTEMI/Livello 2/5 - Mixed info.md",
     "UMANISTICA/ITALIANO/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
     "Untitled.canvas",
     "DISEGNI/Drawing 2023-03-13 11.38.39.excalidraw.md",
     "UMANISTICA/INGLESE/Homework/Essay - Death penalty.md",
-    "UMANISTICA/INGLESE/Writing essays.md",
     "UMANISTICA/INGLESE/The passive form.md",
     "UMANISTICA/INGLESE/If clauses.md",
     "UMANISTICA/INGLESE/Futures.md",
     "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
     "DISEGNI/04 - LAN (Local Area Network) 2023-03-11 10.20.49.excalidraw.md",
     "DISEGNI/Drawing 2023-03-11 10.20.23.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-11 09.23.34.excalidraw.md",
-    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
-    "SISTEMI/100.md",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas"
   ]
 }
