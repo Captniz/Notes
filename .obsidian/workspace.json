@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b47961df470f4dd4",
+            "id": "5bc396b9a5783151",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/STORIA/Il pensiero socialista.md"
+                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Il pensiero socialista.md",
+                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Il pensiero socialista.md",
+                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/Il pensiero socialista.md"
+                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md"
               }
             }
           },
@@ -174,10 +174,11 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "UMANISTICA/STORIA/La nascita del capitalismo.md",
-    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
-    "INFORMATICA/C - C++/PDFs/oliC++04_Ricorsione.pdf",
     "UMANISTICA/STORIA/Il pensiero socialista.md",
+    "UMANISTICA/STORIA/Il rinascimento italiano.md",
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+    "UMANISTICA/STORIA/La nascita del capitalismo.md",
+    "INFORMATICA/C - C++/PDFs/oliC++04_Ricorsione.pdf",
     "MATEMATICA/Derivate.md",
     "SISTEMI/Livello 2/5 - Mixed info.md",
     "MATEMATICA/PDFs/Introduzione alle derivate.pdf",
@@ -212,7 +213,6 @@
     "UMANISTICA/INGLESE/Futures.md",
     "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
     "DISEGNI/04 - LAN (Local Area Network) 2023-03-11 10.20.49.excalidraw.md",
-    "DISEGNI/Drawing 2023-03-11 10.20.23.excalidraw.md",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas"
   ]
 }
