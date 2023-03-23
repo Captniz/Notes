@@ -23,6 +23,7 @@ ${f}'(c) = \lim_{h\rightarrow 0}{\frac{f(c+h)-f(c)}{h}}$
 - $(\cos x)' = -\sin x$
 - $({\tan x})' = \frac{1}{(\cos x)^2}$
 - $(\cot x)' = -\frac{1}{(\sin x)^2}$
+- $({^3\sqrt{x}})' = \frac{1}{3}x^{\frac{1}{3}-1}$
 
 ## Esercitazione
 

@@ -4,16 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf30312af49d049",
+        "id": "a5ebb5dd3d37272b",
         "type": "tabs",
         "children": [
           {
-            "id": "5bc396b9a5783151",
+            "id": "f06e98bbe67a457c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md"
+                "file": "MATEMATICA/Derivate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e39e15907b6a9a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "757f5c79bf04242b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092b20d64f08dd6d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATEMATICA/PDFs/derivate.pdf"
               }
             }
           }
@@ -92,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UMANISTICA/STORIA/Il rinascimento italiano.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,17 +197,20 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "UMANISTICA/STORIA/Il pensiero socialista.md",
+    "MATEMATICA/PDFs/Seconda esercitazione sulle derivate.pdf",
+    "MATEMATICA/Derivate.md",
+    "MATEMATICA/PDFs/derivate.pdf",
+    "UMANISTICA/STORIA/1848.md",
+    "UMANISTICA/STORIA/Untitled.md",
     "UMANISTICA/STORIA/Il rinascimento italiano.md",
+    "UMANISTICA/STORIA/Il pensiero socialista.md",
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/La nascita del capitalismo.md",
     "INFORMATICA/C - C++/PDFs/oliC++04_Ricorsione.pdf",
-    "MATEMATICA/Derivate.md",
     "SISTEMI/Livello 2/5 - Mixed info.md",
     "MATEMATICA/PDFs/Introduzione alle derivate.pdf",
     "NoteLinux.md",
     "Untitled.md",
-    "MATEMATICA/PDFs/derivate.pdf",
     "MATEMATICA/PDFs/Prima esercitazione sulle derivate.pdf",
     "UMANISTICA/INGLESE/Writing essays.md",
     "UMANISTICA/INGLESE/Relative clauses.md",
@@ -196,7 +222,6 @@
     "SISTEMI/Livello 3/PDFs/02 - Switch e Rounter nelle LAN.pdf",
     "SISTEMI/Livello 3/PDFs/01 - Hub, Bridge e Switch.pdf",
     "SISTEMI/Livello 3/PDFs/03 - Router e indirizzi IP.pdf",
-    "SISTEMI/Livello 3/PDFs/05 - IOS e CLI",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
@@ -210,9 +235,6 @@
     "UMANISTICA/INGLESE/Homework/Essay - Death penalty.md",
     "UMANISTICA/INGLESE/The passive form.md",
     "UMANISTICA/INGLESE/If clauses.md",
-    "UMANISTICA/INGLESE/Futures.md",
-    "UMANISTICA/ITALIANO/Alla sera - Ugo Foscolo.md",
-    "DISEGNI/04 - LAN (Local Area Network) 2023-03-11 10.20.49.excalidraw.md",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas"
   ]
 }
