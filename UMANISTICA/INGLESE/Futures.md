@@ -1,8 +1,10 @@
 #inglese
 
+---
+
 ## Future 
 
-- We use the present continuos with future plans that we konw when and where they would happen. 
+- We use the present continuous with future plans that we know when and where they would happen. 
 
 - We use the present simple with timetables and schedules. 
 

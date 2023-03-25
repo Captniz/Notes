@@ -1,5 +1,7 @@
 #inglese 
 
+---
+
 We have 4 types of if clauses. 
 
 - The first one is the zero type, we use this for facts which are generally true or scientific facts. 
