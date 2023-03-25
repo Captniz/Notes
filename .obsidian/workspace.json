@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -173,7 +172,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e363790db87bd6e6",
+  "active": "8231aec6756d4609",
   "lastOpenFiles": [
     "UMANISTICA/STORIA/Il risorgimento.md",
     "UMANISTICA/STORIA/La restaurazione.md",
