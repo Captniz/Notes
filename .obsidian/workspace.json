@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "78c829b7d99f8cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/Ugo Foscolo.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,12 +98,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Ugo Foscolo.md",
+                "file": "UMANISTICA/ITALIANO/Cinque Maggio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Ugo Foscolo.md",
+                "file": "UMANISTICA/ITALIANO/Cinque Maggio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Ugo Foscolo.md"
+                "file": "UMANISTICA/ITALIANO/Cinque Maggio.md"
               }
             }
           },
@@ -211,12 +199,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "78c829b7d99f8cf2",
+  "active": "5ad495ef2f55e8bf",
   "lastOpenFiles": [
+    "UMANISTICA/ITALIANO/Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Cinque Maggio.md",
     "UMANISTICA/ITALIANO/Romanticismo.md",
     "UMANISTICA/ITALIANO/Neoclassicismo.md",
-    "UMANISTICA/ITALIANO/Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Analisi testi/I sepolcri - Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
