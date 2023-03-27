@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFileTextLine",
       "Fas3",
       "Fas2",
       "FarFilePdf",
-      "FasCalculator",
-      "IbCalculator"
+      "FasCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,7 @@
   "SISTEMI/Livello 2/PDFs": "FarFilePdf",
   "SISTEMI/Livello 2": "Fas2",
   "SISTEMI/Livello 3": "Fas3",
-  "SISTEMI/Livello 3/PDFs": "FarFilePdf"
+  "SISTEMI/Livello 3/PDFs": "FarFilePdf",
+  "UMANISTICA/ITALIANO/PDFs": "FarFilePdf",
+  "UMANISTICA/ITALIANO/Analisi testi": "RiFileTextLine"
 }
