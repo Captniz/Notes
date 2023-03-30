@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDiagramProject",
+      "RiGitRepositoryLine",
+      "FasPencil",
       "RiFileTextLine",
-      "Fas3",
-      "Fas2",
-      "FarFilePdf",
-      "FasCalculator"
+      "Fas3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,6 @@
   "UMANISTICA/ITALIANO": "IbText",
   "UMANISTICA/STORIA": "RiHistoryFill",
   "UMANISTICA/STORIA/PDFs": "FarFilePdf",
-  "UMANISTICA/STORIA/PDFs/Annotator.md": "FasPen",
   "INFORMATICA/C - C++": "SiCplusplus",
   "INFORMATICA/C - C++/PDFs": "FarFilePdf",
   "INFORMATICA/Java": "FabJava",
@@ -46,5 +45,7 @@
   "SISTEMI/Livello 3": "Fas3",
   "SISTEMI/Livello 3/PDFs": "FarFilePdf",
   "UMANISTICA/ITALIANO/PDFs": "FarFilePdf",
-  "UMANISTICA/ITALIANO/Analisi testi": "RiFileTextLine"
+  "UMANISTICA/ITALIANO/Analisi testi": "RiFileTextLine",
+  "UMANISTICA/STORIA/Compiti/Annotator template.md": "FasPencil",
+  "INFORMATICA/Teoria": "RiGitRepositoryLine"
 }

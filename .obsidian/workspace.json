@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "be14a8f31623b5e3",
+        "id": "6ba92bf1e89f0005",
         "type": "tabs",
         "children": [
           {
-            "id": "62eac30981427103",
+            "id": "f58d5ff525a674e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/Neoclassicismo.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "241fc73551b7d3d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/Romanticismo.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ad495ef2f55e8bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/Cinque Maggio.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -119,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Neoclassicismo.md",
+                "file": "UMANISTICA/STORIA/I moti del '48.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Neoclassicismo.md",
+                "file": "UMANISTICA/STORIA/I moti del '48.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Neoclassicismo.md"
+                "file": "UMANISTICA/STORIA/I moti del '48.md"
               }
             }
           },
@@ -201,11 +172,28 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "UMANISTICA/STORIA/I moti del '48.md",
+    "NoteLinux.md",
+    "UMANISTICA/STORIA/Compiti/Inizio della prima guerra questionario.md",
+    "UMANISTICA/STORIA/Compiti/Questionario restaurazione.md",
+    "UMANISTICA/STORIA/PDFs/Inizio della prima guerra.pdf",
+    "UMANISTICA/STORIA/Il pensiero socialista.md",
+    "UMANISTICA/STORIA/Il risorgimento.md",
+    "UMANISTICA/STORIA/Il rinascimento italiano.md",
+    "SISTEMI/Livello 3/1 - Livello 3.md",
+    "INFORMATICA/Teoria/Neural Networks.md",
+    "DISEGNI/Drawing 2023-03-29 08.49.59.excalidraw.md",
+    "INFORMATICA/Teoria",
+    "UMANISTICA/STORIA/PDFs/Dibattito risorgimentale e azioni mazziniane.pdf",
+    "UMANISTICA/STORIA/Annotator.md",
+    "UMANISTICA/STORIA/Compiti/Annotator template.md",
+    "UMANISTICA/STORIA/Compiti",
+    "UMANISTICA/STORIA/PDFs/Questionario sul dibattito risorgimentale e sulle azioni dei mazziniani.pdf",
+    "UMANISTICA/ITALIANO/Neoclassicismo.md",
     "UMANISTICA/ITALIANO/Cinque Maggio.md",
     "INFORMATICA/Java/ajfkabi.md",
     "UMANISTICA/ITALIANO/Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Romanticismo.md",
-    "UMANISTICA/ITALIANO/Neoclassicismo.md",
     "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Analisi testi/I sepolcri - Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
@@ -214,29 +202,12 @@
     "SISTEMI/Livello 2/PDFs/7 - Enti normatori.pdf",
     "SISTEMI/Livello 2/1 - Enti Normatori.md",
     "UMANISTICA/ITALIANO/PDFs",
-    "UMANISTICA/STORIA/PDFs/Dibattito risorgimentale e azioni mazziniane.pdf",
     "Dibattito risorgimentale e azioni mazziniane.md",
     "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
     "Questionario sulla Restaurazione.md",
-    "UMANISTICA/STORIA/Il risorgimento.md",
     "UMANISTICA/STORIA/La restaurazione.md",
-    "UMANISTICA/STORIA/Il rinascimento italiano.md",
-    "UMANISTICA/STORIA/I moti del '48.md",
     "UMANISTICA/STORIA/La seconda repubblica francese.md",
     "UMANISTICA/INGLESE/Person's identity.md",
-    "UMANISTICA/INGLESE/If clauses.md",
-    "UMANISTICA/INGLESE/Futures.md",
-    "UMANISTICA/INGLESE/Relative clauses.md",
-    "UMANISTICA/INGLESE/The passive form.md",
-    "UMANISTICA/INGLESE/Writing essays.md",
-    "MATEMATICA/Derivate.md",
-    "MATEMATICA/PDFs/Seconda esercitazione sulle derivate.pdf",
-    "MATEMATICA/PDFs/derivate.pdf",
-    "UMANISTICA/STORIA/Untitled.md",
-    "UMANISTICA/STORIA/Il pensiero socialista.md",
-    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
-    "INFORMATICA/C - C++/PDFs/oliC++04_Ricorsione.pdf",
-    "MATEMATICA/PDFs/Introduzione alle derivate.pdf",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",
