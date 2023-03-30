@@ -11,8 +11,12 @@
             "id": "f58d5ff525a674e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "INFORMATICA/Teoria/Neural networks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/I moti del '48.md",
+                "file": "INFORMATICA/Teoria/Neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/I moti del '48.md",
+                "file": "INFORMATICA/Teoria/Neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/I moti del '48.md"
+                "file": "INFORMATICA/Teoria/Neural networks.md"
               }
             }
           },
@@ -172,8 +176,10 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "INFORMATICA/C - C++/PDFs/oliC++05_ProgrammazioneDinamica.pdf",
+    "INFORMATICA/Java/Swing documentation.md",
+    "INFORMATICA/Teoria/Neural networks.md",
     "UMANISTICA/STORIA/I moti del '48.md",
+    "INFORMATICA/C - C++/PDFs/oliC++05_ProgrammazioneDinamica.pdf",
     "NoteLinux.md",
     "UMANISTICA/STORIA/Compiti/Inizio della prima guerra questionario.md",
     "UMANISTICA/STORIA/Compiti/Questionario restaurazione.md",
@@ -204,10 +210,8 @@
     "SISTEMI/Livello 2/1 - Enti Normatori.md",
     "UMANISTICA/ITALIANO/PDFs",
     "Dibattito risorgimentale e azioni mazziniane.md",
-    "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
     "Questionario sulla Restaurazione.md",
     "UMANISTICA/STORIA/La restaurazione.md",
-    "UMANISTICA/STORIA/La seconda repubblica francese.md",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",
