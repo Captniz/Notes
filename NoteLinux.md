@@ -30,7 +30,8 @@
 |        yay         |          |           |
 |       ranger       |          |            |
 |        sddm        |          |            |
-|   screenshot sw    |           |            | 
+|   screenshot sw    |           |            |
+|      blueman       |           |            | 
 
 Rofi x control panel (update all, volume, brightness, wifi,connection status, disable connection, icone, https://github.com/cjbassi/awesome-rofi) x Moodle x chatGPT x CVV x Mail x Telegram x Wikipedia x Dizionario italiano e inglese x Mount Drive x Wifi (sudo mount /dev/****PARTITION**** ~/ExternalDriveMount), tastiera onscreen
 

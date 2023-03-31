@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFORMATICA/Teoria/Neural networks.md",
+                "file": "Ranger-cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#extra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 290.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFORMATICA/Teoria/Neural networks.md",
+                "file": "Ranger-cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFORMATICA/Teoria/Neural networks.md",
+                "file": "Ranger-cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFORMATICA/Teoria/Neural networks.md"
+                "file": "Ranger-cheatsheet.md"
               }
             }
           },
@@ -176,11 +176,12 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "INFORMATICA/Java/Swing documentation.md",
+    "NoteLinux.md",
+    "Ranger-cheatsheet.md",
     "INFORMATICA/Teoria/Neural networks.md",
+    "INFORMATICA/Java/Swing documentation.md",
     "UMANISTICA/STORIA/I moti del '48.md",
     "INFORMATICA/C - C++/PDFs/oliC++05_ProgrammazioneDinamica.pdf",
-    "NoteLinux.md",
     "UMANISTICA/STORIA/Compiti/Inizio della prima guerra questionario.md",
     "UMANISTICA/STORIA/Compiti/Questionario restaurazione.md",
     "UMANISTICA/STORIA/PDFs/Inizio della prima guerra.pdf",
@@ -211,7 +212,6 @@
     "UMANISTICA/ITALIANO/PDFs",
     "Dibattito risorgimentale e azioni mazziniane.md",
     "Questionario sulla Restaurazione.md",
-    "UMANISTICA/STORIA/La restaurazione.md",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",

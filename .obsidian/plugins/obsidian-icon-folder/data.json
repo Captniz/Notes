@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarFolder",
       "FasDiagramProject",
       "RiGitRepositoryLine",
       "FasPencil",
-      "RiFileTextLine",
-      "Fas3"
+      "RiFileTextLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "UMANISTICA/ITALIANO/PDFs": "FarFilePdf",
   "UMANISTICA/ITALIANO/Analisi testi": "RiFileTextLine",
   "UMANISTICA/STORIA/Compiti/Annotator template.md": "FasPencil",
-  "INFORMATICA/Teoria": "RiGitRepositoryLine"
+  "INFORMATICA/Teoria": "RiGitRepositoryLine",
+  "Ranger-cheatsheet.md": "FarFolder"
 }
