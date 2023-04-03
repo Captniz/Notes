@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba92bf1e89f0005",
+        "id": "d1c301bcc0d741cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f58d5ff525a674e6",
+            "id": "c0edb8d23d2bb5fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ranger-cheatsheet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ranger-cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ranger-cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ranger-cheatsheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,42 +168,42 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "UMANISTICA/STORIA/Annotator.md",
+    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
+    "UMANISTICA/STORIA/Il pensiero socialista.md",
+    "UMANISTICA/STORIA/Il rinascimento italiano.md",
+    "UMANISTICA/STORIA/Il risorgimento.md",
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+    "UMANISTICA/STORIA/La nascita del capitalismo.md",
+    "UMANISTICA/STORIA/La restaurazione.md",
+    "UMANISTICA/STORIA/Liberismo.md",
+    "UMANISTICA/ITALIANO/Cinque Maggio.md",
+    "INFORMATICA/Teoria/PDFs/general - thinklikeaprogrammer.pdf",
+    "INFORMATICA/Teoria/PDFs/fsharp - thebookoffsharp.pdf",
+    "INFORMATICA/Teoria/PDFs/general - secretlifeofprograms.pdf",
+    "INFORMATICA/Teoria/PDFs/general - regularexpressionscookbook2e.pdf",
+    "INFORMATICA/Teoria/PDFs/r - rcookbook2e.pdf",
+    "INFORMATICA/Teoria/PDFs/perl - perl oneliners.pdf",
+    "INFORMATICA/Teoria/PDFs/general - machinelearningwithpythoncookbook.pdf",
+    "INFORMATICA/Teoria/PDFs/general - Linux, the Complete Reference.pdf",
+    "INFORMATICA/Teoria/PDFs/erlang - learnyousomeerlangforgreatgood.pdf",
+    "INFORMATICA/Teoria/PDFs/haskell - learnyouahaskellforgreatgood.pdf",
+    "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
+    "SISTEMI/Livello 3/1 - Livello 3.md",
+    "UMANISTICA/ITALIANO/Leopardi.md",
     "NoteLinux.md",
     "Ranger-cheatsheet.md",
     "INFORMATICA/Teoria/Neural networks.md",
     "INFORMATICA/Java/Swing documentation.md",
     "UMANISTICA/STORIA/I moti del '48.md",
-    "INFORMATICA/C - C++/PDFs/oliC++05_ProgrammazioneDinamica.pdf",
     "UMANISTICA/STORIA/Compiti/Inizio della prima guerra questionario.md",
     "UMANISTICA/STORIA/Compiti/Questionario restaurazione.md",
-    "UMANISTICA/STORIA/PDFs/Inizio della prima guerra.pdf",
-    "UMANISTICA/STORIA/Il pensiero socialista.md",
-    "UMANISTICA/STORIA/Il risorgimento.md",
-    "UMANISTICA/STORIA/Il rinascimento italiano.md",
-    "SISTEMI/Livello 3/1 - Livello 3.md",
     "INFORMATICA/Teoria/Neural Networks.md",
     "DISEGNI/Drawing 2023-03-29 08.49.59.excalidraw.md",
-    "INFORMATICA/Teoria",
-    "UMANISTICA/STORIA/PDFs/Dibattito risorgimentale e azioni mazziniane.pdf",
-    "UMANISTICA/STORIA/Annotator.md",
     "UMANISTICA/STORIA/Compiti/Annotator template.md",
-    "UMANISTICA/STORIA/Compiti",
-    "UMANISTICA/STORIA/PDFs/Questionario sul dibattito risorgimentale e sulle azioni dei mazziniani.pdf",
     "UMANISTICA/ITALIANO/Neoclassicismo.md",
-    "UMANISTICA/ITALIANO/Cinque Maggio.md",
     "INFORMATICA/Java/ajfkabi.md",
     "UMANISTICA/ITALIANO/Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/Romanticismo.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/Analisi testi/I sepolcri - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/Analisi testi",
-    "UMANISTICA/ITALIANO/PDFs/Riassunto Neoclassico - Romanticismo - Ugo Foscolo.pdf",
-    "SISTEMI/Livello 2/PDFs/7 - Enti normatori.pdf",
-    "SISTEMI/Livello 2/1 - Enti Normatori.md",
-    "UMANISTICA/ITALIANO/PDFs",
-    "Dibattito risorgimentale e azioni mazziniane.md",
-    "Questionario sulla Restaurazione.md",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",

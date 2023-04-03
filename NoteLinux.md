@@ -51,3 +51,4 @@ updateall - obsidian - visual studio - repos
 [Unixporn material](https://www.reddit.com/r/unixporn/?f=flair_name%3A%22Material%22)
 [Unixporn](https://www.reddit.com/r/unixporn/)
 [FIXXA TUTTI QUESTI](https://wiki.hyprland.org/FAQ/)
+[Ranger plugins](https://github.com/topics/ranger-plugin)
