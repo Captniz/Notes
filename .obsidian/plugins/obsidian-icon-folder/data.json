@@ -48,5 +48,6 @@
   "UMANISTICA/ITALIANO/Analisi testi": "RiFileTextLine",
   "UMANISTICA/STORIA/Compiti/Annotator template.md": "FasPencil",
   "INFORMATICA/Teoria": "RiGitRepositoryLine",
-  "Ranger-cheatsheet.md": "FarFolder"
+  "Ranger-cheatsheet.md": "FarFolder",
+  "INFORMATICA/Java/PDFs": "FarFilePdf"
 }

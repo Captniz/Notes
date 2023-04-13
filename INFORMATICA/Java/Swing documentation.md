@@ -1,5 +1,7 @@
 #informatica
 
+PDF: \[[[Swing.pdf]]]
+
 ---
 
 # Imports

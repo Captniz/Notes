@@ -1,6 +1,8 @@
 #informatica 
 
-\[[oliC++02_Algoritmi.pdf]]
+PDF: 
+\[[[oliC++02_Algoritmi.pdf]]], 
+\[[[mcJava11_ABSTRACT_INTERFACE.pdf]]]
 
 ---
 
