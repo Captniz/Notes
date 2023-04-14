@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "31ce76425fda2e4d",
+        "id": "a22a27f5ec56f88b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebc4087ba8a32b0",
+            "id": "03186351ad302ba3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Leopardi.md"
+                "file": "NoteLinux.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Leopardi.md",
+                "file": "NoteLinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Leopardi.md",
+                "file": "NoteLinux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Leopardi.md"
+                "file": "NoteLinux.md"
               }
             }
           },
@@ -172,11 +173,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e363790db87bd6e6",
+  "active": "03186351ad302ba3",
   "lastOpenFiles": [
-    "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
-    "UMANISTICA/ITALIANO/Leopardi.md",
+    "MATEMATICA/Derivate.md",
+    "MATEMATICA/PDFs/derivate.pdf",
+    "Ranger-cheatsheet.md",
     "NoteLinux.md",
+    "UMANISTICA/ITALIANO/Leopardi.md",
+    "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
     "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
     "INFORMATICA/Teoria/Multithreading.md",
     "INFORMATICA/Teoria/Neural networks.md",
@@ -205,10 +209,7 @@
     "INFORMATICA/Teoria/PDFs/general - thinklikeaprogrammer.pdf",
     "INFORMATICA/Teoria/PDFs/fsharp - thebookoffsharp.pdf",
     "INFORMATICA/Teoria/PDFs/general - secretlifeofprograms.pdf",
-    "INFORMATICA/Teoria/PDFs/general - regularexpressionscookbook2e.pdf",
-    "INFORMATICA/Teoria/PDFs/r - rcookbook2e.pdf",
     "SISTEMI/Livello 3/1 - Livello 3.md",
-    "Ranger-cheatsheet.md",
     "UMANISTICA/STORIA/Compiti/Inizio della prima guerra questionario.md",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",

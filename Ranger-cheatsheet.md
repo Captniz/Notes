@@ -43,7 +43,6 @@ Shortcut | Description
 `N` | prev match
 `<delete>` | Delete
 
-  
 ## Commands
 Shortcut | Description 
 ---|---
@@ -83,6 +82,3 @@ Shortcut | Description
 `t"<any>` | tag a file with your desired mark
 
 _thx to the comments section for additional shortcuts! post your suggestions there!_
-
-
-
