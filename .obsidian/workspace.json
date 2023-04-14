@@ -11,12 +11,8 @@
             "id": "03186351ad302ba3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoteLinux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoteLinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoteLinux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NoteLinux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,12 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03186351ad302ba3",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "NoteLinux.md",
     "MATEMATICA/Derivate.md",
     "MATEMATICA/PDFs/derivate.pdf",
     "Ranger-cheatsheet.md",
-    "NoteLinux.md",
     "UMANISTICA/ITALIANO/Leopardi.md",
     "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
     "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
