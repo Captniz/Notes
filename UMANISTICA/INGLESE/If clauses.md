@@ -16,14 +16,19 @@ The form of this is with present simple for condition and will or won't + verb f
 
 > EX: <mark style="background: #F85552AA;">"If you study, you will pass the exam". </mark>
 
-- The third is second type, we use this for an hypotetical or unlikely situation and in an unreal or improbable situation now or in the future. 
+- The third is second type, we use this for an hypothetical or unlikely situation and in an unreal or improbable situation now or in the future. 
 
 The form of this is past simple for the condition and "would" + verb for the result. 
 
 > <mark style="background: #F85552AA;">EX: "If I won the lottery, I would travel a lot".</mark> 
 
-- The fourth is third type, we use this for imaginery situation that did not happen. 
+- The fourth is third type, we use this for imaginary situation that did not happen. 
 
 The form of this is past perfect for the condition and "would have" + past participle for the result. 
 
 > <mark style="background: #F85552AA;">EX: "If you had studied, you would have passed the exam"</mark>
+
+- Mixed conditional
+
+Es in italiano, *"Se non fossi andato a letto così tardi oggi non sarei cosi stanco"*
+-> *"If i had gone to bed earlier yesterday i wouldn't be so tired now"*

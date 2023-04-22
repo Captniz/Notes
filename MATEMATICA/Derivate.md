@@ -1,7 +1,7 @@
 #matematica
 
 PDF:
-\[ [[MATEMATICA/Derivate]] ]
+\[ [[Derivate]] ]
 \[[[Introduzione alle derivate.pdf]]]
 \[[[Prima esercitazione sulle derivate.pdf]]]
 

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6411707c3aa8cc2",
+        "id": "5bab6b59dc948c91",
         "type": "tabs",
         "children": [
           {
-            "id": "418ca7f5a8e0ec35",
+            "id": "2dc4bcfed3f13076",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto 1800.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "540f1ce198fcc338",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf"
+                "file": "UMANISTICA/STORIA/Unità d'italia.md"
               }
             }
           }
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto 1800.md",
+                "file": "UMANISTICA/STORIA/Unità d'italia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto 1800.md",
+                "file": "UMANISTICA/STORIA/Unità d'italia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto 1800.md"
+                "file": "UMANISTICA/STORIA/Unità d'italia.md"
               }
             }
           },
@@ -186,41 +174,42 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf",
-    "UMANISTICA/STORIA/Riassunto 1800.md",
-    "DISEGNI/IP.md",
-    "DISEGNI/IP.md",
-    "DISEGNI/Schema albero Java.md",
-    "Untitled.md",
-    "DISEGNI/Ip.md",
-    "UMANISTICA/STORIA/I moti del '48.md",
-    "UMANISTICA/STORIA/Il risorgimento.md",
-    "UMANISTICA/STORIA/Il rinascimento italiano.md",
-    "UMANISTICA/STORIA/Il pensiero socialista.md",
-    "UMANISTICA/INGLESE/Tempi verbali.md",
     "UMANISTICA/STORIA/Untitled.md",
-    "UMANISTICA/STORIA/La restaurazione.md",
-    "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
-    "SISTEMI/Livello 2/PDFs/TCP-IP.pdf",
-    "NoteLinux.md",
-    "MATEMATICA/Derivate.md",
+    "UMANISTICA/STORIA/Unità d'italia.md",
+    "UMANISTICA/STORIA/I moti del '48.md",
+    "UMANISTICA/INGLESE/The passive form.md",
+    "UMANISTICA/INGLESE/If clauses.md",
+    "DISEGNI/Ottimizzazione.md",
     "MATEMATICA/PDFs/derivate.pdf",
+    "MATEMATICA/Derivate.md",
+    "DISEGNI/Derivate - Es1.md",
+    "UMANISTICA/STORIA/Riassunto 1800.md",
     "Ranger-cheatsheet.md",
-    "UMANISTICA/ITALIANO/Leopardi.md",
-    "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
-    "INFORMATICA/Teoria/Multithreading.md",
-    "INFORMATICA/Teoria/Neural networks.md",
     "INFORMATICA/Java/Multithreading in Java.md",
     "INFORMATICA/Java/Swing documentation.md",
+    "INFORMATICA/Teoria/Multithreading.md",
+    "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
+    "INFORMATICA/Teoria/Neural networks.md",
+    "TDP/PDFs/00_OOP.pdf",
+    "UMANISTICA/INGLESE/Tempi verbali.md",
+    "UMANISTICA/INGLESE/Person's identity.md",
+    "UMANISTICA/INGLESE/Relative clauses.md",
+    "UMANISTICA/INGLESE/Writing essays.md",
+    "UMANISTICA/INGLESE/Futures.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/L'infinito.md",
+    "UMANISTICA/ITALIANO/Leopardi.md",
+    "UMANISTICA/ITALIANO/Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/Cinque Maggio.md",
+    "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
+    "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf",
+    "SISTEMI/Livello 3/PDFs/07 - ARP.pdf",
+    "SISTEMI/Livello 3/PDFs/06 - LVL3.pdf",
+    "SISTEMI/Livello 4",
+    "SISTEMI/Livello 2/PDFs/TCP-IP.pdf",
+    "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
     "INFORMATICA/Java/PDFs/Swing.pdf",
-    "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
-    "INFORMATICA/Java/PDFs",
-    "INFORMATICA/Java/PDFs/Multithreading Java.pdf",
-    "DISEGNI/Multithreading in Java - Schema.md",
-    "TELECOMUNICAZIONI/Untitled.md",
-    "INFORMATICA/C - C++/PDFs/oliC++05_ProgrammazioneDinamica.pdf",
-    "INFORMATICA/C - C++/PDFs/mcJava14_ADT.pdf",
-    "INFORMATICA/Teoria/PDFs/general - thinklikeaprogrammer.pdf",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",

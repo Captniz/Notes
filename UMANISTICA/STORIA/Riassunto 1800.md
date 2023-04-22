@@ -29,8 +29,8 @@ Lo _spettro_ e' il pensiero comunista che non si e' ancora ben formato.
 
 L'obbiettivo del Manifesto e' provare che l'esistenza e le idee comuniste sono forti e attive.
 
-> _L’epoca nostra, l’epoca della borghesia, si disingue tuttavia perché ha semplificato i contrasti fra le classi. La società intera si va sempre più scindendo in due grandi campi
-> nemici, in due grandi classi direttamente opposte l’una all’altra: borghesia e proletariato._  
+> _L’epoca nostra, l’epoca della borghesia, si distingue tuttavia perché ha semplificato i contrasti fra le classi. La società intera si va sempre più scindendo in due grandi campi
+> nemici, in due grandi classi direttamente opposte l’una all'alta: borghesia e proletariato._  
 >  <br> _Proletari di tutti i Paesi, unitevi!_
 
 Marx chiama all' azione tutti i proletari per unirsi in un unica forza.
@@ -135,7 +135,7 @@ Serviva coinvolgere tutti i ceti apertamente nella costruzione dello *Stato Nazi
 - Viaggiatore
 - Politico
 	- 1o ministro
-	- Regno dell'alta italia
+	- Regno dell'alta italia -> Regno di Sardegna + Lombardo-Veneto
 - Guerra in Crimea
 	- Aiuta i francesi contro i russi -> Vittoria
 	- Si siede al tavolo delle trattative come pari degli altri
