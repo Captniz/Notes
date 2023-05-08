@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b153509752aa9504",
+        "id": "3116f086ec4d39a7",
         "type": "tabs",
         "children": [
           {
-            "id": "aafec1dac08e9e29",
+            "id": "d2b4acd753eebee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "100ea54a0661363f",
+            "id": "e4c4a4d20d8553b3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#informatica",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,16 +189,17 @@
   },
   "active": "e363790db87bd6e6",
   "lastOpenFiles": [
-    "DISEGNI/Ottimizzazione.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
+    "UMANISTICA/ITALIANO/PDFs/7. Dialogo della Natura e di un Islandese.pdf",
+    "UMANISTICA/STORIA/Unità d'italia.md",
     "DISEGNI/Schema albero Java.md",
+    "DISEGNI/Ottimizzazione.md",
     "DISEGNI/Multithreading in Java - Schema.md",
     "DISEGNI/Derivate - Es1.md",
     "DISEGNI/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
     "Ranger-cheatsheet.md",
     "NoteLinux.md",
-    "UMANISTICA/STORIA/Unità d'italia.md",
     "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
     "UMANISTICA/STORIA/Untitled.md",
     "UMANISTICA/STORIA/I moti del '48.md",
     "UMANISTICA/INGLESE/The passive form.md",
@@ -216,7 +217,6 @@
     "UMANISTICA/INGLESE/Person's identity.md",
     "UMANISTICA/INGLESE/Relative clauses.md",
     "UMANISTICA/INGLESE/Writing essays.md",
-    "UMANISTICA/INGLESE/Futures.md",
     "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
     "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf",
     "SISTEMI/Livello 3/PDFs/07 - ARP.pdf",
@@ -224,7 +224,6 @@
     "SISTEMI/Livello 4",
     "SISTEMI/Livello 2/PDFs/TCP-IP.pdf",
     "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
-    "INFORMATICA/Java/PDFs/Swing.pdf",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",
