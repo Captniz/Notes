@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "100ea54a0661363f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +81,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "071d94b117d4e018",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,14 +187,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aafec1dac08e9e29",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "DISEGNI/Ottimizzazione.md",
+    "DISEGNI/Schema albero Java.md",
+    "DISEGNI/Multithreading in Java - Schema.md",
+    "DISEGNI/Derivate - Es1.md",
+    "DISEGNI/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
+    "Ranger-cheatsheet.md",
+    "NoteLinux.md",
+    "UMANISTICA/STORIA/Unità d'italia.md",
     "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
     "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
-    "DISEGNI/Ottimizzazione.md",
-    "DISEGNI/Derivate - Es1.md",
-    "DISEGNI/Schema albero Java.md",
-    "UMANISTICA/STORIA/Unità d'italia.md",
     "UMANISTICA/STORIA/Untitled.md",
     "UMANISTICA/STORIA/I moti del '48.md",
     "UMANISTICA/INGLESE/The passive form.md",
@@ -188,7 +206,6 @@
     "MATEMATICA/PDFs/derivate.pdf",
     "MATEMATICA/Derivate.md",
     "UMANISTICA/STORIA/Riassunto 1800.md",
-    "Ranger-cheatsheet.md",
     "INFORMATICA/Java/Multithreading in Java.md",
     "INFORMATICA/Java/Swing documentation.md",
     "INFORMATICA/Teoria/Multithreading.md",
@@ -200,9 +217,6 @@
     "UMANISTICA/INGLESE/Relative clauses.md",
     "UMANISTICA/INGLESE/Writing essays.md",
     "UMANISTICA/INGLESE/Futures.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/L'infinito.md",
     "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
     "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf",
     "SISTEMI/Livello 3/PDFs/07 - ARP.pdf",
