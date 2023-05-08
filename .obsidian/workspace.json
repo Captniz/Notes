@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,12 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -111,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md"
+              }
             }
           },
           {
@@ -187,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e363790db87bd6e6",
+  "active": "d2b4acd753eebee2",
   "lastOpenFiles": [
     "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
     "UMANISTICA/ITALIANO/PDFs/7. Dialogo della Natura e di un Islandese.pdf",
