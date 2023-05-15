@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3116f086ec4d39a7",
+        "id": "78260af65e15533e",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b4acd753eebee2",
+            "id": "4f192cf8bb076fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e4c4a4d20d8553b3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -46,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md"
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md"
               }
             }
           },
@@ -185,21 +177,41 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "d2b4acd753eebee2",
+  "active": "4f192cf8bb076fa9",
   "lastOpenFiles": [
+    "TELECOMUNICAZIONI/PDFs/10 Banda ISM.pdf",
+    "TELECOMUNICAZIONI/PDFs/9 Bluetooth 2.pdf",
+    "TELECOMUNICAZIONI/Onde e comunicazione.md",
+    "TELECOMUNICAZIONI/PDFs/8 Bluetooth 1.pdf",
+    "EMBED/Pasted image 20230515185148.png",
+    "TELECOMUNICAZIONI/PDFs/7 Conversione A-D.pdf",
+    "EMBED/Pasted image 20230515182415.png",
+    "EMBED/Pasted image 20230515181705.png",
+    "TELECOMUNICAZIONI/PDFs/6 Tipi di Multiplazione di segnale.pdf",
+    "EMBED/Pasted image 20230515181331.png",
+    "EMBED/Pasted image 20230515181226.png",
+    "EMBED/Pasted image 20230515181211.png",
+    "EMBED/Pasted image 20230515181144.png",
+    "EMBED/Pasted image 20230515181058.png",
+    "EMBED/Pasted image 20230515181024.png",
+    "EMBED/Pasted image 20230515180958.png",
+    "TELECOMUNICAZIONI/PDFs/5 Tecniche di trasmissione Analogiche e Digitali.pdf",
+    "TELECOMUNICAZIONI/PDFs/3 Onde EM e Fotoni.pdf",
+    "TELECOMUNICAZIONI/PDFs/4 Mappa - Segnali e modulazioni.pdf",
+    "TELECOMUNICAZIONI/PDFs/2 Effetto fotoelettrico.pdf",
+    "TELECOMUNICAZIONI/PDFs/1 Fenomeni ondulatori onde.pdf",
     "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
-    "UMANISTICA/ITALIANO/PDFs/7. Dialogo della Natura e di un Islandese.pdf",
     "UMANISTICA/STORIA/Unità d'italia.md",
-    "DISEGNI/Schema albero Java.md",
-    "DISEGNI/Ottimizzazione.md",
-    "DISEGNI/Multithreading in Java - Schema.md",
-    "DISEGNI/Derivate - Es1.md",
-    "DISEGNI/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
+    "EMBED/Schema albero Java.md",
+    "EMBED/Ottimizzazione.md",
+    "EMBED/Multithreading in Java - Schema.md",
+    "EMBED/Derivate - Es1.md",
+    "EMBED/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
     "Ranger-cheatsheet.md",
     "NoteLinux.md",
     "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
@@ -207,7 +219,6 @@
     "UMANISTICA/STORIA/I moti del '48.md",
     "UMANISTICA/INGLESE/The passive form.md",
     "UMANISTICA/INGLESE/If clauses.md",
-    "MATEMATICA/PDFs/derivate.pdf",
     "MATEMATICA/Derivate.md",
     "UMANISTICA/STORIA/Riassunto 1800.md",
     "INFORMATICA/Java/Multithreading in Java.md",
@@ -215,18 +226,9 @@
     "INFORMATICA/Teoria/Multithreading.md",
     "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
     "INFORMATICA/Teoria/Neural networks.md",
-    "TDP/PDFs/00_OOP.pdf",
     "UMANISTICA/INGLESE/Tempi verbali.md",
     "UMANISTICA/INGLESE/Person's identity.md",
     "UMANISTICA/INGLESE/Relative clauses.md",
-    "UMANISTICA/INGLESE/Writing essays.md",
-    "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
-    "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf",
-    "SISTEMI/Livello 3/PDFs/07 - ARP.pdf",
-    "SISTEMI/Livello 3/PDFs/06 - LVL3.pdf",
-    "SISTEMI/Livello 4",
-    "SISTEMI/Livello 2/PDFs/TCP-IP.pdf",
-    "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",

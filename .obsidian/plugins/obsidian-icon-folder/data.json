@@ -37,7 +37,6 @@
   "INFORMATICA/Javascript": "SiJavascript",
   "INFORMATICA/Javascript/PDFs": "FarFilePdf",
   "TDP/PDFs": "FarFilePdf",
-  "DISEGNI": "FasPen",
   "MATEMATICA": "FasCalculator",
   "MATEMATICA/PDFs": "FarFilePdf",
   "SISTEMI/Livello 2/PDFs": "FarFilePdf",
@@ -50,5 +49,7 @@
   "INFORMATICA/Teoria": "RiGitRepositoryLine",
   "Ranger-cheatsheet.md": "FarFolder",
   "INFORMATICA/Java/PDFs": "FarFilePdf",
-  "SISTEMI/Livello 4": "Fas4"
+  "SISTEMI/Livello 4": "Fas4",
+  "TELECOMUNICAZIONI/PDFs": "FarFilePdf",
+  "EMBED": "FasPen"
 }
