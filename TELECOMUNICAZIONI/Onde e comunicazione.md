@@ -220,9 +220,9 @@ I segnali al suo interno subiscono **distorsioni e attenuazioni e vengono altera
 
 # Conversione analogico-digitale
 
-**Campionamento** ->
-**Quantizzazione** ->
-**Codifica** ->
+**Campionamento** -> Prendere un valore del segnale analogico ogni tot
+**Quantizzazione** -> Assegnare un quanto una variazione del segnale
+**Codifica** -> Assegnazione di ogni quanto a un valore binario
 **Teorema di Shannon** ->Se $fs$ è la frequenza di campionamento del **modulo S/H** ed $f_{max}$ è la frequenza massima del segnale da campionare, **il segnale in questione può essere ricostruito se è soddisfatta la condizione:**
 $$f_{s}\ge 2f_{max}$$
 

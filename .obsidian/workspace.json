@@ -81,12 +81,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -182,11 +182,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f192cf8bb076fa9",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
+    "TELECOMUNICAZIONI/PDFs/4 Mappa - Segnali e modulazioni.pdf",
+    "TELECOMUNICAZIONI/PDFs/3 Onde EM e Fotoni.pdf",
+    "TELECOMUNICAZIONI/Onde e comunicazione.md",
     "TELECOMUNICAZIONI/PDFs/10 Banda ISM.pdf",
     "TELECOMUNICAZIONI/PDFs/9 Bluetooth 2.pdf",
-    "TELECOMUNICAZIONI/Onde e comunicazione.md",
     "TELECOMUNICAZIONI/PDFs/8 Bluetooth 1.pdf",
     "EMBED/Pasted image 20230515185148.png",
     "TELECOMUNICAZIONI/PDFs/7 Conversione A-D.pdf",
@@ -201,8 +203,6 @@
     "EMBED/Pasted image 20230515181024.png",
     "EMBED/Pasted image 20230515180958.png",
     "TELECOMUNICAZIONI/PDFs/5 Tecniche di trasmissione Analogiche e Digitali.pdf",
-    "TELECOMUNICAZIONI/PDFs/3 Onde EM e Fotoni.pdf",
-    "TELECOMUNICAZIONI/PDFs/4 Mappa - Segnali e modulazioni.pdf",
     "TELECOMUNICAZIONI/PDFs/2 Effetto fotoelettrico.pdf",
     "TELECOMUNICAZIONI/PDFs/1 Fenomeni ondulatori onde.pdf",
     "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
