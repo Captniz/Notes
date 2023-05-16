@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c54853b123aa29",
+        "id": "48beafbfb114f601",
         "type": "tabs",
         "children": [
           {
-            "id": "727c262e8db21e56",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0499d7dca5ce1cff",
+            "id": "97316296adb9ec36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md"
               }
             }
           }
@@ -150,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0499d7dca5ce1cff",
+  "active": "97316296adb9ec36",
   "lastOpenFiles": [
+    "TELECOMUNICAZIONI/Onde elettromagnetiche, Standard di comunicazione e Tecniche di trasmissione.md",
+    "TELECOMUNICAZIONI/Onde e comunicazione.md",
+    "NoteLinux.md",
     "conflict-files-obsidian-git.md"
   ]
 }
