@@ -5,13 +5,7 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "Fas4",
-      "FarFilePdf",
-      "FarFolder",
-      "FasDiagramProject",
-      "RiGitRepositoryLine"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -21,36 +15,5 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  },
-  "INFORMATICA": "FarFloppyDisk",
-  "SISTEMI": "IbConnectivity",
-  "TDP": "FarMap",
-  "TELECOMUNICAZIONI": "FasSatelliteDish",
-  "NoteLinux.md": "SiLinux",
-  "UMANISTICA": "FasBook",
-  "UMANISTICA/INGLESE": "FasLanguage",
-  "UMANISTICA/ITALIANO": "IbText",
-  "UMANISTICA/STORIA": "RiHistoryFill",
-  "UMANISTICA/STORIA/PDFs": "FarFilePdf",
-  "INFORMATICA/C - C++": "SiCplusplus",
-  "INFORMATICA/C - C++/PDFs": "FarFilePdf",
-  "INFORMATICA/Java": "FabJava",
-  "INFORMATICA/Javascript": "SiJavascript",
-  "INFORMATICA/Javascript/PDFs": "FarFilePdf",
-  "TDP/PDFs": "FarFilePdf",
-  "DISEGNI": "FasPen",
-  "MATEMATICA": "FasCalculator",
-  "MATEMATICA/PDFs": "FarFilePdf",
-  "SISTEMI/Livello 2/PDFs": "FarFilePdf",
-  "SISTEMI/Livello 2": "Fas2",
-  "SISTEMI/Livello 3": "Fas3",
-  "SISTEMI/Livello 3/PDFs": "FarFilePdf",
-  "UMANISTICA/ITALIANO/PDFs": "FarFilePdf",
-  "UMANISTICA/ITALIANO/Analisi testi": "RiFileTextLine",
-  "UMANISTICA/STORIA/Compiti/Annotator template.md": "FasPencil",
-  "INFORMATICA/Teoria": "RiGitRepositoryLine",
-  "Ranger-cheatsheet.md": "FarFolder",
-  "INFORMATICA/Java/PDFs": "FarFilePdf",
-  "SISTEMI/Livello 4": "Fas4",
-  "SISTEMI/Livello 4/PDFs": "FarFilePdf"
+  }
 }
