@@ -1,31 +1,53 @@
 #sistemi #livelloTre
 
-PDF: \[ [[]] ]
+PDFs:
+\[ [[06 - LVL3.pdf]]]
+\[[[07 - ARP.pdf]]]
 
 ---
+## Il protocollo IP ( Internet Protocol )
+Il protocollo IP ha il suo proprio sistema di indirizzamento ed è indipendente dal livello 1 e 2.
 
-## Utilizzo del Livello 3
-Le reti a computazione di pacchetto si basano sul **protocollo IP**, posizionato sul livello 3.; il protocollo IP introduce anche il suo sistema di indirizzamento. 
+**Ci sono due tipi di IP:**
 
-Ci sono **due versioni** del protocollo IP:
-- **IPV4**
-	󰘍 **4 Byte** di dato per l'indirizzo.
-- **IPV6**
-	󰘍 **6 Byte** di dato per l'indirizzo (Meno utilizzato ma necessario a causa del fatto che l' IPV4 non fornisce abbastanza IP per tutti).
+| IPV4                      | IPV6                                                 |
+| ------------------------- | ---------------------------------------------------- |
+| IP attualmente utilizzato | Futuro sostituto dell IPV4 grazie alla sua lunghezza |
 
+### IPV4
 
-ES TEMP
-Si vuole inviare un pacchetto di  9000 byte con protocollo IPV4.
-La dimensione massima del payload è 3000 byte.
+**Caratteristiche dell' IPV4**
+- Non confermato
+- Incapsulamento
+- Frammentazione
+- *NO* Controllo di flusso
+- *NO* Consegna in sequenza
+- *NO* Controllo errori
+- Connection-less
 
-- Flag
-- Identification (10:1234)
-- Fragment offset
-- Total length
+Prevede **4 byte** per indirizzo che può essere di tre tipologie:
+- **Unicast:** Un solo destinatario
+- **Multicast:** Un gruppo di destinatari
+- **Broadcast:** Tutti i destinatari
 
-| 3000  | 3000  | 3000  |
-| ---- | ---- | ---- |
-| 001  | 001  | 000  | 
-| 1234 | 1234 | 1234 |
-| 0    | 375  | 750  |
-| 3020 | 3020 | 3020 |
+Un IP è diviso in due parti **<mark style="background: #F57D26AA;">Network address</mark> e <mark style="background: #8DA101AA;">Host address</mark>**; entrambe sono variabili. Per determinarne la lunghezza si usa la **Subnet mask**.
+
+| Tipo di IP | Byte Network Address | Byte Host Address | Subnet Mask   |
+| ---------- | -------------------- | ----------------- | ------------- |
+| A          | 1                    | 3                 | 255.0.0.0     |
+| B          | 2                    | 2                 | 255.255.0.0   |
+| C          | 3                    | 1                 | 255.255.255.0 |
+
+La **Subnet Mask** rappresenta con numeri decimali i byte, tutti i numeri a uno sono utilizzati dal Network Address.
+
+>**Es.** 
+>IP di tipo C
+>
+> IP:            192.168.0.0  -> xxxxxxxx.xxxxxxxx.xxxxxxxx.( Host address )
+> SUBNET: 255.255.0.0 -> 11111111.11111111.11111111.00000000
+
+> [!warning]- Tabelle di routing
+> Schemi che dicono al router dove inviare un pacchetto rispetto all'IP del destinatario del pacchetto.
+>
+> Associano una **rete di destinazione e la sua maschera al prossimo router** a cui inviare il pacchetto per raggiungere la destinazione.
+

@@ -19,7 +19,8 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false
   },
   "INFORMATICA": "FarFloppyDisk",
   "SISTEMI": "IbConnectivity",
@@ -50,5 +51,6 @@
   "INFORMATICA/Teoria": "RiGitRepositoryLine",
   "Ranger-cheatsheet.md": "FarFolder",
   "INFORMATICA/Java/PDFs": "FarFilePdf",
-  "SISTEMI/Livello 4": "Fas4"
+  "SISTEMI/Livello 4": "Fas4",
+  "SISTEMI/Livello 4/PDFs": "FarFilePdf"
 }

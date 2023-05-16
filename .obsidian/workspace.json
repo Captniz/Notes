@@ -4,30 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "3116f086ec4d39a7",
+        "id": "94e40e3b01d4f2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b4acd753eebee2",
+            "id": "7a4a729f6b09f0db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
-                "mode": "source",
-                "source": false
+                "file": "UMANISTICA/STORIA/Unità d'italia.md"
               }
             }
           },
           {
-            "id": "e4c4a4d20d8553b3",
+            "id": "03871e91ec5ac364",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UMANISTICA/STORIA/Dopo l'unità.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
+                "file": "UMANISTICA/STORIA/Dopo l'unità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
+                "file": "UMANISTICA/STORIA/Dopo l'unità.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md"
+                "file": "UMANISTICA/STORIA/Dopo l'unità.md"
               }
             }
           },
@@ -190,20 +193,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2b4acd753eebee2",
+  "active": "03871e91ec5ac364",
   "lastOpenFiles": [
-    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
-    "UMANISTICA/ITALIANO/PDFs/7. Dialogo della Natura e di un Islandese.pdf",
     "UMANISTICA/STORIA/Unità d'italia.md",
+    "UMANISTICA/STORIA/Dopo l'unità.md",
+    "TELECOMUNICAZIONI/Onde elettromagnetiche, Standard di comunicazione e Tecniche di trasmissione.md",
+    "NoteLinux.md",
+    "SISTEMI/Livello 3/PDFs/06 - LVL3.pdf",
+    "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
+    "SISTEMI/Livello 3/1 - Livello 3.md",
+    "SISTEMI/Livello 3/PDFs/04 - Indirizzi IP.pdf",
+    "SISTEMI/Livello 3/0 - Riassunto.canvas",
+    "SISTEMI/Livello 4/PDFs/TCP.pdf",
+    "SISTEMI/Livello 4/PDFs/UDP.pdf",
+    "SISTEMI/Livello 4/PDFs/LVL4.pdf",
+    "SISTEMI/Livello 4/PDFs",
+    "SISTEMI/Livello 3/PDFs/07 - ARP.pdf",
+    "UMANISTICA/ITALIANO/Analisi testi/La ginestras - Giacomo Leopardi.md",
+    "TDP/Sezioni critiche.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
+    "UMANISTICA/ITALIANO/PDFs/7. Dialogo della Natura e di un Islandese.pdf",
     "DISEGNI/Schema albero Java.md",
     "DISEGNI/Ottimizzazione.md",
     "DISEGNI/Multithreading in Java - Schema.md",
     "DISEGNI/Derivate - Es1.md",
     "DISEGNI/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
     "Ranger-cheatsheet.md",
-    "NoteLinux.md",
-    "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
-    "UMANISTICA/STORIA/Untitled.md",
+    "UMANISTICA/STORIA/Dopo l'unità.md",
     "UMANISTICA/STORIA/I moti del '48.md",
     "UMANISTICA/INGLESE/The passive form.md",
     "UMANISTICA/INGLESE/If clauses.md",
@@ -216,18 +232,6 @@
     "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
     "INFORMATICA/Teoria/Neural networks.md",
     "TDP/PDFs/00_OOP.pdf",
-    "UMANISTICA/INGLESE/Tempi verbali.md",
-    "UMANISTICA/INGLESE/Person's identity.md",
-    "UMANISTICA/INGLESE/Relative clauses.md",
-    "UMANISTICA/INGLESE/Writing essays.md",
-    "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
-    "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf",
-    "SISTEMI/Livello 3/PDFs/07 - ARP.pdf",
-    "SISTEMI/Livello 3/PDFs/06 - LVL3.pdf",
-    "SISTEMI/Livello 4",
-    "SISTEMI/Livello 2/PDFs/TCP-IP.pdf",
-    "INFORMATICA/C - C++/PDFs/oliC++06_Grafi.pdf",
-    "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas"
