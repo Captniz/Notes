@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f192cf8bb076fa9",
+            "id": "1d96bc64e20ccb23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TELECOMUNICAZIONI/Onde e comunicazione.md",
+                "file": "UMANISTICA/STORIA/Dopo l'unità.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c9d767c010c63bc",
+            "id": "e883324160efa13e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -29,8 +29,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "17d0c9209493eabd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd54f4785a75bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Unità d'italia.md",
+                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Unità d'italia.md",
+                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/Unità d'italia.md"
+                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md"
               }
             }
           },
@@ -173,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,9 +210,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8c9d767c010c63bc",
+  "active": "e363790db87bd6e6",
   "lastOpenFiles": [
     "UMANISTICA/STORIA/Dopo l'unità.md",
+    "UMANISTICA/STORIA/Unità d'italia.md",
+    "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+    "UMANISTICA/STORIA/Riassunto 1800.md",
+    "UMANISTICA/STORIA/I moti del '48.md",
+    "UMANISTICA/STORIA/Il risorgimento.md",
     "UMANISTICA/ITALIANO/Analisi testi/La ginestras - Giacomo Leopardi.md",
     "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
     "TDP/Sezioni critiche.md",
@@ -203,10 +226,7 @@
     "SISTEMI/Livello 4/PDFs/LVL4.pdf",
     "SISTEMI/Livello 4/PDFs",
     "SISTEMI/Livello 4",
-    "UMANISTICA/STORIA/Il risorgimento.md",
     "UMANISTICA/STORIA/Il pensiero socialista.md",
-    "UMANISTICA/STORIA/Riassunto 1800.md",
-    "UMANISTICA/STORIA/Unità d'italia.md",
     "TELECOMUNICAZIONI/PDFs/4 Mappa - Segnali e modulazioni.pdf",
     "TELECOMUNICAZIONI/PDFs/3 Onde EM e Fotoni.pdf",
     "TELECOMUNICAZIONI/Onde e comunicazione.md",
@@ -232,8 +252,6 @@
     "Ranger-cheatsheet.md",
     "NoteLinux.md",
     "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
-    "UMANISTICA/STORIA/Untitled.md",
-    "UMANISTICA/STORIA/I moti del '48.md",
     "UMANISTICA/INGLESE/The passive form.md",
     "UMANISTICA/INGLESE/If clauses.md",
     "MATEMATICA/Derivate.md",
