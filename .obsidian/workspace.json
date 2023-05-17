@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "17d0c9209493eabd",
@@ -114,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+                "file": "UMANISTICA/STORIA/Unità d'italia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+                "file": "UMANISTICA/STORIA/Unità d'italia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md"
+                "file": "UMANISTICA/STORIA/Unità d'italia.md"
               }
             }
           },
@@ -210,7 +212,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e363790db87bd6e6",
+  "active": "e883324160efa13e",
   "lastOpenFiles": [
     "UMANISTICA/STORIA/Dopo l'unità.md",
     "UMANISTICA/STORIA/Unità d'italia.md",
