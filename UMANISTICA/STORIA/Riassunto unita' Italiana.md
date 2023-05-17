@@ -1,3 +1,7 @@
+#storia 
+
+---
+
 ## **Spedizione dei mille** (1860)
 - Obbiettivo:
 	- Rovesciare il governo borbonico presente sull'isola e favorire l'unificazione italiana sotto la guida del Regno di Sardegna.
@@ -24,7 +28,7 @@
 	- Venezia, Lazio, Friuli, Trentino, Alto Adige
 
 **Si vuole Roma capitale**
-- Pio IX non vuole rinunciare al potere temporal -> Rapporti tesi con la chiesa
+- Pio IX non vuole rinunciare al potere temporale -> Rapporti tesi con la chiesa
 - Cavour: *"Libera chiesa in libero stato"*
 - Napoleone III non vuole cedere Roma -> Troppo potere agli italiani
 - Garibaldi
@@ -69,7 +73,7 @@
 	- Scelta del Fiorentino
 		- Promessi sposi di Manzoni scritto per insegnare il fiorentino agli italiani
 		- Molto espressivo 
-		- Grande quantita' di termini
+		- Grande quantità di termini
 		- Attraverso le grandi opere letterarie tutti l'hanno letto
 	- Creazione della commissione nazionale per la lingua (1861) <- Manzoni
 		- Standardizzazione regole grammaticali
@@ -88,8 +92,8 @@
 			- Rivolte pubbliche -> Soppresse
 - La piemontesizzazione
 	- Tasse e Leva
-		- Ostilita' contro Torino
-		- Inutilita' di essere in Italia
+		- Ostilità contro Torino
+		- Inutilità di essere in Italia
 		- Brigantaggio -> Furti e omicidi al Sud soprattutto
 			- Contadini in cerca di terre
 			- Uomini finanziati dal Papa e Franceschiello
@@ -102,13 +106,13 @@
 	- Abolizione tassa sul macinato
 	- Riforma elettorale
 		- Alfabetizzazione richiesta
-		- I poveri non riescono comunque a votare ma si aumenta dal 2 al 7% di votatori
+		- I poveri non riescono comunque a votare ma si aumenta dal 2 al 7% di persone che possono votare
 	- Il trasformismo di De Pretis
 		- Costruire e mantenere coalizioni politiche, attraverso l'abilità di attrarre e corrompere membri di altri partiti per garantire la propria stabilità politica
 		- Governi instabili
 		- Assenza di ideologia
 		- Lungo mantenimento del potere
-- **Crisi agraria**
+- Crisi agraria
 	- Grano estero più economico
 	- Proteste nelle campagne
 	- Emigrazione
@@ -118,11 +122,11 @@
 	- Supporto statale alle industrie 
 	- Triangolo industriale (Milano, Torino e Genova)
 	- Trafori ferroviari
-	- Relazioni diplomatiche equilibrate con gli esteri
-		- Francia occupa la Tunisia -> L'Italia la voleva
-		- Rottura rapporti italo-francesi
-		- Triplice alleanza -> Prussia, Impero austro-ungarico, Italia -> Dopo guerra austro-prussiana cambiano gli assetti interni
+- Relazioni con gli esteri
+	- Relazioni diplomatiche equilibrate
+	- Francia occupa la Tunisia -> L'Italia la voleva
+	- Guerra economica con le dogane
+	- Rottura rapporti italo-francesi
+		- Triplice alleanza difensiva-> Prussia, Impero austro-ungarico, Italia -> Dopo guerra austro-prussiana cambiano gli assetti interni
 			- L'Italia voleva ancora dei territori austriaci
 			- Movimenti irredentisti
-
-## TODO PRENDI GLI APPUNTI SUL PORTATILE
