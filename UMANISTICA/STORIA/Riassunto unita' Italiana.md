@@ -109,7 +109,7 @@
 		- Assenza di ideologia
 		- Lungo mantenimento del potere
 - **Crisi agraria**
- - Grano estero più economico
+	- Grano estero più economico
 	- Proteste nelle campagne
 	- Emigrazione
 		- Uomini principalmente
