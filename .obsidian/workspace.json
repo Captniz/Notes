@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8aa3996dc12d0968",
+        "id": "acb655828a8f6a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "b99aa01680aa58f5",
+            "id": "be6dbf0e58c779c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md",
-                "mode": "source",
-                "source": false
+                "file": "INFORMATICA/Teoria/Database.md"
               }
             }
           }
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+                "file": "INFORMATICA/Teoria/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+                "file": "INFORMATICA/Teoria/Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md"
+                "file": "INFORMATICA/Teoria/Database.md"
               }
             }
           },
@@ -174,17 +173,23 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:Open command palette": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b99aa01680aa58f5",
+  "active": "be6dbf0e58c779c5",
   "lastOpenFiles": [
+    "INFORMATICA/Teoria/Database.md",
+    "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
+    "SISTEMI/Laboratorio/PDFs/VLAN2.pdf",
+    "SISTEMI/Laboratorio/VLAN.md",
+    "Ranger-cheatsheet.md",
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/Liberismo.md",
     "UMANISTICA/STORIA/La nascita del capitalismo.md",
     "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
@@ -196,7 +201,6 @@
     "UMANISTICA/STORIA/Il risorgimento.md",
     "UMANISTICA/STORIA/Il rinascimento italiano.md",
     "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
-    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/La restaurazione.md",
     "UMANISTICA/ITALIANO/Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Leopardi.md",
@@ -207,10 +211,6 @@
     "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
     "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
-    "UMANISTICA/INGLESE/Writing essays.md",
-    "UMANISTICA/INGLESE/Relative clauses.md",
-    "UMANISTICA/INGLESE/The passive form.md",
-    "UMANISTICA/INGLESE/Futures.md",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/PDFs/01 - Hub, Bridge e Switch.pdf",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
@@ -232,7 +232,6 @@
     "MATEMATICA/PDFs/correzione compiti.pdf",
     "MATEMATICA/PDFs/esercitazione formativa funzioni 2.pdf",
     "MATEMATICA/PDFs/esercitazione formativa funzioni 1.pdf",
-    "MATEMATICA/PDFs/primo studio di funzione.pdf",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "Untitled.canvas"
   ]
