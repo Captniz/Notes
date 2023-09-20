@@ -1,7 +1,7 @@
-#informatica 
-
 ---
-
+tags:
+  - informatica
+---
 ## Differenza tra processo e thread
 **Processo:**
 - PID        

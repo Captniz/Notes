@@ -1,9 +1,10 @@
-#sistemi #livelloDue 
-
-PDF: \[ [[10 - LAN.pdf]] ]
-
 ---
-
+tags:
+  - sistemi
+  - livelloDue
+Related PDFs:
+  - "[[10 - LAN.pdf]]"
+---
 ## La LAN
 **La LAN** è uno **standard** di sistema di comunicazione che permette ad un insieme di nodi di comunicare con alta velocità, basso tasso di errore ma area limitata; è presente a livello 1 e 2.
 

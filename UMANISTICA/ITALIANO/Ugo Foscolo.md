@@ -1,7 +1,8 @@
-#italiano
-
-PDF: \[ [[Riassunto Neoclassico - Romanticismo - Ugo Foscolo.pdf]] ]
-
+---
+tags:
+  - italiano
+Related PDFs:
+  - "[[Riassunto Neoclassico - Romanticismo - Ugo Foscolo.pdf]]"
 ---
 ## Vita
 Ugo Foscolo nasce sull’ isola di **Zacinto**, nella **Repubblica di Venezia**.

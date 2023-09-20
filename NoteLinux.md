@@ -55,6 +55,14 @@ i programmi personali sono in local/share
 
 rifare tutto e renderla una distr
 
+pacman -Qe per lista pacchetti espliciti
+
+theme rofi
+
+[material icons](https://pictogrammers.com/library/mdi/)
+[fontawesome](https://fontawesome.com/icons/lightbulb?f=classic&s=regular)
+[nerdfonts](https://www.nerdfonts.com/cheat-sheet)
+[everforest](https://github.com/sainnhe/everforest/tree/master/)
 [zsh profile](https://www.reddit.com/r/zsh/comments/fjcd35/theres_no_zprofile_file_in_my_home_directory_in/)
 [hyprland wiki](https://wiki.hyprland.org/)
 [awesome github](https://github.com/topics/awesome)
@@ -62,3 +70,5 @@ rifare tutto e renderla una distr
 [Unixporn](https://www.reddit.com/r/unixporn/)
 [FIXXA TUTTI QUESTI](https://wiki.hyprland.org/FAQ/)
 [Ranger plugins](https://github.com/topics/ranger-plugin)
+[gamescope](https://www.youtube.com/watch?v=36K7Y-t1658&ab_channel=LinuxGameCast)
+[reddit saved](https://www.reddit.com/user/capntiz/saved/)

@@ -1,9 +1,9 @@
-#informatica
-
-PDF: \[[[Swing.pdf]]]
-
 ---
-
+tags:
+  - informatica
+Related PDFs:
+  - "[[Swing.pdf]]"
+---
 # Imports
 
 ```java

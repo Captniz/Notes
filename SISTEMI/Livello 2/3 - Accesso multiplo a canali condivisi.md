@@ -1,9 +1,10 @@
-#sistemi #livelloDue
-
-PDF: \[ [[9 - Accesso multiplo a canali condivisi.pdf]]]
-
 ---
-
+tags:
+  - sistemi
+  - livelloDue
+Related PDFs:
+  - "[[9 - Accesso multiplo a canali condivisi.pdf]]"
+---
 ## Comunicazione sui canali condivisi
 
 > [!warning]- Canale Condiviso

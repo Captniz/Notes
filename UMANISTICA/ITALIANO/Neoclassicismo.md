@@ -1,9 +1,9 @@
-#italiano
-
-PDF: \[ [[Riassunto Neoclassico - Romanticismo - Ugo Foscolo.pdf]] ]
-
 ---
-
+tags:
+  - italiano
+Related PDFs:
+  - "[[Riassunto Neoclassico - Romanticismo - Ugo Foscolo.pdf]]"
+---
 ## Definizione
 **Il neoclassicismo è un movimento culturale nato in europa all’ inizio del 1800.**
 

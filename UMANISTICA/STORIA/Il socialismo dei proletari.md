@@ -1,5 +1,7 @@
-#storia
-
+---
+tags:
+  - storia
+---
 A cause dei problemi della rivoluzione industriale nascono dei movimenti che vogliono ugualità sociale; tuttavia avevano idee vaghe e nessuna proposta concreta (*Socialismo utopistico*).
 
 **Robert Owens**

@@ -1,5 +1,7 @@
-#storia
-
+---
+tags:
+  - storia
+---
 Si lega o al 16simo o al 18simo secolo:
 
 - Recinzione delle terre

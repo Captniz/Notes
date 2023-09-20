@@ -1,7 +1,7 @@
-#storia 
-
 ---
-
+tags:
+  - storia
+---
 ## **Spedizione dei mille** (1860)
 - Obbiettivo:
 	- Rovesciare il governo borbonico presente sull'isola e favorire l'unificazione italiana sotto la guida del Regno di Sardegna.

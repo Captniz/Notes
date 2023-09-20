@@ -3,10 +3,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "EMBED",
-  "spellcheckLanguages": [
-    "en-US",
-    "it"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": true,

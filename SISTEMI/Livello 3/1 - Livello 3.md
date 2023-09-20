@@ -1,9 +1,10 @@
-#sistemi #livelloTre
-
-PDFs:
-\[ [[06 - LVL3.pdf]]]
-\[[[07 - ARP.pdf]]]
-
+---
+tags:
+  - sistemi
+  - livelloTre
+Related PDFs:
+  - "[[06 - LVL3.pdf]]"
+  - "[[07 - ARP.pdf]]"
 ---
 ## Il protocollo IP ( Internet Protocol )
 Il protocollo IP ha il suo proprio sistema di indirizzamento ed è indipendente dal livello 1 e 2.

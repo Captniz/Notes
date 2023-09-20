@@ -1,17 +1,17 @@
-#telecomunicazioni
-
-PDFs: 
-\[[[1 Fenomeni ondulatori onde.pdf]]]
-\[[[2 Effetto fotoelettrico.pdf]]]
-\[[[3 Onde EM e Fotoni.pdf]]]
-\[[[4 Mappa - Segnali e modulazioni.pdf]]]
-\[[[5 Tecniche di trasmissione Analogiche e Digitali.pdf]]]
-\[[[6 Tipi di Multiplazione di segnale.pdf]]]
-\[[[7 Conversione A-D.pdf]]]
-\[[[8 Bluetooth 1.pdf]]]
-\[[[9 Bluetooth 2.pdf]]]
-\[[[10 Banda ISM.pdf]]]
-
+---
+tags:
+  - telecomunicazioni
+Related PDFs:
+  - "[[1 Fenomeni ondulatori onde.pdf]]"
+  - "[[2 Effetto fotoelettrico.pdf]]"
+  - "[[3 Onde EM e Fotoni.pdf]]"
+  - "[[4 Mappa - Segnali e modulazioni.pdf]]"
+  - "[[5 Tecniche di trasmissione Analogiche e Digitali.pdf]]"
+  - "[[6 Tipi di Multiplazione di segnale.pdf]]"
+  - "[[7 Conversione A-D.pdf]]"
+  - "[[8 Bluetooth 1.pdf]]"
+  - "[[9 Bluetooth 2.pdf]]"
+  - "[[10 Banda ISM.pdf]]"
 ---
 # Argomenti
 Da studiare (Moodle): 

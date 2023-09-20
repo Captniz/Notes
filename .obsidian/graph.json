@@ -57,6 +57,13 @@
       }
     },
     {
+      "query": "tag:#extra",
+      "color": {
+        "a": 1,
+        "rgb": 3516284
+      }
+    },
+    {
       "query": "tag:#italiano",
       "color": {
         "a": 1,
@@ -64,10 +71,10 @@
       }
     },
     {
-      "query": "tag:#extra",
+      "query": "tag:#gestioneProgetto  ",
       "color": {
         "a": 1,
-        "rgb": 3516284
+        "rgb": 13025578
       }
     }
   ],
@@ -82,5 +89,5 @@
   "linkStrength": 0.755208333333333,
   "linkDistance": 72,
   "scale": 0.36908331999310695,
-  "close": true
+  "close": false
 }

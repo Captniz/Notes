@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date created": "datetime",
+    "Related PDF": "multitext",
+    "Related pages": "multitext"
+  }
+}

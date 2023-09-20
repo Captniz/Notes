@@ -1,9 +1,10 @@
-#sistemi #livelloDue
-
-PDF: [ [[7 - Enti normatori.pdf]] ]
-
 ---
-
+tags:
+  - sistemi
+  - livelloDue
+Related PDFs:
+  - "[[7 - Enti normatori.pdf]]"
+---
 ***Gli enti normatori possono avere hardware diversi tra di loro, per questo si fissano regole e standard internazionali.***
 
 Organi principali per la standardizzazione:

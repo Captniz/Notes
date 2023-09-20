@@ -1,13 +1,25 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 2,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasBook",
+      "RiRadarLine",
+      "RiFileCodeLine",
+      "LiNetwork",
+      "TiMath"
+    ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "PDF",
+        "icon": "FarFilePdf",
+        "for": "everything"
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -15,5 +27,13 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "EMBED": "RiStickyNoteLine",
+  "GESTIONE PROGETTO": "TiSchema",
+  "INFORMATICA": "RiCodeSSlashFill",
+  "MATEMATICA": "TiMath",
+  "SISTEMI": "LiNetwork",
+  "TDP": "RiFileCodeLine",
+  "TELECOMUNICAZIONI": "RiRadarLine",
+  "UMANISTICA": "FasBook"
 }

@@ -1,9 +1,9 @@
-#informatica 
-
-PDF: \[[[Multithreading Java.pdf]]]
-
 ---
-
+tags:
+  - informatica
+Related PDFs:
+  - "[[Multithreading Java.pdf]]"
+---
 Per cambiare da thread a thread Java usa il protocollo di **Time slice round robin**; che suddivide le esecuzioni in fette di tempo.
 
 **Schema:**

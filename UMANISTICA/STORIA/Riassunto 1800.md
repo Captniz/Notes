@@ -1,9 +1,9 @@
-#storia 
-
-PDF: \[[[Riassunto parziale 1800.pdf]]]
-
 ---
-
+tags:
+  - storia
+Related PDFs:
+  - "[[Riassunto parziale 1800.pdf]]"
+---
 ## Il pensiero socialista
 
 **Pensiero socialista utopistico:**

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78260af65e15533e",
+        "id": "8aa3996dc12d0968",
         "type": "tabs",
         "children": [
           {
-            "id": "1d96bc64e20ccb23",
+            "id": "b99aa01680aa58f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -48,21 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#storia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "21fa1698fcef39da",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -81,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/Riassunto unita' Italiana.md"
+                "file": "UMANISTICA/STORIA/Il socialismo dei proletari.md"
               }
             }
           },
@@ -161,9 +152,19 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e772cb5dfe4b9068",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,57 +183,57 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e363790db87bd6e6",
+  "active": "b99aa01680aa58f5",
   "lastOpenFiles": [
-    "NoteLinux.md",
-    "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
-    "UMANISTICA/STORIA/Dopo l'unità.md",
-    "UMANISTICA/STORIA/Unità d'italia.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
-    "UMANISTICA/ITALIANO/Analisi testi/La ginestras - Giacomo Leopardi.md",
-    "UMANISTICA/STORIA/I moti del '48.md",
-    "UMANISTICA/STORIA/Il pensiero socialista.md",
-    "UMANISTICA/STORIA/Riassunto 1800.md",
-    "UMANISTICA/STORIA/Compiti/Questionario restaurazione.md",
-    "UMANISTICA/STORIA/Compiti/Annotator template.md",
-    "UMANISTICA/STORIA/Compiti/Inizio della prima guerra questionario.md",
-    "UMANISTICA/STORIA/PDFs/Questionario sulla Restaurazione.pdf",
-    "UMANISTICA/STORIA/PDFs/Dibattito risorgimentale e azioni mazziniane.pdf",
-    "UMANISTICA/STORIA/PDFs/Questionario sul dibattito risorgimentale e sulle azioni dei mazziniani.pdf",
-    "UMANISTICA/STORIA/PDFs/Inizio della prima guerra.pdf",
-    "UMANISTICA/STORIA/PDFs/Riassunto parziale 1800.pdf",
-    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
-    "UMANISTICA/STORIA/La restaurazione.md",
     "UMANISTICA/STORIA/Liberismo.md",
     "UMANISTICA/STORIA/La nascita del capitalismo.md",
+    "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
+    "UMANISTICA/STORIA/I moti del '48.md",
+    "UMANISTICA/STORIA/Il pensiero socialista.md",
+    "UMANISTICA/STORIA/Dopo l'unità.md",
+    "UMANISTICA/STORIA/Unità d'italia.md",
+    "UMANISTICA/STORIA/Riassunto 1800.md",
     "UMANISTICA/STORIA/Il risorgimento.md",
-    "TDP/Sezioni critiche.md",
-    "SISTEMI/Livello 4/PDFs/UDP.pdf",
-    "SISTEMI/Livello 4/PDFs/TCP.pdf",
-    "SISTEMI/Livello 4/PDFs/LVL4.pdf",
-    "SISTEMI/Livello 4/PDFs",
-    "SISTEMI/Livello 4",
-    "TELECOMUNICAZIONI/Onde e comunicazione.md",
+    "UMANISTICA/STORIA/Il rinascimento italiano.md",
+    "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+    "UMANISTICA/STORIA/La restaurazione.md",
+    "UMANISTICA/ITALIANO/Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/Leopardi.md",
+    "UMANISTICA/ITALIANO/Verismo.md",
+    "UMANISTICA/ITALIANO/Neoclassicismo.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Cinque Maggio.md",
+    "UMANISTICA/ITALIANO/Analisi testi/I sepolcri - Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
+    "UMANISTICA/INGLESE/Writing essays.md",
+    "UMANISTICA/INGLESE/Relative clauses.md",
+    "UMANISTICA/INGLESE/The passive form.md",
+    "UMANISTICA/INGLESE/Futures.md",
+    "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
+    "SISTEMI/Livello 3/PDFs/01 - Hub, Bridge e Switch.pdf",
+    "SISTEMI/Livello 3/0 - Riassunto.canvas",
+    "SISTEMI/Laboratorio/PDFs",
+    "SISTEMI/Laboratorio/PDFs/VLAN_Info.pdf",
+    "SISTEMI/Laboratorio",
+    "UMANISTICA/ITALIANO/PDFs/1. Rosso Malpelo.pdf",
+    "EMBED/Riflessione.png",
+    "EMBED/Rifrazione.png",
     "EMBED/Pasted image 20230515185148.png",
-    "EMBED/Pasted image 20230515182415.png",
     "EMBED/Pasted image 20230515181705.png",
+    "EMBED/Pasted image 20230515182415.png",
     "EMBED/Pasted image 20230515181331.png",
     "EMBED/Pasted image 20230515181226.png",
+    "EMBED/Pasted image 20230515181058.png",
     "EMBED/Pasted image 20230515181211.png",
     "EMBED/Pasted image 20230515181144.png",
-    "EMBED/Pasted image 20230515181058.png",
-    "EMBED/Pasted image 20230515181024.png",
-    "EMBED/Pasted image 20230515180958.png",
-    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese.md",
-    "EMBED/Schema albero Java.md",
-    "EMBED/Ottimizzazione.md",
-    "EMBED/Multithreading in Java - Schema.md",
-    "EMBED/Derivate - Es1.md",
-    "EMBED/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
-    "Ranger-cheatsheet.md",
-    "SISTEMI/Livello 3/0 - Riassunto.canvas",
+    "MATEMATICA/PDFs/Studio di funzione.pdf",
+    "MATEMATICA/PDFs/correzione compiti.pdf",
+    "MATEMATICA/PDFs/esercitazione formativa funzioni 2.pdf",
+    "MATEMATICA/PDFs/esercitazione formativa funzioni 1.pdf",
+    "MATEMATICA/PDFs/primo studio di funzione.pdf",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
-    "Untitled.canvas",
-    "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas"
+    "Untitled.canvas"
   ]
 }

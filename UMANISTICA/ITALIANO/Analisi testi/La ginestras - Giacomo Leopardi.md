@@ -18,7 +18,7 @@ progresso acquisito dopo la lucida consapevolezza della condizione umana
 > *Giovanni III, 19*
 
 - Senso biblico: Tenebre -> Peccato | Luce -> Fede
-	- Senso di Leopardi: Tenebre -> Fede nel progresso e nella centralità dell' uomo e la fede nella provvidenza.  | Luce -> Consapevolezza della condizione degli umani
+- Senso di Leopardi: Tenebre -> Fede nel progresso e nella centralità dell' uomo e la fede nella provvidenza.  | Luce -> Consapevolezza della condizione degli umani
 
 ### Voltaire
 - Negazione della teoria di Lebriz *"Il miglior mondo possibile"*

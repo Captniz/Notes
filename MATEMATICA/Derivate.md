@@ -1,10 +1,10 @@
-#matematica
-
-PDF:
-\[ [[Derivate]] ]
-\[[[Introduzione alle derivate.pdf]]]
-\[[[Prima esercitazione sulle derivate.pdf]]]
-
+---
+tags:
+  - matematica
+Related PDFs:
+  - "[[Introduzione alle derivate.pdf]]"
+  - "[[Prima esercitazione sulle derivate.pdf]]"
+  - "[[derivate.pdf]]"
 ---
 ## Teoria
 **Definizione:**
