@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Date created": "datetime",
+    "Date created": "date",
     "Related PDF": "multitext",
     "Related pages": "multitext"
   }

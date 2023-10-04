@@ -1,11 +1,10 @@
-#informatica 
-
-PDF: 
-\[[[oliC++02_Algoritmi.pdf]]], 
-\[[[mcJava11_ABSTRACT_INTERFACE.pdf]]]
-
 ---
-
+tags:
+  - informatica
+Related PDFs:
+  - "[[oliC++02_Algoritmi.pdf]]"
+  - "[[mcJava14_ADT.pdf]]"
+---
 ## Stack
 
 ## Heap

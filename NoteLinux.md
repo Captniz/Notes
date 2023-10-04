@@ -1,5 +1,6 @@
-#extra 
-
+---
+tags:
+  - extra
 ---
 
 |      Package       | Installed | Configured |

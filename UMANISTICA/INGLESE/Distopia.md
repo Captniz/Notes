@@ -1,16 +1,22 @@
 ---
 tags:
   - inglese
+Related PDFs:
+  - "[[DYSTOPIAS DEFINITION AND CHARACTERS.pdf]]"
 ---
 
 ## Origin of dystopia
 > Greek -> ***Bad** ( Dys )* + ***Place** ( Topia )*
 
-2 meaning utopia
+## Meaning utopia
+> Reverse of distopia
 ## Dystopia literature
 > A world were everything is imperfect
 
-4 aims of dystopia
-5 main charateristics
-6 individuality in a novel
-7 main charateristics of a dyst novel
+## Aims of dystopia
+> Awake the awareness and warn people
+
+## Individuality in a novel
+> There's not
+## Main characteristics of a dystopian novel character
+> Can't escape
