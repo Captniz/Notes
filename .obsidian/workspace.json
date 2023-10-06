@@ -11,8 +11,12 @@
             "id": "7a4a19808f22fc6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "INFORMATICA/Java/DOCS/Password PDF.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INFORMATICA/Java/DOCS/Password PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "INFORMATICA/Java/DOCS/Password PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "INFORMATICA/Java/DOCS/Password PDF.md"
+              }
             }
           },
           {
@@ -174,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00d9242cc4c73542",
+  "active": "7a4a19808f22fc6b",
   "lastOpenFiles": [
+    "INFORMATICA/Java/DOCS/mcJava05_COSTRUTTORE.pdf",
+    "INFORMATICA/Java/DOCS/Password PDF.md",
     "MATEMATICA/PDFs/Integrali.pdf_",
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
     "MATEMATICA/DOCS/Limiti.pdf",
@@ -190,7 +200,6 @@
     "INFORMATICA/C - C++/PDFs/mcJava07_ARRAYOGGETTI.pdf",
     "INFORMATICA/C - C++/PDFs/mcJava01_PRG.pdf",
     "INFORMATICA/Java/DOCS/mcJava04_CLASS.pdf",
-    "INFORMATICA/Java/DOCS/mcJava02_ARRAY.pdf",
     "UMANISTICA/ITALIANO/I Malavoglia.md",
     "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.3. C. D. Friedrich, Monaco in riva al mare.jpg",
     "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.2. Gabbia metrica.png",
@@ -222,7 +231,6 @@
     "GESTIONE PROGETTO/Untitled.md",
     "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
     "GESTIONE PROGETTO/Strutture organizzative.md",
-    "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas"
