@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a20036978b8f988b",
+        "id": "6d320ddc037ae174",
         "type": "tabs",
         "children": [
           {
-            "id": "7a4a19808f22fc6b",
+            "id": "027c68ff3fd849f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFORMATICA/Java/DOCS/Password PDF.md",
+                "file": "INFORMATICA/Java/DOCS/Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFORMATICA/Java/DOCS/Password PDF.md",
+                "file": "INFORMATICA/Java/DOCS/Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFORMATICA/Java/DOCS/Password PDF.md",
+                "file": "INFORMATICA/Java/DOCS/Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFORMATICA/Java/DOCS/Password PDF.md"
+                "file": "INFORMATICA/Java/DOCS/Password.md"
               }
             }
           },
@@ -182,10 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a4a19808f22fc6b",
+  "active": "027c68ff3fd849f5",
   "lastOpenFiles": [
+    "INFORMATICA/Java/DOCS/Password.md",
     "INFORMATICA/Java/DOCS/mcJava05_COSTRUTTORE.pdf",
-    "INFORMATICA/Java/DOCS/Password PDF.md",
     "MATEMATICA/PDFs/Integrali.pdf_",
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
     "MATEMATICA/DOCS/Limiti.pdf",
@@ -199,7 +199,6 @@
     "MATEMATICA/PDFs/derivate.pdf",
     "INFORMATICA/C - C++/PDFs/mcJava07_ARRAYOGGETTI.pdf",
     "INFORMATICA/C - C++/PDFs/mcJava01_PRG.pdf",
-    "INFORMATICA/Java/DOCS/mcJava04_CLASS.pdf",
     "UMANISTICA/ITALIANO/I Malavoglia.md",
     "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.3. C. D. Friedrich, Monaco in riva al mare.jpg",
     "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.2. Gabbia metrica.png",
