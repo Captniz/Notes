@@ -31,6 +31,7 @@ Shortcut | Description
 Shortcut | Description 
 ---|---
 `<Enter>` | Open
+`<Space>` | Select
 `r` | open file with 
 `z` | toggle settings
 `o` | change sort order

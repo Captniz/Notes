@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ead643dfcb5bf87",
+        "id": "a20036978b8f988b",
         "type": "tabs",
         "children": [
           {
-            "id": "95aab120dec282b2",
+            "id": "7a4a19808f22fc6b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATEMATICA/PDFs/derivate.pdf"
-              }
-            }
-          },
-          {
-            "id": "dc226e0982f9f2c0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATEMATICA/PDFs/Integrali.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATICA/PDFs/derivate.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATICA/PDFs/derivate.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MATEMATICA/PDFs/derivate.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -191,57 +174,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95aab120dec282b2",
+  "active": "00d9242cc4c73542",
   "lastOpenFiles": [
-    "MATEMATICA/PDFs/Integrali.pdf",
-    "MATEMATICA/PDFs/derivate.pdf",
-    "MATEMATICA/PDFs/correzione compiti.pdf",
+    "MATEMATICA/PDFs/Integrali.pdf_",
+    "MATEMATICA/DOCS/tabella studio di funzione.pdf",
+    "MATEMATICA/DOCS/Limiti.pdf",
     "MATEMATICA/Ripasso studio funzione 2.md",
     "MATEMATICA/Ripasso studio funzione.md",
+    "MATEMATICA/Derivate.md",
+    "Derivate - Es1.md",
+    "MATEMATICA/DOCS/Studio di funzione.pdf",
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "MATEMATICA/PDFs/Derivate",
+    "MATEMATICA/PDFs/derivate.pdf",
+    "INFORMATICA/C - C++/PDFs/mcJava07_ARRAYOGGETTI.pdf",
+    "INFORMATICA/C - C++/PDFs/mcJava01_PRG.pdf",
+    "INFORMATICA/Java/DOCS/mcJava04_CLASS.pdf",
+    "INFORMATICA/Java/DOCS/mcJava02_ARRAY.pdf",
+    "UMANISTICA/ITALIANO/I Malavoglia.md",
+    "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.3. C. D. Friedrich, Monaco in riva al mare.jpg",
+    "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.2. Gabbia metrica.png",
+    "TDP/boh.md",
     "UMANISTICA/STORIA/La belle epoque.md",
+    "UMANISTICA/STORIA/La nascita del capitalismo.md",
+    "UMANISTICA/STORIA/Liberismo.md",
+    "UMANISTICA/STORIA/Riassunto 1800.md",
+    "UMANISTICA/STORIA/Il risorgimento.md",
+    "UMANISTICA/STORIA/Il pensiero socialista.md",
+    "Ranger-cheatsheet.md",
     "UMANISTICA/STORIA/Dopo l'unità.md",
-    "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
-    "UMANISTICA/ITALIANO/Neorealismo.md",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
-    "GESTIONE PROGETTO/Strutture organizzative.md",
-    "EMBED/organigramma.jpg",
-    "INFORMATICA/Teoria/Multithreading.md",
-    "INFORMATICA/Teoria/Database.md",
+    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/6. Inizio del colonialismo italiano - CARTA.png",
+    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/5. Triplice alleanza - VIGNETTA.png",
+    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/4. Emigranti italiani dal 1876 - TABELLA DATI.png",
+    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/3. Depretis - VIGNETTA.jpg",
+    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/2. Percentuale di alfabetizzati 1870 - CARTA.png",
+    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/1. Trasformismo.png",
+    "UMANISTICA/STORIA/DOCS/800/8. Il Risorgimento (seconda parte)/9. Nascita del Regno d Italia - CARTA.png",
+    "UMANISTICA/STORIA/DOCS/800/8. Il Risorgimento (seconda parte)/8. Incontro di Teano - DIPINTO.jpg",
+    "?NEW_STORIA/Untitled.md",
+    "GESTIONE PROGETTO/Costi di un progetto.md",
+    "INFORMATICA/Teoria/Database - Introduzione.md",
+    "INFORMATICA/Teoria/Database.canvas",
+    "INFORMATICA/Teoria/Database_.md",
     "INFORMATICA/Teoria/Livelli di astrazione di un DB.md",
     "INFORMATICA/Teoria/ADT - Abstract Data Types.md",
-    "INFORMATICA/Teoria/Neural networks.md",
-    "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
-    "UMANISTICA/ITALIANO/PDFs/2. La lupa.pdf",
-    "UMANISTICA/INGLESE/PDFs/DYSTOPIAS DEFINITION AND CHARACTERS.pdf",
-    "UMANISTICA/ITALIANO/I Malavoglia.md",
-    "UMANISTICA/INGLESE/Distopia.md",
-    "UMANISTICA/INGLESE/PDFs",
-    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
-    "UMANISTICA/STORIA/La nascita del capitalismo.md",
-    "Ranger-cheatsheet.md",
-    "MATEMATICA/PDFs/Funzioni.pdf",
-    "MATEMATICA/PDFs/Studio di funzione.pdf",
-    "UMANISTICA/ITALIANO/Verismo.md",
-    "UMANISTICA/ITALIANO/Neoclassicismo.md",
-    "UMANISTICA/ITALIANO/Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
-    "UMANISTICA/ITALIANO/Analisi testi/La ginestras - Giacomo Leopardi.md",
-    "SISTEMI/Laboratorio/PDFs/VLAN_Info.pdf",
-    "SISTEMI/Laboratorio/PDFs/VLAN_Es.pdf",
-    "UMANISTICA/ITALIANO/PDFs/1. Rosso Malpelo.pdf",
-    "EMBED/Rifrazione.png",
-    "EMBED/Pasted image 20230515185148.png",
+    "INFORMATICA/Teoria/Multithreading.md",
+    "GESTIONE PROGETTO/Untitled.md",
+    "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
+    "UMANISTICA/STORIA/Riassunto unita' Italiana.md",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
-    "EMBED/Riflessione.png",
-    "EMBED/Pasted image 20230515181705.png",
-    "EMBED/Pasted image 20230515182415.png",
-    "EMBED/Pasted image 20230515181331.png",
-    "EMBED/Pasted image 20230515181226.png",
-    "EMBED/Pasted image 20230515181058.png",
-    "EMBED/Pasted image 20230515181211.png",
-    "SISTEMI/Livello 2/0 - Riassunto.canvas",
-    "Untitled.canvas"
+    "SISTEMI/Livello 2/0 - Riassunto.canvas"
   ]
 }

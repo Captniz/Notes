@@ -6,14 +6,19 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPenNib",
       "FasBook",
       "RiRadarLine",
       "RiFileCodeLine",
-      "LiNetwork",
-      "TiMath"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
+      {
+        "rule": "DOCS",
+        "icon": "FarFilePdf",
+        "for": "everything"
+      },
       {
         "rule": "PDF",
         "icon": "FarFilePdf",
@@ -35,5 +40,6 @@
   "SISTEMI": "LiNetwork",
   "TDP": "RiFileCodeLine",
   "TELECOMUNICAZIONI": "RiRadarLine",
-  "UMANISTICA": "FasBook"
+  "UMANISTICA": "FasBook",
+  "UMANISTICA/ITALIANO/Analisi testi": "FasPenNib"
 }

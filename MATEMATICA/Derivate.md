@@ -4,7 +4,7 @@ tags:
 Related PDFs:
   - "[[Introduzione alle derivate.pdf]]"
   - "[[Prima esercitazione sulle derivate.pdf]]"
-  - "[[derivate.pdf]]"
+  - "[[Derivate.pdf]]"
 ---
 ## Teoria
 **Definizione:**
