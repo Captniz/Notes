@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"047bf342ec2e5a0e","x":339,"y":217,"width":400,"height":400,"color":"3","type":"file","file":"INFORMATICA/Teoria/Livelli di astrazione di un DB.md"},
+		{"id":"d9a283097a4e7bf4","x":339,"y":-320,"width":400,"height":400,"color":"6","type":"file","file":"INFORMATICA/Teoria/Database - Introduzione.md"}
+	],
+	"edges":[
+		{"id":"a816958315560866","fromNode":"d9a283097a4e7bf4","fromSide":"bottom","toNode":"047bf342ec2e5a0e","toSide":"top"}
+	]
+}
