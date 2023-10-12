@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c0424da3de27ddd6",
+        "id": "1984792b51b1f180",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca74101dc16dd16",
+            "id": "5f7349f8337d886a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "GESTIONE PROGETTO/Gestione progetto - Introduzione.md"
-              }
-            }
-          },
-          {
-            "id": "8c9c388f22ff47aa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "GESTIONE PROGETTO/Drawing 2023-10-10 10.26.30.excalidraw.md"
+                "file": "MATEMATICA/DOCS/Integrali.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -103,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GESTIONE PROGETTO/Drawing 2023-10-10 10.26.30.excalidraw.md",
+                "file": "MATEMATICA/DOCS/Integrali.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GESTIONE PROGETTO/Drawing 2023-10-10 10.26.30.excalidraw.md",
+                "file": "MATEMATICA/DOCS/Integrali.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GESTIONE PROGETTO/Drawing 2023-10-10 10.26.30.excalidraw.md"
+                "file": "MATEMATICA/DOCS/Integrali.pdf"
               }
             }
           },
@@ -192,13 +180,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c9c388f22ff47aa",
+  "active": "5f7349f8337d886a",
   "lastOpenFiles": [
+    "UMANISTICA/STORIA/La belle epoque.md",
+    "INFORMATICA/Sql/Database_.md",
+    "INFORMATICA/Sql/Database - Introduzione.md",
+    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
+    "INFORMATICA/Sql/Database.canvas",
     "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
-    "GESTIONE PROGETTO/Drawing 2023-10-10 10.26.30.excalidraw.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
+    "GESTIONE PROGETTO/Esercizio.md",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
     "UMANISTICA/INGLESE/DOCS/DYSTOPIAS DEFINITION AND CHARACTERS.pdf",
-    "UMANISTICA/STORIA/La belle epoque.md",
     "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "INFORMATICA/ADT - Abstract Data Types.md",
     "TDP/DOCS/02_Diagramma delle classi.pdf",
@@ -235,12 +228,7 @@
     "UMANISTICA/STORIA/DOCS/800/8. Il Risorgimento (seconda parte)/8. Incontro di Teano - DIPINTO.jpg",
     "?NEW_STORIA/Untitled.md",
     "GESTIONE PROGETTO/Costi di un progetto.md",
-    "INFORMATICA/Teoria/Database - Introduzione.md",
     "INFORMATICA/Teoria/Database.canvas",
-    "INFORMATICA/Teoria/Database_.md",
-    "INFORMATICA/Teoria/Livelli di astrazione di un DB.md",
-    "INFORMATICA/Multithreading.md",
-    "GESTIONE PROGETTO/Untitled.md",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
     "SISTEMI/Livello 2/0 - Riassunto.canvas"
