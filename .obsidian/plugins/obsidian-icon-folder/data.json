@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 2,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
@@ -17,12 +17,14 @@
       {
         "rule": "DOCS",
         "icon": "FarFilePdf",
-        "for": "everything"
+        "for": "everything",
+        "order": 0
       },
       {
         "rule": "PDF",
         "icon": "FarFilePdf",
-        "for": "everything"
+        "for": "everything",
+        "order": 1
       }
     ],
     "extraMargin": {
@@ -31,7 +33,8 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false
   },
   "EMBED": "RiStickyNoteLine",
   "GESTIONE PROGETTO": "TiSchema",

@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "1984792b51b1f180",
+        "id": "e24a33af310f39be",
         "type": "tabs",
         "children": [
           {
-            "id": "5f7349f8337d886a",
+            "id": "e2df09399a51c9d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f59338beebb4ae4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GESTIONE PROGETTO/Summary.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "a9b5f6cc8fbe60fb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GESTIONE PROGETTO/Summary.canvas",
+                "viewState": {
+                  "x": 149.98618388882758,
+                  "y": 292.0908686411456,
+                  "zoom": -0.7215104167528239
+                }
+              }
+            }
+          },
+          {
+            "id": "9cdaf13b98b9ec07",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MATEMATICA/DOCS/Integrali.pdf"
+                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATICA/DOCS/Integrali.pdf",
+                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATICA/DOCS/Integrali.pdf",
+                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATEMATICA/DOCS/Integrali.pdf"
+                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf"
               }
             }
           },
@@ -180,54 +223,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f7349f8337d886a",
+  "active": "9cdaf13b98b9ec07",
   "lastOpenFiles": [
+    "GESTIONE PROGETTO/Summary.canvas",
+    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+    "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
+    "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
+    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "GESTIONE PROGETTO/Esercizio.md",
+    "GESTIONE PROGETTO/Costi di un progetto.md",
+    "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
+    "EMBED/image-3.png",
+    "EMBED/image.png",
+    "EMBED/image-2.png",
+    "EMBED/image-4.png",
+    "EMBED/image-1.png",
+    "GESTIONE PROGETTO/image-4.png",
+    "GESTIONE PROGETTO/image-1.png",
+    "GESTIONE PROGETTO/image.png",
+    "GESTIONE PROGETTO/image-3.png",
+    "GESTIONE PROGETTO/image-2.png",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ CBS e RBSv2.pdf",
+    "GESTIONE PROGETTO/New folder/New folder/GPO.md",
+    "GESTIONE PROGETTO/New folder/New folder/Gestione Progetto_ CBS e RBSv2.pdf",
+    "GESTIONE PROGETTO/New folder/New folder",
+    "GESTIONE PROGETTO/New folder",
+    "GESTIONE PROGETTO/New folder.zip",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Work.pdf",
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
+    "MATEMATICA/Drawing 2023-10-17 12.36.40.excalidraw.md",
+    "UMANISTICA/ITALIANO/DOCS/8. La roba - Testo e commento.pdf",
+    "UMANISTICA/ITALIANO/DOCS/1. Rosso Malpelo.pdf",
+    "8. La roba - Testo e commento.md",
+    "UMANISTICA/ITALIANO/I Malavoglia.md",
+    "MATEMATICA/Drawing 2023-10-12 09.32.39.excalidraw.md",
+    "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
+    "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
     "UMANISTICA/STORIA/La belle epoque.md",
     "INFORMATICA/Sql/Database_.md",
     "INFORMATICA/Sql/Database - Introduzione.md",
     "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
     "INFORMATICA/Sql/Database.canvas",
-    "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
-    "GESTIONE PROGETTO/Strutture organizzative.md",
-    "GESTIONE PROGETTO/Esercizio.md",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "UMANISTICA/INGLESE/DOCS/DYSTOPIAS DEFINITION AND CHARACTERS.pdf",
-    "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "INFORMATICA/ADT - Abstract Data Types.md",
-    "TDP/DOCS/02_Diagramma delle classi.pdf",
-    "TDP/DOCS/TDP 4 Overloading di operatori ed ereditarietà in C++.pdf",
-    "TDP/DOCS/TDP 4 - Interfacce grafiche Swing.pdf",
-    "TDP/DOCS/Programmazione Concorrente e multithread P1.pdf",
-    "TDP/DOCS/Ripasso - I file in C++.pdf",
-    "TDP/DOCS/Programmazione Concorrente e multithread P2.pdf",
-    "TDP/DOCS/00_OOP.pdf",
-    "TDP/DOCS/01_Ciclo di vita del software.pdf",
     "INFORMATICA/Password.md",
     "MATEMATICA/Ripasso studio funzione 2.md",
     "MATEMATICA/Ripasso studio funzione.md",
     "MATEMATICA/Derivate.md",
     "Derivate - Es1.md",
-    "UMANISTICA/ITALIANO/I Malavoglia.md",
-    "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.3. C. D. Friedrich, Monaco in riva al mare.jpg",
-    "UMANISTICA/?ITALIANO/Giacomo Leopardi/3.2. Gabbia metrica.png",
-    "TDP/boh.md",
-    "UMANISTICA/STORIA/La nascita del capitalismo.md",
-    "UMANISTICA/STORIA/Liberismo.md",
-    "UMANISTICA/STORIA/Riassunto 1800.md",
-    "UMANISTICA/STORIA/Il risorgimento.md",
-    "UMANISTICA/STORIA/Il pensiero socialista.md",
-    "Ranger-cheatsheet.md",
-    "UMANISTICA/STORIA/Dopo l'unità.md",
-    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/6. Inizio del colonialismo italiano - CARTA.png",
-    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/5. Triplice alleanza - VIGNETTA.png",
-    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/4. Emigranti italiani dal 1876 - TABELLA DATI.png",
-    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/3. Depretis - VIGNETTA.jpg",
-    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/2. Percentuale di alfabetizzati 1870 - CARTA.png",
-    "UMANISTICA/STORIA/DOCS/800/9. La Sinistra storica e la crisi di fine secolo/1. Trasformismo.png",
-    "UMANISTICA/STORIA/DOCS/800/8. Il Risorgimento (seconda parte)/9. Nascita del Regno d Italia - CARTA.png",
-    "UMANISTICA/STORIA/DOCS/800/8. Il Risorgimento (seconda parte)/8. Incontro di Teano - DIPINTO.jpg",
-    "?NEW_STORIA/Untitled.md",
-    "GESTIONE PROGETTO/Costi di un progetto.md",
     "INFORMATICA/Teoria/Database.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
