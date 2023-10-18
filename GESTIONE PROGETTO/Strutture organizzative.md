@@ -8,6 +8,10 @@ Date created: 2023-10-03
 > Schema con associazione delle persone alla loro mansione con lo scopo di identificare il responsabile.
 
 ![[organigramma.jpg]]
+
+## **Assetto societario**
+> Insieme di società che hanno la **proprietà** dell'azienda
+
 ## **Schemi e tipi di strutture**
 > Queste strutture sono usate per organizzare la divisione delle mansioni all'interno di un impresa.
 
@@ -38,3 +42,4 @@ Date created: 2023-10-03
 **Caratteristiche:**
 - <mark style="background: #8DA101AA;">Buona comunicazione.</mark>
 - <mark style="background: #F85552AA;">Conflitti per risorse ( persone ) tra progetti.</mark>
+

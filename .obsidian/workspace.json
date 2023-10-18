@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "GESTIONE PROGETTO/Strutture organizzative.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50d27e1c49b93e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
                 "mode": "source",
                 "source": false
@@ -20,47 +32,19 @@
             }
           },
           {
-            "id": "0f59338beebb4ae4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GESTIONE PROGETTO/Summary.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "a9b5f6cc8fbe60fb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GESTIONE PROGETTO/Summary.canvas",
-                "viewState": {
-                  "x": 149.98618388882758,
-                  "y": 292.0908686411456,
-                  "zoom": -0.7215104167528239
-                }
-              }
-            }
-          },
-          {
-            "id": "9cdaf13b98b9ec07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf"
+                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -134,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
+                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
+                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf"
+                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md"
               }
             }
           },
@@ -223,17 +208,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cdaf13b98b9ec07",
+  "active": "a9b5f6cc8fbe60fb",
   "lastOpenFiles": [
-    "GESTIONE PROGETTO/Summary.canvas",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
     "GESTIONE PROGETTO/Strutture organizzative.md",
-    "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+    "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
+    "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
+    "GESTIONE PROGETTO/Summary.canvas",
+    "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
     "GESTIONE PROGETTO/Esercizio.md",
     "GESTIONE PROGETTO/Costi di un progetto.md",
-    "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
     "EMBED/image-3.png",
     "EMBED/image.png",
     "EMBED/image-2.png",

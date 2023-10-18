@@ -13,7 +13,7 @@ Related PDFs:
 
 ![Alt text](image.png)
 
-**Work package:** Sono le più elementari attività delle wbs delle quali è possibile fare un’accurata analisi dei costi. 
+**Work package:** Sono le più elementari attività delle WBS delle quali è possibile fare un’accurata analisi dei costi. 
 
 Servono a:
 
@@ -25,7 +25,7 @@ Servono a:
 ## OBS (Organizational Break Down Structure)  
 
 > Struttura dove si identifica chi svolge (ente responsabile) ogni attività presente nel soggetto. (chi è responsabile?)
-Si lega ai concetti di struttura organizzativa e organigramma.
+   Si lega ai concetti di struttura organizzativa e organigramma.
 
 Utile per:
 
