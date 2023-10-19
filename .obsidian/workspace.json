@@ -4,42 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e24a33af310f39be",
+        "id": "16b9138245d56ce4",
         "type": "tabs",
         "children": [
           {
-            "id": "e2df09399a51c9d6",
+            "id": "8552959ad4bf45ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "GESTIONE PROGETTO/Strutture organizzative.md",
-                "mode": "preview",
-                "source": false
+                "file": "MATEMATICA/DOCS/Derivate.pdf"
               }
             }
           },
           {
-            "id": "50d27e1c49b93e00",
+            "id": "0c13f4c64ceef9d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-                "mode": "source",
-                "source": false
+                "file": "MATEMATICA/DOCS/Integrali.pdf"
               }
             }
           },
           {
-            "id": "a9b5f6cc8fbe60fb",
+            "id": "a8bee2019001389a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-                "mode": "source",
-                "source": false
+                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md"
               }
             }
           }
@@ -102,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -119,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GESTIONE PROGETTO/Gestione progetto - introduzione.md"
+                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md"
               }
             }
           },
@@ -208,11 +201,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9b5f6cc8fbe60fb",
+  "active": "a8bee2019001389a",
   "lastOpenFiles": [
-    "GESTIONE PROGETTO/Strutture organizzative.md",
-    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "MATEMATICA/DOCS/Integrali.pdf",
+    "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "UMANISTICA/STORIA/La belle epoque.md",
+    "NoteLinux.md",
+    "UMANISTICA/ITALIANO/I Malavoglia.md",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
     "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
     "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
     "GESTIONE PROGETTO/Summary.canvas",
@@ -236,17 +235,12 @@
     "GESTIONE PROGETTO/New folder",
     "GESTIONE PROGETTO/New folder.zip",
     "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Work.pdf",
-    "MATEMATICA/DOCS/Derivate.pdf",
-    "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
     "MATEMATICA/Drawing 2023-10-17 12.36.40.excalidraw.md",
     "UMANISTICA/ITALIANO/DOCS/8. La roba - Testo e commento.pdf",
-    "UMANISTICA/ITALIANO/DOCS/1. Rosso Malpelo.pdf",
     "8. La roba - Testo e commento.md",
-    "UMANISTICA/ITALIANO/I Malavoglia.md",
     "MATEMATICA/Drawing 2023-10-12 09.32.39.excalidraw.md",
     "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
     "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
-    "UMANISTICA/STORIA/La belle epoque.md",
     "INFORMATICA/Sql/Database_.md",
     "INFORMATICA/Sql/Database - Introduzione.md",
     "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
@@ -256,7 +250,6 @@
     "MATEMATICA/Ripasso studio funzione 2.md",
     "MATEMATICA/Ripasso studio funzione.md",
     "MATEMATICA/Derivate.md",
-    "Derivate - Es1.md",
     "INFORMATICA/Teoria/Database.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",

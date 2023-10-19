@@ -18,6 +18,9 @@ Il ruolo del project manager è stimare i tempi di allocazione delle risorse per
 
 **Una stima del tempo e dell’impiego delle risorse è sempre possibile, anche se imprecisa.**
 
+### Qualità di un leader
+
+
 ## KPI (Key Performance Indicator)
 
 > Misure matematiche quantificabili che vanno a rappresentare un progresso rispetto al Work Package.
@@ -31,6 +34,7 @@ Il ruolo del project manager è stimare i tempi di allocazione delle risorse per
 
 # Impresa
 > Gruppo di persone che spontaneamente si organizza per completare un unico scopo a carattere economico.
+
 ## Definizione di GPO
 > **Tecniche usate per gestire un progetto**
 - <mark style="background: #F85552AA;"><b>Più efficacia</b> -> Gestione risorse</mark>
