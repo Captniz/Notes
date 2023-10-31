@@ -20,6 +20,23 @@ Il ruolo del project manager è stimare i tempi di allocazione delle risorse per
 
 ### Qualità di un leader
 
+- Stile autocratico
+	- `+` Controllo del management
+	- `-` Controllo del personale
+- Stile democratico
+	- `~` Bilanciato
+- Stile libero
+	- `-` Controllo del management
+	- `+` Controllo del personale
+
+
+## Teorema di Gantt
+> Il tempo di sviluppo di un progetto può essere misurato come temp uomo e tempo macchina e può essere messo in sequenza.
+
+<mark style="background: #F85552AA;">WIP</mark>
+
+Ford -> catena montaggio
+Taylorismo
 
 ## KPI (Key Performance Indicator)
 

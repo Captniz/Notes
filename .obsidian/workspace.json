@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "16b9138245d56ce4",
+        "id": "2de916aefd4dec55",
         "type": "tabs",
         "children": [
           {
-            "id": "8552959ad4bf45ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf"
-              }
-            }
-          },
-          {
-            "id": "0c13f4c64ceef9d6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATEMATICA/DOCS/Integrali.pdf"
-              }
-            }
-          },
-          {
-            "id": "a8bee2019001389a",
+            "id": "5e5f7b94a10ddaa7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md"
+                "file": "UMANISTICA/ITALIANO/Il decadentismo.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -112,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
+                "file": "UMANISTICA/ITALIANO/Il decadentismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
+                "file": "UMANISTICA/ITALIANO/Il decadentismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md"
+                "file": "UMANISTICA/ITALIANO/Il decadentismo.md"
               }
             }
           },
@@ -192,29 +172,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false,
       "templates:Insert template": true,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8bee2019001389a",
+  "active": "5e5f7b94a10ddaa7",
   "lastOpenFiles": [
-    "MATEMATICA/DOCS/Integrali.pdf",
-    "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
-    "MATEMATICA/DOCS/Derivate.pdf",
+    "UMANISTICA/ITALIANO/Il decadentismo.md",
     "UMANISTICA/STORIA/La belle epoque.md",
-    "NoteLinux.md",
-    "UMANISTICA/ITALIANO/I Malavoglia.md",
+    "UMANISTICA/STORIA/Il socialismo dei proletari.md",
+    "MATEMATICA/Esercizi.md",
+    "MATEMATICA/DOCS/Integrali.pdf",
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "INFORMATICA/Html/Introduzione - Hyper Text Markup Language.md",
+    "INFORMATICA/ADT - Abstract Data Types.md",
+    "INFORMATICA/Html",
+    "INFORMATICA/Multithreading.md",
+    "GESTIONE PROGETTO/Summary.canvas",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "UMANISTICA/ITALIANO/DOCS/8. La roba - Testo e commento.pdf",
+    "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf",
+    "UMANISTICA/ITALIANO/DOCS/1. B. Fenoglio, Una questione privata.pdf",
+    "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
+    "UMANISTICA/ITALIANO/Analisi testi/TestoTipoB_Annotato.pdf",
+    "UMANISTICA/ITALIANO/DOCS/1. E. Sanguineti, Se mi stacco da te.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Traccia Luci e ombre Fasc. Pearson.pdf",
+    "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/Analisi testi/La ginestras - Giacomo Leopardi.md",
+    "UMANISTICA/ITALIANO/Analisi testi/L'infinito.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Cinque Maggio.md",
+    "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
+    "EMBED/Drawing 2023-10-20 12.42.01.excalidraw.md",
+    "INFORMATICA/Sql/Vincoli nei database.md",
+    "MATEMATICA/Drawing 2023-10-17 12.54.04.excalidraw.md",
+    "MATEMATICA/Derivate.md",
+    "NoteLinux.md",
+    "UMANISTICA/ITALIANO/I Malavoglia.md",
     "GESTIONE PROGETTO/Strutture organizzative.md",
-    "GESTIONE PROGETTO/DOCS/Capitolo1_GPOI.pdf",
     "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
-    "GESTIONE PROGETTO/Summary.canvas",
     "GESTIONE PROGETTO/Gestione progetto - Introduzione.md",
     "GESTIONE PROGETTO/Esercizio.md",
     "GESTIONE PROGETTO/Costi di un progetto.md",
@@ -228,28 +230,7 @@
     "GESTIONE PROGETTO/image.png",
     "GESTIONE PROGETTO/image-3.png",
     "GESTIONE PROGETTO/image-2.png",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ CBS e RBSv2.pdf",
-    "GESTIONE PROGETTO/New folder/New folder/GPO.md",
-    "GESTIONE PROGETTO/New folder/New folder/Gestione Progetto_ CBS e RBSv2.pdf",
-    "GESTIONE PROGETTO/New folder/New folder",
-    "GESTIONE PROGETTO/New folder",
-    "GESTIONE PROGETTO/New folder.zip",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Work.pdf",
-    "MATEMATICA/Drawing 2023-10-17 12.36.40.excalidraw.md",
-    "UMANISTICA/ITALIANO/DOCS/8. La roba - Testo e commento.pdf",
-    "8. La roba - Testo e commento.md",
-    "MATEMATICA/Drawing 2023-10-12 09.32.39.excalidraw.md",
-    "SISTEMI/Livello 2/3 - Accesso multiplo a canali condivisi.md",
-    "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
-    "INFORMATICA/Sql/Database_.md",
-    "INFORMATICA/Sql/Database - Introduzione.md",
-    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
     "INFORMATICA/Sql/Database.canvas",
-    "INFORMATICA/ADT - Abstract Data Types.md",
-    "INFORMATICA/Password.md",
-    "MATEMATICA/Ripasso studio funzione 2.md",
-    "MATEMATICA/Ripasso studio funzione.md",
-    "MATEMATICA/Derivate.md",
     "INFORMATICA/Teoria/Database.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
