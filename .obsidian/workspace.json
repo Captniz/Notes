@@ -6,7 +6,6 @@
       {
         "id": "9c83413f600ea128",
         "type": "tabs",
-        "dimension": 33.207343412526996,
         "children": [
           {
             "id": "98265299ef984152",
@@ -21,34 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ef572a783ea275a2",
-        "type": "tabs",
-        "dimension": 66.792656587473,
-        "children": [
-          {
-            "id": "79e860cafcdfd9eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque.md"
-              }
-            }
-          },
-          {
-            "id": "76f90a71290f0820",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/Verismo.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Verismo.md",
+                "file": "UMANISTICA/STORIA/La belle epoque_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Verismo.md",
+                "file": "UMANISTICA/STORIA/La belle epoque_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Verismo.md"
+                "file": "UMANISTICA/STORIA/La belle epoque_.md"
               }
             }
           },
@@ -212,11 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76f90a71290f0820",
+  "active": "98265299ef984152",
   "lastOpenFiles": [
     "UMANISTICA/STORIA/La belle epoque.md",
-    "UMANISTICA/STORIA/La belle epoque_.md",
     "UMANISTICA/ITALIANO/Verismo.md",
+    "UMANISTICA/STORIA/La belle epoque_.md",
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/Il rinascimento italiano.md",
     "UMANISTICA/STORIA/Il pensiero socialista.md",
