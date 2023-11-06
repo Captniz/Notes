@@ -3,7 +3,6 @@ tags:
   - informatica
 Date created: 2023-02-10
 ---
-
 ## **Livelli:**
 1. ***Fisico*** -> Come e su che cosa vengono memorizzati i dati
 2. ***Logico*** -> Organizzazione dei dati e tabelle relazionali

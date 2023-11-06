@@ -30,11 +30,11 @@ Questi scopi vengono raggiunti attraverso due tipi di linguaggio:
 
 - ***Indipendenza fisica dei dati:***
 	- La memorizzazione fisica non deve alterare in alcun modo le relazioni dal punto di vista logico.
--  ***Indipendenza fisica dei logica:***
+-  ***Indipendenza  logica dei dati:***
 	- Modificando lo schema logico ( relazioni e corrispondenze ) non si vanno a modificare le viste.
 
 #### **Sicurezza**
 > <mark style="background: #3A94C5AA;">**Le viste del database sono diverse, basate sull'utente**</mark>
 
 #### **Vincoli di integrità**
-> ...
+> Devono essere rispettati per mantenere l'integrità
