@@ -249,4 +249,13 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 			- **Pascoli** sostiene la guerra
 				- Cambio di idee da **Socialista a Nazionalista**
 				- *"La grande proletaria si è mossa"*
+    				- Importanza della conquista della Libia per evitare l'oppressione di chi emigrava
+    				- Riferimento all'impero romano e di come la Libia era meglio sotto il controllo italiano
+    				- Azione civilizzatrice
+    				- "*La grande proletaria*" e' l'italia in quanto non ha molte risorse a parte la prole, che non puo' mantenere
 				- *"Italy"*
+    				- Italiani oppressi all'estero
+    				- Italiani lavorano sodo per nulla
+    				- Italiani maltrattati
+        				- Segretezza della propria provenienza
+    				- Italiani lontani dalla patria 
