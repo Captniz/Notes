@@ -80,7 +80,7 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 				- Socialisti divisi
 					- **Riformisti**
 					- **Rivoluzionari**
-				- Guerre capitaliste
+				- Guerre nei Balcani per far crescere l'economia delle armi
 			- Le riforme sociali
 				- Manifestazioni e scioperi
 				- Legislazioni sociali
@@ -91,3 +91,77 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 					- Leggi sul lavoro minorile e femminile
 					- Limiti alla giornata lavorativa
 					- **Bismark:** Prime forme di assicurazione contro malattie, infortuni e vecchiaia
+	- **Leone XIII Rerum Novarum** ( "*a riguardo delle cose nuove*" ) 1890
+		- **In contrasto con Pio IX Non Expedit** ( "*Non conviene*" ) 1870
+		- Interclassismo e cooperazione di classe pacifica e proficua per entrambi ( Lavoro giusto )
+		- Nascita **leghe bianche** ( Associazioni operaie di ispirazione cattolica )
+		- Riscoperta dei diritti naturali
+
+## **Imperialismo**
+**1870 - 1914**
+
+- Cause dell'imperialismo
+	- Esaltazione della propria nazione
+		- Nazionalismo sfrenato
+		- **Sciovinismo** -> Nome deriva da un personaggio leggendario come il Luddismo
+	- Necessità di materie prime per il progresso
+	- Competizione tra potenze
+	- Missione civilizzatrice dell'uomo bianco -> *"Fardello dell'uomo bianco" (Kipling)*
+	- Razzismo
+	- Darwinismo sociale derivato dal Positivismo
+		- Lotta naturale tra le razze umane
+		- Raggiungimento di una razza superiore e spiegazione di ciò con la scienza
+	- Contenimento del conflitto sociale interno
+		- Classi disagiate nelle colonie
+		- *Pascoli "La grande proletaria si è mossa"*
+- Imperi coloniali
+	- Sfruttamento economico 
+	- Dominio politico
+- Competizione in europa
+	- Francia e Inghilterra maggiori esponenti
+	- Colonizzazione del Congo da parte del Belgio
+		- Opera estremamente cruda
+		- Esportazione gomma di caucciù
+- Decolonizzazione dopo la 2a guerra mondiale
+- Colonizzazione dell'india
+	- Mercato di smercio
+	- Cotone / Thé
+	- Età Elisabettiana ( Età di sviluppo socio-economico per gli inglesi )
+	- Oppio
+		- **Guerre dell' oppio -> Cina VS Inghilterra**
+		- Vince Inghilterra e impone condizioni alla Cina
+			- Apertura dei porti commerciali
+			- Hong Kong proprietà inglese
+			- Rapporto di sudditanza
+			- Concessioni di privilegi commerciali
+	- Indocina divisa
+	- Conquiste Italiane
+		- Eritrea 
+		- Somalia
+		- Etiopia ( Protettorato )
+		- Libia
+
+## **Idee durante la belle epoque**
+- **Positivismo**
+	- **Darwinismo sociale**
+	- **Sciovinismo**
+	- **Razzismo / Xenophobia**
+		- Ricerca scientifica della superiorità biologica dei bianchi
+	- **Antisemitismo**
+		- *Motivazioni:*
+			- Deicidi
+			- Usurai ( Cristiani non potevano )
+			- Nemici interni e traditori in quanto senza patria ( Risultato dello sciovinismo )
+		- **Pogrom**
+			- Nati nell' impero russo
+			- Sommosse popolari anti ebrei
+			- Autorità complici
+			- Scusa dell'estinzione dei debiti degli ebrei
+		- **Affare Dreyfus**
+			- Caso giudiziario francese molto controverso
+			- Ufficiale francese ebreo accusato di spionaggio prove nulle o sommarie
+			- Divisione della francia tra pro e contro incarcerazione
+			- **Emilè Zola pro scarcerazione**
+		- **Protocolli dei Savi di Sion**
+			- Falso storico ritenuto vero all'epoca
+			- Trascrizione di una riunione segreta tra ebrei per la conquista del mondo
