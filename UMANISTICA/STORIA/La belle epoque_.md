@@ -170,6 +170,14 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 			- Movimento ideologico per l'autodeterminazione del popolo ebraico e l'istituzione di uno stato ebraico indipendente in Terra d'Israele.
 			- Porre fine alla **Diaspora**
 			- **1948 Nascita di Israele**
+			- Storia della palestina
+    			- Diaspora e abitazione della palestina dagli arabi
+    			- Dominio ottomano
+    			- Sionismo
+    			- Prima guerra mondiale -> Ottomani sconfitti dagli inglesi e istituzione di un focolare ebraico
+    			- Nazioni Unite concede un mandato sulla palestina e aumenta l'immigrazione ebraica causando prroblemi
+    			- Confiltti interni che portano alla divisione tra uno stato arabo e uno ebreo da parte delle Nazioni unite
+    			- Fondazione di Israele
 
 ## ** Italia**
 
