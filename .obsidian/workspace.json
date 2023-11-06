@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque.md",
+                "file": "UMANISTICA/ITALIANO/Verismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque.md",
+                "file": "UMANISTICA/ITALIANO/Verismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque.md"
+                "file": "UMANISTICA/ITALIANO/Verismo.md"
               }
             }
           },
@@ -211,10 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79e860cafcdfd9eb",
+  "active": "76f90a71290f0820",
   "lastOpenFiles": [
-    "UMANISTICA/STORIA/La belle epoque_.md",
     "UMANISTICA/STORIA/La belle epoque.md",
+    "UMANISTICA/STORIA/La belle epoque_.md",
     "UMANISTICA/ITALIANO/Verismo.md",
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/Il rinascimento italiano.md",

@@ -165,3 +165,80 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 		- **Protocolli dei Savi di Sion**
 			- Falso storico ritenuto vero all'epoca
 			- Trascrizione di una riunione segreta tra ebrei per la conquista del mondo
+			- Scoperto falso perché simile ad altre opere letterarie
+		- **Sionismo**
+			- Movimento ideologico per l'autodeterminazione del popolo ebraico e l'istituzione di uno stato ebraico indipendente in Terra d'Israele.
+			- Porre fine alla **Diaspora**
+			- **1948 Nascita di Israele**
+
+## ** Italia**
+
+### **Politica**
+- **Unità d' Italia**
+	- Destra storica -> Primi 15 anni
+	- Sinistra storica -> **De Pretis e Crispi**
+- Fine '800 agitazioni sociali
+	- Dura reazione del governo
+		- Bava Beccaris
+		- Leggi Liberticide
+	- Culmine dello scontro sociale -> **Regicidio 1900**
+		- Sale **Vittorio Emanuele III**
+	- Giolitti ministro degli interni -> Sinistra liberale
+		- Abbandono linea repressiva sugli operai
+		- Neutralità e mediazione
+		- Legislazione sociale
+			- Diminuzione lavoro minorile
+			- Sostegno infortuni / vecchiaia
+- **Età Giolittiana**
+	- 1912 Suffragio universale maschile rispetto a quello censitario 
+		- 30 anni
+		- 21 anni con: (*or*)
+			- Licenza elementare
+			- Censo minimo
+			- Servizio militare
+	- Tre culture politiche:
+		- **Socialisti** -> 1o partito in Italia
+		- **Cattolici**
+		- **Liberali**
+	- Giolitti prova a far entrare dei socialisti nel governo
+		- Fallimento a causa della crescita degli anarchici nel partito
+			- **Patto Gentiloni**
+				-  Patto tra Giolitti e Gentiloni in vista delle elezioni
+				- Cattolici votano per i liberali ( Giolitti )
+					- Ritorno dei cattolici nella vita politica dal *Non Expedit*
+				- Non vengono approvate leggi avverse ai cattolici
+				- Blocco dei socialisti
+
+### **Progresso**
+- Lo stato aiuta le imprese
+	- Obiettivo -> Rendere l'Italia una potenza industriale a discapito della carenza di risorse
+- Ferrovie dello stato, miglioramento infrastrutture, opere dello stato e protezionismo
+	- Meno tasse sui trasporti
+	- Miglioramento industrie siderurgiche e chimiche ( ILVA e EDISON )
+- Accentuamento arretratezza sud-Italia 
+	- Interventi a favore -> *Leggi del Mezzogiorno*
+	- Causa -> Latifondi e mancata riforma agraria
+		- Giolitti non fa la riforma agraria per i voti dei latifondisti ( I poveri non sapevano/potevano votare )
+		- Rapporti clientelari con le persone importanti al sud
+			- Denaro per voti
+			- Mafia locale esercitata da quest ultimi per voti
+			- **Giolitti *Ministro della malavita***
+- Emigrazione delle persone al sud
+
+### **Colonialismo**
+- De Pretis -> Crispi
+	- Sciovinismo italiano
+	- Alternativa migliore all'emigrazione del sud all'estero
+	- Vantaggi economici 
+	- Territori conquistati:
+		- Eritrea
+		- Somalia
+		- Etiopia
+		- Libia
+			- Guerra contro i turchi
+				- Vittoria italiana
+				- Repressione brutale della resistenza indigena
+			- **Pascoli** sostiene la guerra
+				- Cambio di idee da **Socialista a Nazionalista**
+				- *"La grande proletaria si è mossa"*
+				- *"Italy"*
