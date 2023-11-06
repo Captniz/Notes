@@ -95,7 +95,7 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 		- **In contrasto con Pio IX Non Expedit** ( "*Non conviene*" ) 1870
 		- Interclassismo e cooperazione di classe pacifica e proficua per entrambi ( Lavoro giusto )
 		- Nascita **leghe bianche** ( Associazioni operaie di ispirazione cattolica )
-		- Riscoperta dei diritti naturali
+		- Riscoperta dei diritti naturali quali la proprietà privata
 
 ## **Imperialismo**
 **1870 - 1914**
@@ -122,7 +122,6 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 	- Colonizzazione del Congo da parte del Belgio
 		- Opera estremamente cruda
 		- Esportazione gomma di caucciù
-- Decolonizzazione dopo la 2a guerra mondiale
 - Colonizzazione dell'india
 	- Mercato di smercio
 	- Cotone / Thé
@@ -170,16 +169,16 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 			- Movimento ideologico per l'autodeterminazione del popolo ebraico e l'istituzione di uno stato ebraico indipendente in Terra d'Israele.
 			- Porre fine alla **Diaspora**
 			- **1948 Nascita di Israele**
-			- Storia della palestina
-    			- Diaspora e abitazione della palestina dagli arabi
-    			- Dominio ottomano
-    			- Sionismo
-    			- Prima guerra mondiale -> Ottomani sconfitti dagli inglesi e istituzione di un focolare ebraico
-    			- Nazioni Unite concede un mandato sulla palestina e aumenta l'immigrazione ebraica causando prroblemi
-    			- Confiltti interni che portano alla divisione tra uno stato arabo e uno ebreo da parte delle Nazioni unite
-    			- Fondazione di Israele
+			- Storia della Palestina:
+				- Diaspora e abitazione della palestina dagli arabi
+				- Dominio ottomano
+				- Sionismo
+				- Prima guerra mondiale -> Ottomani sconfitti dagli inglesi e istituzione di un focolare ebraico
+				- Nazioni Unite concede un mandato sulla palestina e aumenta l'immigrazione ebraica causando prroblemi
+				- Conflitti interni che portano alla divisione tra uno stato arabo e uno ebreo da parte delle Nazioni unite
+				- Fondazione di Israele
 
-## ** Italia**
+## **Italia**
 
 ### **Politica**
 - **Unità d' Italia**
@@ -249,13 +248,13 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 			- **Pascoli** sostiene la guerra
 				- Cambio di idee da **Socialista a Nazionalista**
 				- *"La grande proletaria si è mossa"*
-    				- Importanza della conquista della Libia per evitare l'oppressione di chi emigrava
-    				- Riferimento all'impero romano e di come la Libia era meglio sotto il controllo italiano
-    				- Azione civilizzatrice
-    				- "*La grande proletaria*" e' l'italia in quanto non ha molte risorse a parte la prole, che non puo' mantenere
+					- Importanza della conquista della Libia per evitare l'oppressione di chi emigrava
+					- Riferimento all'impero romano e di come la Libia era meglio sotto il controllo italiano
+					- Azione civilizzatrice
+					- "*La grande proletaria*" e' l'italia in quanto non ha molte risorse a parte la prole, che non può mantenere
 				- *"Italy"*
-    				- Italiani oppressi all'estero
-    				- Italiani lavorano sodo per nulla
-    				- Italiani maltrattati
-        				- Segretezza della propria provenienza
-    				- Italiani lontani dalla patria 
+					- Italiani oppressi all'estero
+					- Italiani lavorano sodo per nulla
+					- Italiani maltrattati
+					- Segretezza della propria provenienza
+					- Italiani lontani dalla patria 
