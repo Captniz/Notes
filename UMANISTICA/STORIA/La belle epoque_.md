@@ -17,14 +17,14 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 
 ## Seconda rivoluzione industriale
 - Sviluppo chimico e metallurgico
-- Petrolio e corrente
+- Petrolio, gomma sintetica e corrente
 - Nuove invenzioni
 	- Bici
 	- Auto
-	- Aerei
+	- Aerei ->  **Wright**
 	- Radio
 	- Telefono
-	- Cinematografo
+	- Cinematografo -> **Lumier** -> Film del treno -> Film operai
 - Nuove tecniche di **organizzazione del lavoro e delle aziende**
 	- **Taylorismo:** Organizzazione scientifica e razionale del lavoro
 		- *Parcellizzazione:* Suddivisione del lavoro tra operai
@@ -66,6 +66,28 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 	- Primo partito in italia **Socialista**
 		- *Socialismo scientifico:* **Marxismo**
 			- Rivoluzione violenta -> Dittatura proletariato -> Società comunista
-		- Coscienza di classe -> **Organizzazione internazionale**
-			- **La prima internazionale**
+		- Coscienza di classe
+		- **Organizzazione internazionale**
+			- **La prima internazionale 1889**
 				- 1a associazione internazionale di lavoratori
+				- Delegati di associazioni operaie in diversi stati
+				- Contrasto tra comunisti e anarchici
+					- **Karl Marx: Comunisti**
+					- **Bakunin: Anarchici**
+			- **La seconda internazionale**
+				- Formata da rappresentanti dei partiti socialisti
+				- Creazione festa dei lavoratori
+				- Socialisti divisi
+					- **Riformisti**
+					- **Rivoluzionari**
+				- Guerre capitaliste
+			- Le riforme sociali
+				- Manifestazioni e scioperi
+				- Legislazioni sociali
+					- Dipinto "Il quarto stato"
+						- Titolo alternativo: "La fiumana" ( forza del popolo )
+						- Idea presa dai cannoni di Bava Beccaria
+						- Colori che dipingono dallo scuro al radioso futuro di giustizia
+					- Leggi sul lavoro minorile e femminile
+					- Limiti alla giornata lavorativa
+					- **Bismark:** Prime forme di assicurazione contro malattie, infortuni e vecchiaia
