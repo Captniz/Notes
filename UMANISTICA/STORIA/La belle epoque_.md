@@ -95,7 +95,7 @@ Il nome è nato *ex-post* ( Bella epoca in contrasto con la **1a Guerra mondiale
 		- **In contrasto con Pio IX Non Expedit** ( "*Non conviene*" ) 1870
 		- Interclassismo e cooperazione di classe pacifica e proficua per entrambi ( Lavoro giusto )
 		- Nascita **leghe bianche** ( Associazioni operaie di ispirazione cattolica )
-		- Riscoperta dei diritti naturali quali la proprietà privata ( locke pro , roussou contro )
+		- Riscoperta dei diritti naturali quali la proprietà privata ( Locke pro , Rousseau contro )
 
 ## **Imperialismo**
 **1870 - 1914**
