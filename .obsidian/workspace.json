@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fd15e057571095ae",
+        "id": "0326fe4ce9472a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "c56dba2d6d0b401a",
+            "id": "b9a262c57995b569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque_.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UMANISTICA/STORIA/La belle epoque_.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,16 +167,27 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "omnisearch:Omnisearch": false,
       "templates:Insert template": true,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c56dba2d6d0b401a",
+  "active": "b9a262c57995b569",
   "lastOpenFiles": [
+    "SISTEMI/TeoriaQuinta/stp_vlan.pdf",
+    "SISTEMI/TeoriaQuinta/nat_pat_dmz.pdf",
+    "SISTEMI/TeoriaQuinta/TCP_IP.pdf",
+    "SISTEMI/TeoriaQuinta/Riassunto.md",
+    "SISTEMI/TeoriaQuinta/STP_e_VLAN.pdf",
+    "SISTEMI/TeoriaQuinta/Protocolli_TCPIP.pdf",
+    "SISTEMI/TeoriaQuinta/NAT.pdf",
+    "SISTEMI/TeoriaQuinta/Firewall.pdf",
+    "SISTEMI/TeoriaQuinta/DNS.pdf",
+    "SISTEMI/TeoriaQuinta/firewall.pdf",
     "UMANISTICA/STORIA/La belle epoque_.md",
+    "UMANISTICA/INGLESE/1984 - Book.md",
     "UMANISTICA/STORIA/La belle epoque.md",
     "UMANISTICA/ITALIANO/Verismo.md",
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
@@ -200,28 +203,16 @@
     "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "UMANISTICA/ITALIANO/Il decadentismo.md",
     "MATEMATICA/Esercizi.md",
-    "MATEMATICA/DOCS/Integrali.pdf",
-    "MATEMATICA/DOCS/Derivate.pdf",
     "INFORMATICA/Html/Introduzione - Hyper Text Markup Language.md",
     "INFORMATICA/ADT - Abstract Data Types.md",
-    "INFORMATICA/Html",
     "INFORMATICA/Multithreading.md",
     "GESTIONE PROGETTO/Summary.canvas",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "UMANISTICA/ITALIANO/DOCS/8. La roba - Testo e commento.pdf",
-    "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf",
-    "UMANISTICA/ITALIANO/DOCS/1. B. Fenoglio, Una questione privata.pdf",
-    "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
-    "UMANISTICA/ITALIANO/Analisi testi/TestoTipoB_Annotato.pdf",
-    "UMANISTICA/ITALIANO/DOCS/1. E. Sanguineti, Se mi stacco da te.pdf",
     "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Analisi testi/La ginestras - Giacomo Leopardi.md",
     "UMANISTICA/ITALIANO/Analisi testi/L'infinito.md",
     "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Cinque Maggio.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Alla sera - Ugo Foscolo.md",
-    "EMBED/Drawing 2023-10-20 12.42.01.excalidraw.md",
     "EMBED/image-3.png",
     "EMBED/image.png",
     "EMBED/image-2.png",
