@@ -1,10 +1,11 @@
 {
-  "accentColor": "#a7c080",
-  "cssTheme": "Everforest",
-  "theme": "obsidian",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono",
-  "textFontFamily": "Inter,FiraCode Nerd Font",
-  "enabledCssSnippets": [
-    "ChangeTag"
-  ]
+    "accentColor": "#a7c080",
+    "cssTheme": "Everforest",
+    "theme": "obsidian",
+    "monospaceFontFamily": "FiraCode Nerd Font Mono",
+    "textFontFamily": "Inter,FiraCode Nerd Font",
+    "enabledCssSnippets": [
+        "ChangeTag"
+    ],
+    "csstheme": "Everforest"
 }

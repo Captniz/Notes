@@ -34,7 +34,9 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false
   },
   "EMBED": "RiStickyNoteLine",
   "GESTIONE PROGETTO": "TiSchema",
