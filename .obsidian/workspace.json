@@ -11,8 +11,30 @@
             "id": "b9a262c57995b569",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf"
+              }
+            }
+          },
+          {
+            "id": "edbfec747962091c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf"
+              }
+            }
+          },
+          {
+            "id": "8d6b6e4fae5f6a9c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf"
+              }
             }
           }
         ]
@@ -44,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#storia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 572.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -89,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf"
+              }
             }
           },
           {
@@ -176,20 +202,28 @@
   },
   "active": "b9a262c57995b569",
   "lastOpenFiles": [
-    "SISTEMI/TeoriaQuinta/stp_vlan.pdf",
-    "SISTEMI/TeoriaQuinta/nat_pat_dmz.pdf",
-    "SISTEMI/TeoriaQuinta/TCP_IP.pdf",
+    "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
+    "UMANISTICA/ITALIANO/DOCS/3. Corrispondenze.pdf",
+    "SISTEMI/TeoriaQuinta/NAT - PAT - DMZ.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/8. La ginestra.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/7. Dialogo della Natura e di un Islandese - Testo.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/6. Le Operette morali.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/5.1. Il sabato del villaggio - Domande.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/5. Il sabato del villaggio - Testo.pdf",
+    "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/3. L infinito - Testo ed esercizi.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/4. A Silvia - Testo.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/3.1. Teoria del piacere e immaginazione.pdf",
+    "UMANISTICA/ITALIANO/Il decadentismo.md",
+    "UMANISTICA/ITALIANO/Verismo.md",
+    "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
+    "UMANISTICA/ITALIANO/Neoclassicismo.md",
+    "UMANISTICA/ITALIANO/Neorealismo.md",
+    "UMANISTICA/ITALIANO/Ugo Foscolo.md",
     "SISTEMI/TeoriaQuinta/Riassunto.md",
-    "SISTEMI/TeoriaQuinta/STP_e_VLAN.pdf",
-    "SISTEMI/TeoriaQuinta/Protocolli_TCPIP.pdf",
-    "SISTEMI/TeoriaQuinta/NAT.pdf",
-    "SISTEMI/TeoriaQuinta/Firewall.pdf",
-    "SISTEMI/TeoriaQuinta/DNS.pdf",
-    "SISTEMI/TeoriaQuinta/firewall.pdf",
     "UMANISTICA/STORIA/La belle epoque_.md",
     "UMANISTICA/INGLESE/1984 - Book.md",
     "UMANISTICA/STORIA/La belle epoque.md",
-    "UMANISTICA/ITALIANO/Verismo.md",
     "UMANISTICA/STORIA/Il socialismo dei proletari.md",
     "UMANISTICA/STORIA/Il rinascimento italiano.md",
     "UMANISTICA/STORIA/Il pensiero socialista.md",
@@ -200,19 +234,12 @@
     "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
     "INFORMATICA/Sql/Database - Introduzione.md",
     "INFORMATICA/Sql/Database.canvas",
-    "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
-    "UMANISTICA/ITALIANO/Il decadentismo.md",
     "MATEMATICA/Esercizi.md",
     "INFORMATICA/Html/Introduzione - Hyper Text Markup Language.md",
     "INFORMATICA/ADT - Abstract Data Types.md",
     "INFORMATICA/Multithreading.md",
     "GESTIONE PROGETTO/Summary.canvas",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Ne mai più toccherò le sacre sponde - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/Analisi testi/La ginestras - Giacomo Leopardi.md",
-    "UMANISTICA/ITALIANO/Analisi testi/L'infinito.md",
-    "UMANISTICA/ITALIANO/Analisi testi/Dialogo della natura e di un Islandese - Giacomo Leopardi.md",
     "EMBED/image-3.png",
     "EMBED/image.png",
     "EMBED/image-2.png",
