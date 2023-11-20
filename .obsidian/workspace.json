@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9a262c57995b569",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf"
-              }
-            }
-          },
-          {
             "id": "edbfec747962091c",
             "type": "leaf",
             "state": {
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf",
+                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf",
+                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/2. La lupa.pdf"
+                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf"
               }
             }
           },
@@ -200,20 +190,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b9a262c57995b569",
+  "active": "edbfec747962091c",
   "lastOpenFiles": [
-    "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
-    "UMANISTICA/ITALIANO/DOCS/3. Corrispondenze.pdf",
-    "SISTEMI/TeoriaQuinta/NAT - PAT - DMZ.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/8. La ginestra.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/7. Dialogo della Natura e di un Islandese - Testo.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/6. Le Operette morali.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/5.1. Il sabato del villaggio - Domande.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/5. Il sabato del villaggio - Testo.pdf",
     "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/3. L infinito - Testo ed esercizi.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/4. A Silvia - Testo.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giacomo Leopardi/3.1. Teoria del piacere e immaginazione.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/9. Tentazione - Testo.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/8. La roba - Testo e commento.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/6. I Malavoglia - Dal cap. XIII.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/4.1. I Malavoglia - La prefazione (testo).pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/5. I Malavoglia - Dal cap. I - Incipit.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/4. I Malavoglia - La prefazione (lezione).pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/3. I Malavoglia - Presentazione opera e trama (evidenziato).pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/2. La lupa.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/1. Rosso Malpelo.pdf",
+    "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
     "UMANISTICA/ITALIANO/Il decadentismo.md",
     "UMANISTICA/ITALIANO/Verismo.md",
     "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
@@ -239,7 +229,6 @@
     "INFORMATICA/ADT - Abstract Data Types.md",
     "INFORMATICA/Multithreading.md",
     "GESTIONE PROGETTO/Summary.canvas",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
     "EMBED/image-3.png",
     "EMBED/image.png",
     "EMBED/image-2.png",

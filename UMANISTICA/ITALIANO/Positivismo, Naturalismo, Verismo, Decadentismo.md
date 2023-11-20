@@ -1,0 +1,70 @@
+## Teoria
+
+- **Positivismo**
+	- Fiducia nella scienza
+	- Dopo la 1a rivoluzione industriale -> 2nda meta' '800
+	- Metodo scientifico applicabile al comportamento umano
+		- Antropologia -> Razzismo scientifico
+		- Sociologia -> Darwinismo sociale
+		- Psicologia
+- **Naturalismo** -> Positivismo in Francia
+	- Letteratura che studia l'uomo
+	- ***Emile Zola*** -> Maggiore esponente
+		- Romanzi e racconti sulle classi più basse della società
+- **Verismo** -> Naturalismo in Italia
+	- 2nda meta' '800
+	- Testi che raccontano e dal punto di vista del popolo
+	- ***Tecniche narrative***
+		- *Impersonalità*
+			- L'autore scompare ( No commenti, giudizi )
+			- Spesso in prima persona
+		- *Tecnica della regressione*
+			- Il narratore abbandona il punto di vista, linguaggi e valori propri
+	- ***Giovanni Verga*** -> Maggiore esponente
+		- Catanese -> Firenze -> Milano -> Sicilia
+		- Scrive del popolo siciliano
+		- Testi in dialetto siciliano imitato
+			- Leggibilità
+			- Diffusione italiano
+		- Crede che: 
+			- *"La letteratura non può migliorare la società"*
+			- *"Il letterato non e' più rilevante nella società"*
+				- Non devono più essere patrioti e diffusori dell'essere italiani
+				- Importanza del progresso li sostituisce
+			- Nega il progresso sociali
+				- Le gerarchie sociali rimangono le stesse
+			- Esiste una continua lotta tra gli uomini per interessi individuali
+				- Darwinismo sociale
+				- Critica al capitalismo
+- **Decadentismo** -> Sempre legato al positivismo
+	- Nome derivante dall' espressione francese per descrivere uno stato d'animo *"L'impero alla fine della decadenza"*
+		- Senso di abbattimento / estenuazione fisica e psichica provocata dal vivere in una società borghese
+	- Disagio nella società borghese ( Famiglia, soldi, lavoro )
+	- **Sfiducia** nella ragione e **uso della percezione e intuizione**
+		- **Poeti veggenti** -> Vedono cose che gli altri non vedono
+	- L'arte e' secondaria nella società borghese
+		- Rivendicazione della propria diversità
+		- Valore assoluto all'arte ( Arte per l'arte, fine a se stessa ) 
+		- Fine estetico dell'arte
+			- **Esteti ( Dandy )**
+	- **Charles Baudelaire** -> Precursore del decadentismo
+	- Iniziatore della poesia moderna
+	- Precursore dei Dandy
+	- Opera *"Le fleurs du mal"* processata e censurata per immoralità
+	- Droghe come paradisi artificiali
+	- Arte vero paradiso naturale
+	- Poeta maledetto -> Opposizione alle convinzioni sociali e al perbenismo
+
+## Testi
+
+- **Giovanni Verga**
+	- Rosso Malpelo
+	- La lupa
+	- I Malavoglia
+	- La roba
+	- Tentazione
+- **Charles Baudelaire**
+	- Perdita d'aureola
+	- L' albatro
+	- Corrispondenze
+	- Spleen
