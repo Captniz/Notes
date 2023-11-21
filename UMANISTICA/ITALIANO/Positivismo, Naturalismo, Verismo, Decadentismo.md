@@ -48,12 +48,27 @@
 		- Fine estetico dell'arte
 			- **Esteti ( Dandy )**
 	- **Charles Baudelaire** -> Precursore del decadentismo
-	- Iniziatore della poesia moderna
-	- Precursore dei Dandy
-	- Opera *"Le fleurs du mal"* processata e censurata per immoralità
-	- Droghe come paradisi artificiali
-	- Arte vero paradiso naturale
-	- Poeta maledetto -> Opposizione alle convinzioni sociali e al perbenismo
+		- Iniziatore della poesia moderna
+		- Precursore dei Dandy
+		- Opera *"Le fleurs du mal"* processata e censurata per immoralità
+		- Droghe come paradisi artificiali
+		- Arte vero paradiso naturale
+		- Poeta maledetto -> Opposizione alle convinzioni sociali e al perbenismo
+	- **Pascoli**
+		- Papa' morto assassinato
+		- Iniziatore della poesia moderna
+		- Ossessione morbosa per la famiglia
+		- Raccolte poetiche e opere:
+			- ***Myricae*** 
+				- Nome deriva dalle tamerici, pianta comune, cosa semplice che nella poesia di pascoli ha un significato simbolico
+				- Virgilio si riferiva con la parola myricae alla poesia semplice
+			- Canti di Castelvecchio
+			- ***Il fanciullino*** 
+				- Atteggiamento bambinesco -> scompare con l'età
+				- Poeta fa uscire il fanciullino mentre scrive
+					- Approccio intuitivo alla realtà
+					- Poeta diverso
+					- Poeta veggente
 
 ## Testi
 

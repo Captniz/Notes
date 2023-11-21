@@ -8,22 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edbfec747962091c",
+            "id": "ed7b0d857c067261",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf"
+                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+                "mode": "source",
+                "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c08e3ef6a13f07d6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8d6b6e4fae5f6a9c",
+            "id": "d83a65ff3a3e0f1d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf"
+                "file": "UMANISTICA/ITALIANO/Il decadentismo.md"
               }
             }
           }
@@ -85,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 572.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -101,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
+                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
+                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf"
+                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md"
               }
             }
           },
@@ -190,9 +199,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "edbfec747962091c",
+  "active": "ed7b0d857c067261",
   "lastOpenFiles": [
+    "UMANISTICA/ITALIANO/Il decadentismo.md",
     "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+    "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
     "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/9. Tentazione - Testo.pdf",
     "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/8. La roba - Testo e commento.pdf",
     "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
@@ -202,9 +213,7 @@
     "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/4. I Malavoglia - La prefazione (lezione).pdf",
     "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/3. I Malavoglia - Presentazione opera e trama (evidenziato).pdf",
     "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/2. La lupa.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/1. Rosso Malpelo.pdf",
     "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
-    "UMANISTICA/ITALIANO/Il decadentismo.md",
     "UMANISTICA/ITALIANO/Verismo.md",
     "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
     "UMANISTICA/ITALIANO/Neoclassicismo.md",
