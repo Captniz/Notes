@@ -27,11 +27,13 @@
 			- Leggibilità
 			- Diffusione italiano
 		- Crede che: 
+			- Progresso generato dalla volontà di miglioramento dei singoli: «ricerca del meglio» ->  Ricerca dell’interesse individuale -> Il risultato umanitario copre quanto c’è di meschino negli interessi particolari che lo producono
+			- Fiumana del progresso che travolge i deboli -> Solo l’osservatore, travolto anch’esso dalla fiumana, guardandosi attorno, ha il diritto di interessarsi ai deboli che restano per via, senza giudicare.
 			- *"La letteratura non può migliorare la società"*
 			- *"Il letterato non e' più rilevante nella società"*
 				- Non devono più essere patrioti e diffusori dell'essere italiani
 				- Importanza del progresso li sostituisce
-			- Nega il progresso sociali
+			- Nega il progresso sociale
 				- Le gerarchie sociali rimangono le stesse
 			- Esiste una continua lotta tra gli uomini per interessi individuali
 				- Darwinismo sociale
@@ -54,6 +56,7 @@
 		- Droghe come paradisi artificiali
 		- Arte vero paradiso naturale
 		- Poeta maledetto -> Opposizione alle convinzioni sociali e al perbenismo
+		- Bohemien
 	- **Pascoli**
 		- Papa' morto assassinato
 		- Iniziatore della poesia moderna

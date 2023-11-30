@@ -36,7 +36,8 @@
     "iconInTabsEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "EMBED": "RiStickyNoteLine",
   "GESTIONE PROGETTO": "TiSchema",

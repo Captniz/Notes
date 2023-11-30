@@ -4,38 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "0326fe4ce9472a8f",
+        "id": "5f241ffc6fc85d63",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7b0d857c067261",
+            "id": "c0e90809f2500475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
-                "mode": "source",
-                "source": false
+                "file": "MATEMATICA/Esercizi.md"
+              }
+            }
+          },
+          {
+            "id": "863870503563c1bc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATEMATICA/DOCS/Derivate.pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "c08e3ef6a13f07d6",
+        "id": "d30b297c90b6ff43",
         "type": "tabs",
         "children": [
           {
-            "id": "d83a65ff3a3e0f1d",
+            "id": "e0580f8985c59278",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATEMATICA/DOCS/Integrali.pdf"
+              }
+            }
+          },
+          {
+            "id": "cdf6462b58cc2bf0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Il decadentismo.md"
+                "file": "UMANISTICA/STORIA/Prima Guerra Mondiale.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5,
+    "width": 323.5,
     "collapsed": true
   },
   "right": {
@@ -110,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+                "file": "MATEMATICA/Esercizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+                "file": "MATEMATICA/Esercizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md"
+                "file": "MATEMATICA/Esercizi.md"
               }
             }
           },
@@ -199,21 +218,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed7b0d857c067261",
+  "active": "c0e90809f2500475",
   "lastOpenFiles": [
-    "UMANISTICA/ITALIANO/Il decadentismo.md",
-    "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
-    "UMANISTICA/ITALIANO/DOCS/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/9. Tentazione - Testo.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/8. La roba - Testo e commento.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/7. I Malavoglia - Dal cap. XV - Conclusione del romanzo.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/6. I Malavoglia - Dal cap. XIII.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/4.1. I Malavoglia - La prefazione (testo).pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/5. I Malavoglia - Dal cap. I - Incipit.pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/4. I Malavoglia - La prefazione (lezione).pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/3. I Malavoglia - Presentazione opera e trama (evidenziato).pdf",
-    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/2. La lupa.pdf",
     "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
+    "MATEMATICA/Esercizi.md",
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "MATEMATICA/DOCS/Integrali.pdf",
+    "MATEMATICA/Derivate.md",
+    "INFORMATICA/Sql/Database - Introduzione.md",
+    "EMBED/Pasted image 20230515185148.png",
+    "EMBED/Multithreading in Java - Schema.md",
+    "EMBED/image-2.png",
+    "EMBED/Accesso multiplo a canali condivisi 2023-03-07 16.25.42.excalidraw.md",
+    "UMANISTICA/ITALIANO/DOCS/2. Lavandare.pdf",
+    "UMANISTICA/ITALIANO/2. Lavandare.pdf",
+    "GESTIONE PROGETTO/Boh.md",
+    "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
+    "UMANISTICA/ITALIANO/DOCS/2022-23/1. B. Fenoglio, Una questione privata.pdf",
+    "UMANISTICA/ITALIANO/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+    "UMANISTICA/ITALIANO/I Malavoglia.md",
+    "UMANISTICA/ITALIANO/DOCS/Charles Baudelaire/4. Spleen.pdf",
+    "UMANISTICA/ITALIANO/DOCS/2022-23",
+    "UMANISTICA/ITALIANO/DOCS/Charles Baudelaire/3. Corrispondenze.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Charles Baudelaire/1. Perdita d aureola.pdf",
+    "UMANISTICA/ITALIANO/DOCS/Giovanni Verga/9. Tentazione - Testo.pdf",
+    "UMANISTICA/ITALIANO/Il decadentismo.md",
     "UMANISTICA/ITALIANO/Verismo.md",
     "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
     "UMANISTICA/ITALIANO/Neoclassicismo.md",
@@ -228,26 +257,16 @@
     "UMANISTICA/STORIA/Il pensiero socialista.md",
     "UMANISTICA/STORIA/I moti del '48.md",
     "UMANISTICA/STORIA/I moti del '20, '30, '31.md",
-    "UMANISTICA/STORIA/Dopo l'unità.md",
-    "INFORMATICA/Sql/Vincoli nei database.md",
-    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
-    "INFORMATICA/Sql/Database - Introduzione.md",
     "INFORMATICA/Sql/Database.canvas",
-    "MATEMATICA/Esercizi.md",
-    "INFORMATICA/Html/Introduzione - Hyper Text Markup Language.md",
-    "INFORMATICA/ADT - Abstract Data Types.md",
-    "INFORMATICA/Multithreading.md",
     "GESTIONE PROGETTO/Summary.canvas",
     "EMBED/image-3.png",
     "EMBED/image.png",
-    "EMBED/image-2.png",
     "EMBED/image-4.png",
     "EMBED/image-1.png",
     "GESTIONE PROGETTO/image-4.png",
     "GESTIONE PROGETTO/image-1.png",
     "GESTIONE PROGETTO/image.png",
     "GESTIONE PROGETTO/image-3.png",
-    "GESTIONE PROGETTO/image-2.png",
     "INFORMATICA/Teoria/Database.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas",
