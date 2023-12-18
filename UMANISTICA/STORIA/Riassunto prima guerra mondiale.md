@@ -1,0 +1,59 @@
+FONTI
+- Telefono foto
+- Moodle
+- Appunti: 1 guerra mondiale e dannunzio
+
+## **Cause della guerra**
+- Paesi sentono il dovere e il diritto alla guerra
+- *Weltpolitik* (*Politica mondiale*) in Germania, contraria alla politica di equilibrio di Bismark
+	- Germania punta a essere una potenza mondiale, **II Reich**
+	- Politica estera aggressiva
+	- Egemonia sui mari
+		- Potenziata flotta marittima
+		- Ostilità inglese nota per la propria flotta
+- Corsa al riarmo Inglese e Tedesca
+- Revanscismo francese dalla guerra Franco-Prussiana
+- **Intesa:  Inghilterra - Francia - Russia**
+- 1a guerra balcanica
+	- Debolezza dopo la guerra in Libia
+	- Polveriera ( *da sparo* ) balcanica
+	- Gli Ottomani perdono i possedimenti
+- Nazionalismo Serbo in Austria
+	- Serbia appoggiata da Russia
+	- Serbia e Russia contro Austria
+- **Alleati: Germani, Austria, Italia ( *Dopo* )**
+- **Intesa: Francia, Russia + Serbia, Inghilterra**
+
+## **Causa scatenante e inizio della guerra**
+- **Attentato di Sarajevo** all' Arciduca *Francesco Ferdinando*
+	- Molti Bosniaci erano filo-Serbi
+	- Attentatore fa parte di un' associazione di nazionalisti 
+- Ultimatum dell' impero Austro-Ungarico alla Serbia
+	- Serbia rifiuta poiché mina la sovranità della Serbia 
+	- **Dichiarazione guerra nel 1914**
+- Entra in vigore il sistema delle alleanze
+- Germania si scontrano Francia e sperano in una *guerra rapida*
+- Germania si spinge verso la Francia
+	- Fermati degli Anglo-Francesi
+- Russia si scontra contro Austria e Germania
+	- I Russi invadono il Belgio ( *neutrale* ) per andare in Francia
+	- La Germania invade il Belgio a sua volta per contrastare i Russi
+	- Resistenza Belga
+		- Francia si prepara grazie al tempo guadagnato
+		- Francia resiste all' attacco tedesco a 40Km da Parigi
+		- **Guerra lampo -> Guerra di posizione / logoramento**
+			- Utilizzo di armi potenti
+			- Trincee difensive
+				- Igiene scarsa
+				- PTSD e Nevrosi
+				- Epidemie
+	- Vittoria Russa sulla Germania
+- Guerre navali
+	- Principali rotte tra Atlantico e Pacifico
+	- Impedire i rifornimenti
+- Mobilitazione truppe coloniali
+	- *Guerra mondiale*
+		- Stati neutrali e civili colpiti
+		- Fucilazioni e stupri dei civili
+		- Gerarchie militari incitano le barbarie per alzare il morale
+	- **Guerre in Asia ed Africa**

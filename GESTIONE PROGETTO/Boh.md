@@ -7,3 +7,14 @@
 Tmin + 4\*tmod + tmax
 
 varianza = scarto quadratico medio
+
+
+
+
+
+
+Resource leveling
+persone over o sotto utilizzate
+basato sulle persone di un progetto
+risorse time limited
+situazione resource limited
