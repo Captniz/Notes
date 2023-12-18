@@ -6,7 +6,6 @@
       {
         "id": "89eeb681f03084f2",
         "type": "tabs",
-        "dimension": 39.686825053995676,
         "children": [
           {
             "id": "da7e21b2bcf35720",
@@ -17,33 +16,6 @@
                 "file": "UMANISTICA/STORIA/Riassunto prima guerra mondiale.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7a0a6db6d46c91f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UMANISTICA/ITALIANO/Dannunzio.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e0cedcec8b9eb710",
-        "type": "tabs",
-        "dimension": 60.313174946004324,
-        "children": [
-          {
-            "id": "6889eaff9d157cfe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UMANISTICA/STORIA/Prima Guerra Mondiale.md"
               }
             }
           }
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
+                "file": "UMANISTICA/STORIA/Riassunto prima guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
+                "file": "UMANISTICA/STORIA/Riassunto prima guerra mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/Prima Guerra Mondiale.md"
+                "file": "UMANISTICA/STORIA/Riassunto prima guerra mondiale.md"
               }
             }
           },
@@ -211,11 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6889eaff9d157cfe",
+  "active": "da7e21b2bcf35720",
   "lastOpenFiles": [
+    "UMANISTICA/ITALIANO/Dannunzio.md",
     "UMANISTICA/STORIA/Riassunto prima guerra mondiale.md",
     "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
-    "UMANISTICA/ITALIANO/Dannunzio.md",
     "UMANISTICA/STORIA/Riassunto 1800.md",
     "GESTIONE PROGETTO/Industria 4.0.md",
     "MATEMATICA/Esercizi.md",
