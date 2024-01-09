@@ -1,6 +1,6 @@
 /* -------- FRONT MATTER ---------
 ** Theme: Obsidian Typewriter
-** Version number: 2.1.3
+** Version number: 2.1.6
 ** GitHub Repo: https://github.com/crashmoney/obsidian-typewriter
 ** Made by: crashmoney
 ----------------------------------- */
@@ -72,6 +72,7 @@ body {
   --base-d: 15%; /* base lightness for dark mode. 0 is black */
   --base-l: 96%; /* base lightness for light mode. 100 is white */
 
+  /* rgb: 81, 157, 92 */
   --theme-accent-h: 129;
   --theme-accent-s: 31.9%;
   --theme-accent-l: 46.7%;
@@ -276,6 +277,8 @@ body {
     var(--font-text-override);
   --font-monospace-theme: "JetBrains Mono";
 
+  --metadata-input-font-size: var(--font-small);
+
   --font-normal: 1em;
   --font-small: 0.813em;
   --font-smaller: 0.688em;
@@ -376,6 +379,18 @@ body {
   font-weight: var(--h1-weight);
 }
 
+/* increase space between editor and metadata – credit to Minimal */
+.metadata-container {
+  --input-height: 2rem;
+}
+.markdown-source-view .metadata-container {
+  transform: translateX(-4px);
+}
+.is-phone {
+  --metadata-label-font-size: var(--font-adaptive-smaller);
+  --metadata-input-font-size: var(--font-adaptive-smaller);
+}
+
 /* make cursor accent color */
 .CodeMirror-cursor {
   background-color: var(--color-accent);
@@ -398,7 +413,8 @@ body .modal .prompt-results {
   padding: calc((1rem * 2) * 1);
 }
 body .modal-bg {
-  backdrop-filter: blur(8px);
+  /* backdrop-filter: blur(8px); */ /* causes slowdowns */
+  background-color: rgb(8, 8, 8);
 }
 
 /* make workspace frameless */
@@ -409,6 +425,73 @@ body .modal-bg {
   background-color: var(--background-primary);
 }
 
+/* remove note-to-note link underline */
+:root body {
+  --link-decoration: none;
+  --link-decoration-hover: none;
+}
+
+/* centered tables, taken from sanctum */
+body {
+  --table-header-size: var(--font-small);
+  --table-header-weight: var(--font-semibold);
+  --table-header-color: var(--text-normal);
+}
+.cm-embed-block.markdown-rendered .block-language-dataview,
+.markdown-rendered table,
+.markdown-rendered .table-view-table {
+  margin-bottom: 1.5em;
+  width: 100%;
+}
+.cm-embed-block.markdown-rendered .block-language-dataview th,
+.cm-embed-block.markdown-rendered .block-language-dataview td,
+.markdown-rendered table th,
+.markdown-rendered table td,
+.markdown-rendered .table-view-table th,
+.markdown-rendered .table-view-table td {
+  padding: 0.6em 1.8em 0.6em 1.8em;
+}
+.cm-embed-block.markdown-rendered .block-language-dataview td,
+.markdown-rendered table td,
+.markdown-rendered .table-view-table td {
+  font-size: var(--font-small);
+}
+
+/* h1 and surrounding p margin variables, thanks to FireIsGood#0733 */
+:root h1 {
+  margin: 0;
+}
+.markdown-preview-view div:has(> h1) + div > p {
+  margin-top: 1em;
+}
+.markdown-preview-view div:has(+ div > h1) > p {
+  margin-bottom: 0.33em;
+}
+
+/* FIX: margin-top funkiness present since Obsidian 1.1+ */
+.markdown-source-view table {
+  margin-top: 0;
+}
+
+/* EDITOR: font-scalable edit-block-button */
+/* add header padding for button if last column is right-aligned */
+.markdown-source-view table th:last-child[align="right"] {
+  padding-right: 2.767527675276753em;
+  padding-left: 0.8324108241082411em; /* balances padding-right */
+}
+/* button attributes */
+.markdown-source-view.mod-cm6 .edit-block-button {
+  opacity: 1;
+  top: 0.3em;
+  right: 0.25em;
+  align-items: center;
+  justify-content: center;
+}
+.markdown-source-view div.edit-block-button svg {
+  width: 1.2em;
+  height: 1em;
+}
+
 /* +++ PLUGINS */
 
 /* ZOOM by @vslinko */
@@ -417,7 +500,7 @@ body .modal-bg {
 }
 
 /* KANBAN by @mgmeyers */
-.kanban-plugin__grow-wrap>textarea {
+.kanban-plugin__grow-wrap > textarea {
   background-color: var(--background-primary);
 }
 
@@ -427,12 +510,13 @@ div.todo-item-view-item span.due-date {
   color: white; /* makes due dates legible */
 }
 
-div.todo-item-view-item span.due-date.overdue { 
+div.todo-item-view-item span.due-date.overdue {
   background-color: var(--orange);
 }
 
 /* make toolbar items more legible */
-div.todo-item-view-item-link svg, div.todo-item-view-toolbar-item svg {
+div.todo-item-view-item-link svg,
+div.todo-item-view-toolbar-item svg {
   fill: var(--text-faint);
 }
 /* make focused toolbar item follow the theme accent */

@@ -25,6 +25,12 @@
         "icon": "FarFilePdf",
         "for": "everything",
         "order": 1
+      },
+      {
+        "rule": "RIASSUNTI",
+        "icon": "IbText2",
+        "for": "everything",
+        "order": 2
       }
     ],
     "extraMargin": {
@@ -46,6 +52,5 @@
   "SISTEMI": "LiNetwork",
   "TDP": "RiFileCodeLine",
   "TELECOMUNICAZIONI": "RiRadarLine",
-  "UMANISTICA": "FasBook",
-  "UMANISTICA/ITALIANO/Analisi testi": "FasPenNib"
+  "UMANISTICA": "FasBook"
 }
