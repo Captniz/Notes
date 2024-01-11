@@ -1,9 +1,9 @@
-#sistemi #livelloDue
-
-PDF: [ [[8 - Bit-stuffing and piggybacking.pdf]] ]
-
 ---
-
+Related pages:
+  - "[[8 - Bit-stuffing and piggybacking.pdf]]"
+tags:
+  - sistemi
+---
 ## Bit stuffing
 #### Bit stuffing nel protocollo SDLC
 

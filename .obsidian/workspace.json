@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15ef6e2af9779260",
+        "id": "2dee66f5bfcbe7dc",
         "type": "tabs",
         "children": [
           {
-            "id": "af3fa7dd7856caa6",
+            "id": "caeeed2c3528eb99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
-                "viewState": {
-                  "x": -10,
-                  "y": 110,
-                  "zoom": -0.2192730794922691
-                }
+                "file": "MATEMATICA/DOCS/Derivate.pdf"
               }
             }
           }
@@ -51,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sistemi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
+                "file": "MATEMATICA/DOCS/Derivate.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
+                "file": "MATEMATICA/DOCS/Derivate.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas"
+                "file": "MATEMATICA/DOCS/Derivate.pdf"
               }
             }
           },
@@ -187,11 +183,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "00d9242cc4c73542",
+  "active": "caeeed2c3528eb99",
   "lastOpenFiles": [
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "MATEMATICA/Derivate.md",
+    "MATEMATICA/Esercizi.md",
+    "UMANISTICA/ITALIANO/Freud.md",
+    "UMANISTICA/ITALIANO/Dannunzio.md",
+    "UMANISTICA/ITALIANO/Neorealismo.md",
+    "UMANISTICA/ITALIANO/Verismo.md",
+    "MATEMATICA/DOCS/Integrali.pdf",
+    "GESTIONE PROGETTO/DOCS/Libro schemi costi e risorse.pdf",
+    "GESTIONE PROGETTO/DOCS/Resource leveling.pdf",
+    "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
+    "GESTIONE PROGETTO/DOCS/PERT CPM.pdf",
+    "GESTIONE PROGETTO/DOCS/Distribuzione normale.pdf",
+    "GESTIONE PROGETTO/DOCS/Strutture di scomposizione.pdf",
+    "GESTIONE PROGETTO/DOCS/Strutture costi e risorse.pdf",
+    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
+    "NoteLinux.md",
+    "Ranger-cheatsheet.md",
+    "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
+    "SISTEMI/Livello 2/Livello 2 - Riassunto.md",
+    "SISTEMI/Livello 2/DOCS/8 - Bit-stuffing and piggybacking.pdf",
+    "SISTEMI/Livello 2/1 - Enti Normatori.md",
+    "SISTEMI/Livello 2/5 - Mixed info.md",
+    "SISTEMI/Livello 2/0 - Riassunto.canvas",
+    "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
+    "UMANISTICA/ITALIANO/Il decadentismo.md",
+    "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "GESTIONE PROGETTO/RIASSUNTI",
     "GESTIONE PROGETTO/Untitled.md",
-    "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "GESTIONE PROGETTO/Industria 4.0.md",
     "GESTIONE PROGETTO/Strutture organizzative.md",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
@@ -199,33 +221,8 @@
     "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
     "GESTIONE PROGETTO/Boh.md",
     "GESTIONE PROGETTO/Esercizio.md",
-    "SISTEMI/HW-SW reti/DOCS/Firewall.pdf",
-    "SISTEMI/HW-SW reti/DOCS/DNS.pdf",
     "SISTEMI/HW-SW reti/Crittografia.md",
     "INFORMATICA/Sql/Vincoli nei database.md",
-    "SISTEMI/HW-SW reti/DOCS",
-    "UMANISTICA/ITALIANO/Il decadentismo.md",
-    "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
-    "UMANISTICA/ITALIANO/Leopardi.md",
-    "UMANISTICA/ITALIANO/Neoclassicismo.md",
-    "UMANISTICA/ITALIANO/Verismo.md",
-    "UMANISTICA/ITALIANO/Neorealismo.md",
-    "UMANISTICA/ITALIANO/RIASSUNTI/Positivismo, Naturalismo, Verismo, Decadentismo.md",
-    "UMANISTICA/ITALIANO/RIASSUNTI/Romanticismo.md",
-    "UMANISTICA/ITALIANO/RIASSUNTI/Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/I Malavoglia.md",
-    "UMANISTICA/ITALIANO/Freud.md",
-    "UMANISTICA/ITALIANO/Dannunzio.md",
-    "UMANISTICA/ITALIANO/DOCS/3. Il tuono.pdf",
-    "UMANISTICA/ITALIANO/TESTI/TestoTipoB_Annotato.pdf",
-    "UMANISTICA/ITALIANO/TESTI/I sepolcri - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/TESTI/Cinque Maggio.md",
-    "UMANISTICA/ITALIANO/TESTI/Alla sera - Ugo Foscolo.md",
-    "UMANISTICA/ITALIANO/DOCS/1. Rosso Malpelo.pdf",
-    "UMANISTICA/ITALIANO/DOCS/1. Perdita d aureola.pdf",
-    "UMANISTICA/ITALIANO/DOCS/1. B. Fenoglio, Una questione privata.pdf",
-    "UMANISTICA/ITALIANO/DOCS/4. Temporale.pdf",
-    "UMANISTICA/ITALIANO/RIASSUNTI",
     "EMBED/Pasted image 20230515185148.png",
     "EMBED/image-2.png",
     "INFORMATICA/Sql/Database.canvas",
@@ -239,7 +236,6 @@
     "GESTIONE PROGETTO/image-3.png",
     "INFORMATICA/Teoria/Database.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
-    "SISTEMI/Livello 3/0 - Riassunto.canvas",
-    "SISTEMI/Livello 2/0 - Riassunto.canvas"
+    "SISTEMI/Livello 3/0 - Riassunto.canvas"
   ]
 }

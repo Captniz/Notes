@@ -2,9 +2,9 @@
 tags:
   - gestioneProgetto
 Related PDFs:
-  - "[[Gestione Progetto_ Work.pdf]]"
-  - "[[Gestione Progetto_ CBS e RBSv2.pdf]]"
-  - "[[Capitolo1_GPOI.pdf]]"
+  - "[[Strutture di scomposizione.pdf]]"
+  - "[[Strutture costi e risorse.pdf]]"
+  - "[[Libro schemi costi e risorse.pdf]]"
 ---
 ## WBS (Work Break Down Structure)  
 
