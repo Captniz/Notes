@@ -74,7 +74,163 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.16",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "pATTrbYnPWDl7b0rfMyOw",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "rectangle",
+            "version": 110,
+            "versionNonce": 752575320,
+            "isDeleted": false,
+            "id": "Wnec_cMJ3QNnsT2Gdeybd",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -605.1071428571428,
+            "y": 234.61160714285734,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 335.71428571428567,
+            "height": 55.714285714285694,
+            "seed": 71920728,
+            "groupIds": [
+              "yOAmQ_cQLgxoQ8DrCuRIl"
+            ],
+            "frameId": null,
+            "roundness": {
+              "type": 3
+            },
+            "boundElements": [
+              {
+                "type": "text",
+                "id": "GPrwXXuC"
+              }
+            ],
+            "updated": 1705054625197,
+            "link": null,
+            "locked": false
+          },
+          {
+            "type": "text",
+            "version": 12,
+            "versionNonce": 729882152,
+            "isDeleted": false,
+            "id": "GPrwXXuC",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -474.74999999999994,
+            "y": 252.86875000000018,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 75,
+            "height": 19.199999999999996,
+            "seed": 396261928,
+            "groupIds": [
+              "yOAmQ_cQLgxoQ8DrCuRIl"
+            ],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1705054625197,
+            "link": null,
+            "locked": false,
+            "fontSize": 16,
+            "fontFamily": 3,
+            "text": "Studente",
+            "rawText": "Studente",
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "Wnec_cMJ3QNnsT2Gdeybd",
+            "originalText": "Studente",
+            "lineHeight": 1.2,
+            "baseline": 15
+          },
+          {
+            "type": "rectangle",
+            "version": 168,
+            "versionNonce": 524630104,
+            "isDeleted": false,
+            "id": "wa1145e0I80Tj6TxwSJsP",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -593.6785714285714,
+            "y": 290.3258928571429,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 312.8571428571429,
+            "height": 302.8571428571429,
+            "seed": 301900376,
+            "groupIds": [
+              "yOAmQ_cQLgxoQ8DrCuRIl"
+            ],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [
+              {
+                "type": "text",
+                "id": "Gaz92WFY"
+              }
+            ],
+            "updated": 1705054625197,
+            "link": null,
+            "locked": false
+          },
+          {
+            "type": "text",
+            "version": 124,
+            "versionNonce": 1292572968,
+            "isDeleted": false,
+            "id": "Gaz92WFY",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -588.6785714285714,
+            "y": 295.3258928571429,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 269.53125,
+            "height": 120,
+            "seed": 1614869848,
+            "groupIds": [
+              "yOAmQ_cQLgxoQ8DrCuRIl"
+            ],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1705054625197,
+            "link": null,
+            "locked": false,
+            "fontSize": 20,
+            "fontFamily": 3,
+            "text": "- Classe | int\n- Sezione | varchar(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n- MediaPrestito | int",
+            "rawText": "- Classe | int\n- Sezione | varchar(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n- MediaPrestito | int",
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "containerId": "wa1145e0I80Tj6TxwSJsP",
+            "originalText": "- Classe | int\n- Sezione | varchar(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n- MediaPrestito | int",
+            "lineHeight": 1.2,
+            "baseline": 115
+          }
+        ],
+        "created": 1705054628036
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,

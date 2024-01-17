@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "caeeed2c3528eb99",
+            "id": "b56b7c1948289180",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf"
+                "file": "INFORMATICA/Sql/Analisi dei dati.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb2709b68e59e094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de17320dcd23a114",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "INFORMATICA/Sql/Esercizio UML Database.md"
               }
             }
           }
@@ -71,12 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -92,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf",
+                "file": "INFORMATICA/Sql/Analisi dei dati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf",
+                "file": "INFORMATICA/Sql/Analisi dei dati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf"
+                "file": "INFORMATICA/Sql/Analisi dei dati.md"
               }
             }
           },
@@ -183,51 +201,50 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "caeeed2c3528eb99",
+  "active": "b56b7c1948289180",
   "lastOpenFiles": [
+    "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
+    "INFORMATICA/Sql/Vincoli nei database.md",
+    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
+    "INFORMATICA/Sql/Esercizio UML Database.md",
+    "INFORMATICA/Sql/Analisi dei dati.md",
+    "INFORMATICA/Sql/Database_.md",
+    "INFORMATICA/Sql/Database - Introduzione.md",
+    "INFORMATICA/Sql/Database.canvas",
+    "GESTIONE PROGETTO/Mercato.md",
+    "GESTIONE PROGETTO/Economia.md",
+    "MATEMATICA/Esercizi.md",
+    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
+    "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
+    "GESTIONE PROGETTO/Untitled.md",
+    "UMANISTICA/ITALIANO/Freud.md",
+    "UMANISTICA/ITALIANO/RIASSUNTI/Ugo Foscolo.md",
+    "UMANISTICA/ITALIANO/Il decadentismo.md",
+    "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
+    "UMANISTICA/ITALIANO/Neorealismo.md",
+    "UMANISTICA/ITALIANO/Neoclassicismo.md",
+    "EMBED/image.png",
+    "INFORMATICA/Password.md",
     "MATEMATICA/DOCS/Derivate.pdf",
     "MATEMATICA/Derivate.md",
-    "MATEMATICA/Esercizi.md",
-    "UMANISTICA/ITALIANO/Freud.md",
     "UMANISTICA/ITALIANO/Dannunzio.md",
-    "UMANISTICA/ITALIANO/Neorealismo.md",
     "UMANISTICA/ITALIANO/Verismo.md",
     "MATEMATICA/DOCS/Integrali.pdf",
     "GESTIONE PROGETTO/DOCS/Libro schemi costi e risorse.pdf",
     "GESTIONE PROGETTO/DOCS/Resource leveling.pdf",
-    "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
     "GESTIONE PROGETTO/DOCS/PERT CPM.pdf",
     "GESTIONE PROGETTO/DOCS/Distribuzione normale.pdf",
     "GESTIONE PROGETTO/DOCS/Strutture di scomposizione.pdf",
     "GESTIONE PROGETTO/DOCS/Strutture costi e risorse.pdf",
-    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
     "NoteLinux.md",
     "Ranger-cheatsheet.md",
     "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
     "SISTEMI/Livello 2/Livello 2 - Riassunto.md",
-    "SISTEMI/Livello 2/DOCS/8 - Bit-stuffing and piggybacking.pdf",
-    "SISTEMI/Livello 2/1 - Enti Normatori.md",
-    "SISTEMI/Livello 2/5 - Mixed info.md",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
-    "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
-    "UMANISTICA/ITALIANO/Il decadentismo.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
-    "GESTIONE PROGETTO/RIASSUNTI",
-    "GESTIONE PROGETTO/Untitled.md",
-    "GESTIONE PROGETTO/Industria 4.0.md",
-    "GESTIONE PROGETTO/Strutture organizzative.md",
-    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
-    "GESTIONE PROGETTO/Boh.md",
-    "GESTIONE PROGETTO/Esercizio.md",
-    "SISTEMI/HW-SW reti/Crittografia.md",
-    "INFORMATICA/Sql/Vincoli nei database.md",
     "EMBED/Pasted image 20230515185148.png",
     "EMBED/image-2.png",
-    "INFORMATICA/Sql/Database.canvas",
     "EMBED/image-3.png",
-    "EMBED/image.png",
     "EMBED/image-4.png",
     "EMBED/image-1.png",
     "GESTIONE PROGETTO/image-4.png",
