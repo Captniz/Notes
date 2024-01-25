@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2dee66f5bfcbe7dc",
+        "id": "a84d2ee8432f4f06",
         "type": "tabs",
         "children": [
           {
-            "id": "b56b7c1948289180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFORMATICA/Sql/Analisi dei dati.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb2709b68e59e094",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de17320dcd23a114",
+            "id": "c26d6e38c2b7dba7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "INFORMATICA/Sql/Esercizio UML Database.md"
+                "file": "MATEMATICA/Esercizi.md"
               }
             }
           }
@@ -93,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -110,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFORMATICA/Sql/Analisi dei dati.md",
+                "file": "MATEMATICA/Esercizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFORMATICA/Sql/Analisi dei dati.md",
+                "file": "MATEMATICA/Esercizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFORMATICA/Sql/Analisi dei dati.md"
+                "file": "MATEMATICA/Esercizi.md"
               }
             }
           },
@@ -197,27 +178,33 @@
       "templates:Insert template": true,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b56b7c1948289180",
+  "active": "c26d6e38c2b7dba7",
   "lastOpenFiles": [
-    "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
-    "INFORMATICA/Sql/Vincoli nei database.md",
-    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
-    "INFORMATICA/Sql/Esercizio UML Database.md",
-    "INFORMATICA/Sql/Analisi dei dati.md",
-    "INFORMATICA/Sql/Database_.md",
-    "INFORMATICA/Sql/Database - Introduzione.md",
-    "INFORMATICA/Sql/Database.canvas",
+    "UMANISTICA/ITALIANO/Ungaretti.md",
+    "INFORMATICA/Sql/Analisi dei dati - ES 2.md",
     "GESTIONE PROGETTO/Mercato.md",
     "GESTIONE PROGETTO/Economia.md",
     "MATEMATICA/Esercizi.md",
+    "MATEMATICA/Derivate.md",
+    "MATEMATICA/DOCS/tabella studio di funzione.pdf",
     "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
+    "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
+    "INFORMATICA/Sql/Database_.md",
+    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
+    "INFORMATICA/Sql/Vincoli nei database.md",
+    "UMANISTICA/ITALIANO/Futurismo.md",
+    "UMANISTICA/ITALIANO/I Malavoglia.md",
+    "SISTEMI/HW-SW reti/Crittografia.md",
+    "INFORMATICA/Sql/Analisi dei dati.md",
+    "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
+    "INFORMATICA/Sql/Database - Introduzione.md",
+    "INFORMATICA/Sql/Database.canvas",
     "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
     "GESTIONE PROGETTO/Untitled.md",
-    "UMANISTICA/ITALIANO/Freud.md",
     "UMANISTICA/ITALIANO/RIASSUNTI/Ugo Foscolo.md",
     "UMANISTICA/ITALIANO/Il decadentismo.md",
     "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
@@ -226,7 +213,6 @@
     "EMBED/image.png",
     "INFORMATICA/Password.md",
     "MATEMATICA/DOCS/Derivate.pdf",
-    "MATEMATICA/Derivate.md",
     "UMANISTICA/ITALIANO/Dannunzio.md",
     "UMANISTICA/ITALIANO/Verismo.md",
     "MATEMATICA/DOCS/Integrali.pdf",
@@ -235,11 +221,6 @@
     "GESTIONE PROGETTO/DOCS/PERT CPM.pdf",
     "GESTIONE PROGETTO/DOCS/Distribuzione normale.pdf",
     "GESTIONE PROGETTO/DOCS/Strutture di scomposizione.pdf",
-    "GESTIONE PROGETTO/DOCS/Strutture costi e risorse.pdf",
-    "NoteLinux.md",
-    "Ranger-cheatsheet.md",
-    "SISTEMI/Livello 2/2 - Bit-stuffing e piggybacking.md",
-    "SISTEMI/Livello 2/Livello 2 - Riassunto.md",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "EMBED/Pasted image 20230515185148.png",
