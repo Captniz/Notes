@@ -96,11 +96,17 @@ Libro -> Libro soggetto del prestito ^DrubpyP2
 
 Associazioni ^iGWGe9Kb
 
-Studente (0,N) <-> Prestito (0,N) : 
+Studente (0,N) <-> Prestito (1,1) : 
  
-  Tutti gli studenti possono prendere un prestito ma non
-  è obbligatorio 
-TODO
+Tutti gli studenti possono prendere un prestito ma non 
+è obbligatorio.
+Un prestito esiste solo se è collegato a un solo studente.
+
+Prestito (1,1) <-> Libro (0,N) : 
+ 
+Un prestito esiste solo se è collegato a un solo libro.
+Un libro può essere prestato più volte o neanche una.
+
  ^NHRRtDdY
 
 %%
@@ -109,7 +115,7 @@ TODO
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.16",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "diamond",
@@ -382,8 +388,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 249,
-			"versionNonce": 327812030,
+			"version": 257,
+			"versionNonce": 1647493138,
 			"isDeleted": false,
 			"id": "kJAqH8clc6G6ozYR-ZmaS",
 			"fillStyle": "solid",
@@ -405,7 +411,7 @@ TODO
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564313,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -508,8 +514,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 111,
-			"versionNonce": 49684926,
+			"version": 119,
+			"versionNonce": 292778514,
 			"isDeleted": false,
 			"id": "U7LORrj7VhcEKdIyAC68Q",
 			"fillStyle": "solid",
@@ -531,7 +537,7 @@ TODO
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1705493863700,
+			"updated": 1706346564312,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -670,8 +676,8 @@ TODO
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 164920830,
+			"version": 136,
+			"versionNonce": 545029074,
 			"isDeleted": false,
 			"id": "GPrwXXuC",
 			"fillStyle": "solid",
@@ -693,7 +699,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564314,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -818,8 +824,8 @@ TODO
 		},
 		{
 			"type": "text",
-			"version": 261,
-			"versionNonce": 1690392418,
+			"version": 263,
+			"versionNonce": 1591816594,
 			"isDeleted": false,
 			"id": "MT0pVSL9",
 			"fillStyle": "solid",
@@ -841,7 +847,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705495010953,
+			"updated": 1706346564315,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1058,8 +1064,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 1632545854,
+			"version": 159,
+			"versionNonce": 1917543314,
 			"isDeleted": false,
 			"id": "tjKvYTBpNZdt_z3q_d8sF",
 			"fillStyle": "solid",
@@ -1079,7 +1085,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564313,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1108,8 +1114,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 204,
-			"versionNonce": 1801663678,
+			"version": 208,
+			"versionNonce": 271656722,
 			"isDeleted": false,
 			"id": "RhTtAf-Z2Fheo0uIZ5SPI",
 			"fillStyle": "solid",
@@ -1129,7 +1135,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564313,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1158,8 +1164,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 179,
-			"versionNonce": 122658110,
+			"version": 183,
+			"versionNonce": 1125911186,
 			"isDeleted": false,
 			"id": "IEMzPEiXZ3p-AYY7_DTUE",
 			"fillStyle": "solid",
@@ -1179,7 +1185,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564314,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1208,8 +1214,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 1218176446,
+			"version": 159,
+			"versionNonce": 608439826,
 			"isDeleted": false,
 			"id": "6gsym4hburWI0jgCHyKCT",
 			"fillStyle": "solid",
@@ -1218,18 +1224,18 @@ TODO
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -458.0046239348061,
-			"y": 161.21902397581067,
+			"x": -458.004623894539,
+			"y": 161.21902397938277,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.5246428120008204e-8,
-			"height": 57.41559131663479,
+			"width": 2.3999291443033144e-10,
+			"height": 57.415591320206886,
 			"seed": 1028450088,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564314,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1251,8 +1257,8 @@ TODO
 					0
 				],
 				[
-					1.5246428120008204e-8,
-					-57.41559131663479
+					2.3999291443033144e-10,
+					-57.415591320206886
 				]
 			]
 		},
@@ -1502,8 +1508,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 397,
-			"versionNonce": 1590381118,
+			"version": 401,
+			"versionNonce": 1250399634,
 			"isDeleted": false,
 			"id": "fu4XGAJXmbnVWwKfjEb4l",
 			"fillStyle": "solid",
@@ -1523,7 +1529,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863700,
+			"updated": 1706346564312,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1552,8 +1558,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 372,
-			"versionNonce": 214979262,
+			"version": 376,
+			"versionNonce": 680057106,
 			"isDeleted": false,
 			"id": "HfuyNtdXPmHMq311mXqRR",
 			"fillStyle": "solid",
@@ -1573,7 +1579,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564312,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1602,8 +1608,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 348,
-			"versionNonce": 1787640638,
+			"version": 352,
+			"versionNonce": 1789869202,
 			"isDeleted": false,
 			"id": "Rm139NFT5gcNNG8ce7-CG",
 			"fillStyle": "solid",
@@ -1623,7 +1629,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863701,
+			"updated": 1706346564313,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2117,8 +2123,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 389,
-			"versionNonce": 1506335038,
+			"version": 393,
+			"versionNonce": 1343516306,
 			"isDeleted": false,
 			"id": "NXVO3A9IuSgmrgXCO4Kib",
 			"fillStyle": "solid",
@@ -2138,7 +2144,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863700,
+			"updated": 1706346564311,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2167,8 +2173,8 @@ TODO
 		},
 		{
 			"type": "arrow",
-			"version": 439,
-			"versionNonce": 1464199230,
+			"version": 443,
+			"versionNonce": 1502988178,
 			"isDeleted": false,
 			"id": "ybFN55g9UMDZazTq7uQEI",
 			"fillStyle": "solid",
@@ -2177,18 +2183,18 @@ TODO
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -48.6258201303211,
-			"y": 194.71246874135255,
+			"x": -48.62582013019188,
+			"y": 194.71246874135744,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 7.037215254968032e-11,
-			"height": 117.81171090189216,
+			"width": 1.9184653865522705e-13,
+			"height": 117.81171090189198,
 			"seed": 775784536,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863700,
+			"updated": 1706346564310,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2210,15 +2216,15 @@ TODO
 					0
 				],
 				[
-					7.037215254968032e-11,
-					-117.81171090189216
+					1.9184653865522705e-13,
+					-117.81171090189198
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 414,
-			"versionNonce": 29061310,
+			"version": 418,
+			"versionNonce": 1798474514,
 			"isDeleted": false,
 			"id": "6HBv-3eaPb9JGm8h7v16g",
 			"fillStyle": "solid",
@@ -2238,7 +2244,7 @@ TODO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705493863700,
+			"updated": 1706346564311,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2540,8 +2546,8 @@ TODO
 		},
 		{
 			"type": "text",
-			"version": 16,
-			"versionNonce": 1837010520,
+			"version": 17,
+			"versionNonce": 1655254866,
 			"isDeleted": false,
 			"id": "S2CdzTNt",
 			"fillStyle": "solid",
@@ -2555,13 +2561,13 @@ TODO
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 168.75,
-			"height": 43.199999999999996,
+			"height": 43.2,
 			"seed": 1849552728,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056361416,
+			"updated": 1706346926196,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2573,12 +2579,12 @@ TODO
 			"containerId": null,
 			"originalText": "Studente",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 129,
-			"versionNonce": 440017704,
+			"version": 130,
+			"versionNonce": 1531029198,
 			"isDeleted": false,
 			"id": "KdqJ4LcW",
 			"fillStyle": "solid",
@@ -2592,13 +2598,13 @@ TODO
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 105.46875,
-			"height": 43.199999999999996,
+			"height": 43.2,
 			"seed": 1408453208,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056361416,
+			"updated": 1706346926196,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2610,7 +2616,7 @@ TODO
 			"containerId": null,
 			"originalText": "Libro",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -2799,8 +2805,8 @@ TODO
 		},
 		{
 			"type": "text",
-			"version": 670,
-			"versionNonce": 238104104,
+			"version": 945,
+			"versionNonce": 219496499,
 			"isDeleted": false,
 			"id": "NHRRtDdY",
 			"fillStyle": "solid",
@@ -2813,26 +2819,26 @@ TODO
 			"y": 597.4094781091402,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 656.25,
-			"height": 144,
+			"width": 679.6875,
+			"height": 288,
 			"seed": 2082547544,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056917519,
+			"updated": 1706298054952,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "Studente (0,N) <-> Prestito (0,N) : \n \n  Tutti gli studenti possono prendere un prestito ma non\n  è obbligatorio \nTODO\n",
-			"rawText": "Studente (0,N) <-> Prestito (0,N) : \n \n  Tutti gli studenti possono prendere un prestito ma non\n  è obbligatorio \nTODO\n",
+			"text": "Studente (0,N) <-> Prestito (1,1) : \n \nTutti gli studenti possono prendere un prestito ma non \nè obbligatorio.\nUn prestito esiste solo se è collegato a un solo studente.\n\nPrestito (1,1) <-> Libro (0,N) : \n \nUn prestito esiste solo se è collegato a un solo libro.\nUn libro può essere prestato più volte o neanche una.\n\n",
+			"rawText": "Studente (0,N) <-> Prestito (1,1) : \n \nTutti gli studenti possono prendere un prestito ma non \nè obbligatorio.\nUn prestito esiste solo se è collegato a un solo studente.\n\nPrestito (1,1) <-> Libro (0,N) : \n \nUn prestito esiste solo se è collegato a un solo libro.\nUn libro può essere prestato più volte o neanche una.\n\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Studente (0,N) <-> Prestito (0,N) : \n \n  Tutti gli studenti possono prendere un prestito ma non\n  è obbligatorio \nTODO\n",
+			"originalText": "Studente (0,N) <-> Prestito (1,1) : \n \nTutti gli studenti possono prendere un prestito ma non \nè obbligatorio.\nUn prestito esiste solo se è collegato a un solo studente.\n\nPrestito (1,1) <-> Libro (0,N) : \n \nUn prestito esiste solo se è collegato a un solo libro.\nUn libro può essere prestato più volte o neanche una.\n\n",
 			"lineHeight": 1.2,
-			"baseline": 139
+			"baseline": 283
 		}
 	],
 	"appState": {
@@ -2850,10 +2856,10 @@ TODO
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 867.5630916584745,
-		"scrollY": 292.17637081951386,
+		"scrollX": 763.0775073670236,
+		"scrollY": 286.43853010898164,
 		"zoom": {
-			"value": 0.7412820812811882
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
