@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acf8dcd12f889e9c",
+        "id": "f2d752e5723cb139",
         "type": "tabs",
         "children": [
           {
-            "id": "9474afe32fe6154b",
+            "id": "ed081c0a62f149a9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "MATEMATICA/Esercizi.md"
+                "file": "MATEMATICA/DOCS/Derivate.pdf"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATICA/Esercizi.md",
+                "file": "MATEMATICA/DOCS/Derivate.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATICA/Esercizi.md",
+                "file": "MATEMATICA/DOCS/Derivate.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATEMATICA/Esercizi.md"
+                "file": "MATEMATICA/DOCS/Derivate.pdf"
               }
             }
           },
@@ -182,45 +182,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9474afe32fe6154b",
+  "active": "ed081c0a62f149a9",
   "lastOpenFiles": [
-    "MATEMATICA/DOCS/Derivate.pdf",
-    "MATEMATICA/Esercizi.md",
+    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+    "UMANISTICA/ITALIANO/Neoclassicismo.md",
+    "UMANISTICA/ITALIANO/Neorealismo.md",
     "MATEMATICA/DOCS/Integrali.pdf",
+    "MATEMATICA/DOCS/Funzioni.pdf",
+    "MATEMATICA/Esercizi.md",
+    "MATEMATICA/DOCS/Derivate.pdf",
     "MATEMATICA/Derivate.md",
     "UMANISTICA/ITALIANO/Ungaretti.md",
-    "UMANISTICA/ITALIANO/Verismo.md",
     "GESTIONE PROGETTO/Mercato.md",
     "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Obiettivi Costi Ricavi.pdf",
-    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
-    "UMANISTICA/STORIA/La costruzione del consenso.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
-    "GESTIONE PROGETTO/Economia.md",
     "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Elementi di Economia.pdf",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+    "GESTIONE PROGETTO/Economia.md",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "GESTIONE PROGETTO/Strutture organizzative.md",
-    "INFORMATICA/Password.md",
+    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
+    "Untitled.md",
     "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
+    "INFORMATICA/Sql/boh.md",
+    "INFORMATICA/Sql/Vincoli nei database.md",
+    "INFORMATICA/Password.md",
+    "INFORMATICA/Sql/Database - Introduzione.md",
+    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
+    "INFORMATICA/Sql/Database_.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
+    "UMANISTICA/ITALIANO/Verismo.md",
+    "UMANISTICA/STORIA/La costruzione del consenso.md",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
     "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
     "UMANISTICA/ITALIANO/Dannunzio.md",
     "INFORMATICA/Sql/Analisi dei dati - ES 2.md",
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
-    "INFORMATICA/Sql/Database_.md",
-    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
-    "INFORMATICA/Sql/Vincoli nei database.md",
     "UMANISTICA/ITALIANO/Futurismo.md",
-    "UMANISTICA/ITALIANO/I Malavoglia.md",
-    "SISTEMI/HW-SW reti/Crittografia.md",
-    "INFORMATICA/Sql/Analisi dei dati.md",
     "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
-    "INFORMATICA/Sql/Database - Introduzione.md",
     "INFORMATICA/Sql/Database.canvas",
-    "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
     "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
     "EMBED/image.png",
     "GESTIONE PROGETTO/DOCS/Libro schemi costi e risorse.pdf",
-    "GESTIONE PROGETTO/DOCS/Resource leveling.pdf",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "EMBED/Pasted image 20230515185148.png",
