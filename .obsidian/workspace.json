@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f2d752e5723cb139",
+        "id": "8d40a6c0c88e0f78",
         "type": "tabs",
         "children": [
           {
-            "id": "ed081c0a62f149a9",
+            "id": "39b002feb7f6bea3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf"
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf",
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf",
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATEMATICA/DOCS/Derivate.pdf"
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md"
               }
             }
           },
@@ -182,15 +185,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed081c0a62f149a9",
+  "active": "39b002feb7f6bea3",
   "lastOpenFiles": [
+    "UMANISTICA/ITALIANO/RIASSUNTI/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+    "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
+    "UMANISTICA/ITALIANO/DOCS/3. Il tuono.pdf",
+    "MATEMATICA/DOCS/Derivate.pdf",
     "UMANISTICA/ITALIANO/Luigi Pirandello.md",
     "UMANISTICA/ITALIANO/Neoclassicismo.md",
     "UMANISTICA/ITALIANO/Neorealismo.md",
     "MATEMATICA/DOCS/Integrali.pdf",
     "MATEMATICA/DOCS/Funzioni.pdf",
     "MATEMATICA/Esercizi.md",
-    "MATEMATICA/DOCS/Derivate.pdf",
     "MATEMATICA/Derivate.md",
     "UMANISTICA/ITALIANO/Ungaretti.md",
     "GESTIONE PROGETTO/Mercato.md",
@@ -214,14 +220,11 @@
     "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
     "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
     "UMANISTICA/ITALIANO/Dannunzio.md",
-    "INFORMATICA/Sql/Analisi dei dati - ES 2.md",
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
-    "UMANISTICA/ITALIANO/Futurismo.md",
     "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "INFORMATICA/Sql/Database.canvas",
     "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
     "EMBED/image.png",
-    "GESTIONE PROGETTO/DOCS/Libro schemi costi e risorse.pdf",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "EMBED/Pasted image 20230515185148.png",

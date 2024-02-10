@@ -81,9 +81,9 @@ I titoli sono parte integrante delle poesie
 
 | Nome                  | Tipo   | File                             | Appunti |
 | --------------------- | ------ | -------------------------------- | ------- |
-| Veglia                | Poesia | [[1. Veglia.pdf]]                |    :TiTilde:     |
+| Veglia                | Poesia | [[1. Veglia.pdf]]                |    - Capisce l'importanza dell'amore     |
 | Mattina               | Poesia | [[2. Mattina.pdf]]               |     - Mattina<br>- Panismo<br>- Non al fronte    |
 | San Martino del Carso | Poesia | [[3. San Martino del Carso.pdf]] |     - Elementi para-testuali<br>- Brandelli di muro paragonati a brandelli di carne<br>- Delle persone rimane anche meno del muro (*Persone ricordate nel cuore*)(*Analogia*)  |
 | Soldati               | Poesia | [[4. Soldati.pdf]]               | - Relazione tra vita umana e delle foglie<br>- L'autunno sottolinea la precarietà della vita        |
 | I fiumi               | Poesia | [[5. I fiumi.pdf]]               |    - Struttura circolare<br>- Albero mutilato<br>- Abiti sudici metaforico e Non<br>- Riunione dei fiumi della vita del poeta (*Nilo, Isonzo, Serchio, Senna*)     |
-| Fratelli              | Poesia | [[6. Fratelli.pdf]]              |   :TiTilde:      |
+| Fratelli              | Poesia | [[6. Fratelli.pdf]]              |   - Analogia tra la vita dei soldati e la speranza con la foglia appena nata<br> - Parole effimere e solidali dei soldati usate per sfogarsi e rassicurarsi       |
