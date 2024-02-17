@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8d40a6c0c88e0f78",
+        "id": "28f308efaec3eafe",
         "type": "tabs",
         "children": [
           {
-            "id": "39b002feb7f6bea3",
+            "id": "0a49994b2d00920e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "INFORMATICA/Sql/Analisi dei dati - ES 1.md"
+              }
+            }
+          },
+          {
+            "id": "c10081d357142cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
+                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bb58a30d939a219",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
+                "file": "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
+                "file": "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md"
+                "file": "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf"
               }
             }
           },
@@ -185,29 +205,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39b002feb7f6bea3",
+  "active": "9bb58a30d939a219",
   "lastOpenFiles": [
-    "UMANISTICA/ITALIANO/RIASSUNTI/Positivismo, Naturalismo, Verismo, Decadentismo.md",
-    "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
-    "UMANISTICA/ITALIANO/DOCS/3. Il tuono.pdf",
+    "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Elementi di Economia.pdf",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Obiettivi Costi Ricavi.pdf",
+    "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
+    "GESTIONE PROGETTO/Mercato.md",
+    "GESTIONE PROGETTO/Economia.md",
+    "MATEMATICA/Derivate.md",
     "MATEMATICA/DOCS/Derivate.pdf",
+    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
     "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+    "GESTIONE PROGETTO/Esercizi.md",
+    "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
+    "GESTIONE PROGETTO/Untitled.md",
+    "UMANISTICA/ITALIANO/RIASSUNTI/Positivismo, Naturalismo, Verismo, Decadentismo.md",
+    "UMANISTICA/ITALIANO/DOCS/3. Il tuono.pdf",
     "UMANISTICA/ITALIANO/Neoclassicismo.md",
     "UMANISTICA/ITALIANO/Neorealismo.md",
     "MATEMATICA/DOCS/Integrali.pdf",
     "MATEMATICA/DOCS/Funzioni.pdf",
     "MATEMATICA/Esercizi.md",
-    "MATEMATICA/Derivate.md",
     "UMANISTICA/ITALIANO/Ungaretti.md",
-    "GESTIONE PROGETTO/Mercato.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Obiettivi Costi Ricavi.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Elementi di Economia.pdf",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Economia.md",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
     "Untitled.md",
-    "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
     "INFORMATICA/Sql/boh.md",
     "INFORMATICA/Sql/Vincoli nei database.md",
     "INFORMATICA/Password.md",
@@ -215,11 +239,6 @@
     "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
     "INFORMATICA/Sql/Database_.md",
     "GESTIONE PROGETTO/Strutture organizzative.md",
-    "UMANISTICA/ITALIANO/Verismo.md",
-    "UMANISTICA/STORIA/La costruzione del consenso.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
-    "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
-    "UMANISTICA/ITALIANO/Dannunzio.md",
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
     "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "INFORMATICA/Sql/Database.canvas",

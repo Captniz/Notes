@@ -25,7 +25,7 @@ Prestito ^LK0CuIZs
 Studente ^GPrwXXuC
 
 - Classe | int
-- Sezione | varchar(5)
+- Sezione | char(5)
 - Nome | varchar(30)
 - Cognome | varchar(30)
 
@@ -56,7 +56,6 @@ Disponibile ^3JbD8bsF
 Prestito ^dGjysDeW
 
 - DataInzio | data
-- Concluso | bool
 - DataFine | data
 - Studente | FKey(Nome,Cognome)
 - Libro | Fkey(Titolo,Autore) ^rPuDkFj1
@@ -115,12 +114,12 @@ Un libro può essere prestato più volte o neanche una.
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
 	"elements": [
 		{
 			"type": "diamond",
-			"version": 487,
-			"versionNonce": 80270632,
+			"version": 488,
+			"versionNonce": 132287466,
 			"isDeleted": false,
 			"id": "Xvh4fGFBEdCq9b0eUp8Rs",
 			"fillStyle": "solid",
@@ -167,14 +166,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055707248,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 394,
-			"versionNonce": 2015289128,
+			"version": 395,
+			"versionNonce": 1179385782,
 			"isDeleted": false,
 			"id": "LK0CuIZs",
 			"fillStyle": "solid",
@@ -194,7 +193,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055606403,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -210,8 +209,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "rectangle",
-			"version": 222,
-			"versionNonce": 1967308328,
+			"version": 223,
+			"versionNonce": 339574442,
 			"isDeleted": false,
 			"id": "aNPg37NMI6yDHfIajB9Bd",
 			"fillStyle": "solid",
@@ -254,14 +253,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055721020,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 17,
-			"versionNonce": 575191592,
+			"version": 18,
+			"versionNonce": 2002688246,
 			"isDeleted": false,
 			"id": "OKgmPwlA",
 			"fillStyle": "solid",
@@ -281,7 +280,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055606403,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -297,8 +296,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "rectangle",
-			"version": 400,
-			"versionNonce": 864524632,
+			"version": 401,
+			"versionNonce": 640424298,
 			"isDeleted": false,
 			"id": "XwXhdTGaBpT5dDthzjM2Z",
 			"fillStyle": "solid",
@@ -345,14 +344,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055685670,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 1082078504,
+			"version": 57,
+			"versionNonce": 894175798,
 			"isDeleted": false,
 			"id": "UZWVL05T",
 			"fillStyle": "solid",
@@ -372,7 +371,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055606403,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -388,8 +387,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 257,
-			"versionNonce": 1647493138,
+			"version": 270,
+			"versionNonce": 486104106,
 			"isDeleted": false,
 			"id": "kJAqH8clc6G6ozYR-ZmaS",
 			"fillStyle": "solid",
@@ -411,7 +410,7 @@ Un libro può essere prestato più volte o neanche una.
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706346564313,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -440,8 +439,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 21,
-			"versionNonce": 1747865640,
+			"version": 22,
+			"versionNonce": 1324962678,
 			"isDeleted": false,
 			"id": "s33uOhm8",
 			"fillStyle": "solid",
@@ -461,7 +460,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055606403,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -477,8 +476,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 1356683554,
+			"version": 137,
+			"versionNonce": 915425002,
 			"isDeleted": false,
 			"id": "EbKME5Kf",
 			"fillStyle": "solid",
@@ -498,7 +497,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705495159030,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -514,8 +513,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 119,
-			"versionNonce": 292778514,
+			"version": 132,
+			"versionNonce": 1856730294,
 			"isDeleted": false,
 			"id": "U7LORrj7VhcEKdIyAC68Q",
 			"fillStyle": "solid",
@@ -537,7 +536,7 @@ Un libro può essere prestato più volte o neanche una.
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706346564312,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -566,8 +565,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 60,
-			"versionNonce": 336960344,
+			"version": 61,
+			"versionNonce": 997972394,
 			"isDeleted": false,
 			"id": "MtMv4wrd",
 			"fillStyle": "solid",
@@ -587,7 +586,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055606403,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -603,8 +602,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 51,
-			"versionNonce": 371615272,
+			"version": 52,
+			"versionNonce": 772238838,
 			"isDeleted": false,
 			"id": "kIeZiatN",
 			"fillStyle": "solid",
@@ -624,7 +623,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055606403,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -640,8 +639,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "rectangle",
-			"version": 229,
-			"versionNonce": 1934263640,
+			"version": 230,
+			"versionNonce": 719787114,
 			"isDeleted": false,
 			"id": "Wnec_cMJ3QNnsT2Gdeybd",
 			"fillStyle": "solid",
@@ -670,14 +669,14 @@ Un libro può essere prestato più volte o neanche una.
 					"id": "GPrwXXuC"
 				}
 			],
-			"updated": 1705055846625,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 545029074,
+			"version": 140,
+			"versionNonce": 705838902,
 			"isDeleted": false,
 			"id": "GPrwXXuC",
 			"fillStyle": "solid",
@@ -699,7 +698,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564314,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -711,12 +710,12 @@ Un libro può essere prestato più volte o neanche una.
 			"containerId": "Wnec_cMJ3QNnsT2Gdeybd",
 			"originalText": "Studente",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 287,
-			"versionNonce": 2078758696,
+			"version": 288,
+			"versionNonce": 1721562922,
 			"isDeleted": false,
 			"id": "wa1145e0I80Tj6TxwSJsP",
 			"fillStyle": "solid",
@@ -743,14 +742,14 @@ Un libro può essere prestato più volte o neanche una.
 					"id": "Gaz92WFY"
 				}
 			],
-			"updated": 1705055846625,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 310,
-			"versionNonce": 867962664,
+			"version": 312,
+			"versionNonce": 2067141046,
 			"isDeleted": false,
 			"id": "Gaz92WFY",
 			"fillStyle": "solid",
@@ -772,24 +771,24 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055922429,
+			"updated": 1708154297931,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "- Classe | int\n- Sezione | varchar(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n\n- Pkey(Nome,Cognome)",
-			"rawText": "- Classe | int\n- Sezione | varchar(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n\n- Pkey(Nome,Cognome)",
+			"text": "- Classe | int\n- Sezione | char(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n\n- Pkey(Nome,Cognome)",
+			"rawText": "- Classe | int\n- Sezione | char(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n\n- Pkey(Nome,Cognome)",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": "wa1145e0I80Tj6TxwSJsP",
-			"originalText": "- Classe | int\n- Sezione | varchar(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n\n- Pkey(Nome,Cognome)",
+			"originalText": "- Classe | int\n- Sezione | char(5)\n- Nome | varchar(30)\n- Cognome | varchar(30)\n\n- Pkey(Nome,Cognome)",
 			"lineHeight": 1.2,
 			"baseline": 139
 		},
 		{
 			"type": "rectangle",
-			"version": 335,
-			"versionNonce": 375462818,
+			"version": 336,
+			"versionNonce": 1594393066,
 			"isDeleted": false,
 			"id": "82YUx5viTh7bo5OHVJsEj",
 			"fillStyle": "solid",
@@ -818,14 +817,14 @@ Un libro può essere prestato più volte o neanche una.
 					"id": "MT0pVSL9"
 				}
 			],
-			"updated": 1705495010953,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 263,
-			"versionNonce": 1591816594,
+			"version": 267,
+			"versionNonce": 1428711862,
 			"isDeleted": false,
 			"id": "MT0pVSL9",
 			"fillStyle": "solid",
@@ -847,7 +846,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564315,
+			"updated": 1708154192488,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -859,12 +858,12 @@ Un libro può essere prestato più volte o neanche una.
 			"containerId": "82YUx5viTh7bo5OHVJsEj",
 			"originalText": "Libro",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 393,
-			"versionNonce": 992221986,
+			"version": 394,
+			"versionNonce": 1060418730,
 			"isDeleted": false,
 			"id": "b51UMX_mosYPbSixX0LbZ",
 			"fillStyle": "solid",
@@ -891,14 +890,14 @@ Un libro può essere prestato più volte o neanche una.
 					"id": "AB8dPpc1"
 				}
 			],
-			"updated": 1705495010953,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 400,
-			"versionNonce": 133719778,
+			"version": 401,
+			"versionNonce": 52282102,
 			"isDeleted": false,
 			"id": "AB8dPpc1",
 			"fillStyle": "solid",
@@ -920,7 +919,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705495010953,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -936,8 +935,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "ellipse",
-			"version": 230,
-			"versionNonce": 1404289624,
+			"version": 231,
+			"versionNonce": 416059242,
 			"isDeleted": false,
 			"id": "-Ca9ADElYY0BnKwNcLA2X",
 			"fillStyle": "solid",
@@ -962,14 +961,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 244,
-			"versionNonce": 356060248,
+			"version": 245,
+			"versionNonce": 328594486,
 			"isDeleted": false,
 			"id": "MRKMajfvucYmiUCqaD7_x",
 			"fillStyle": "solid",
@@ -994,14 +993,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 262,
-			"versionNonce": 2037634648,
+			"version": 263,
+			"versionNonce": 270209578,
 			"isDeleted": false,
 			"id": "L6pe_t52gLOpLJ3Uq-ZZ_",
 			"fillStyle": "solid",
@@ -1026,14 +1025,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 257,
-			"versionNonce": 1896095832,
+			"version": 258,
+			"versionNonce": 1618345334,
 			"isDeleted": false,
 			"id": "DyCq74WQ2_EppvYKx1-QV",
 			"fillStyle": "solid",
@@ -1058,14 +1057,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 159,
-			"versionNonce": 1917543314,
+			"version": 166,
+			"versionNonce": 134954218,
 			"isDeleted": false,
 			"id": "tjKvYTBpNZdt_z3q_d8sF",
 			"fillStyle": "solid",
@@ -1085,7 +1084,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564313,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1114,8 +1113,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 208,
-			"versionNonce": 271656722,
+			"version": 215,
+			"versionNonce": 1057152694,
 			"isDeleted": false,
 			"id": "RhTtAf-Z2Fheo0uIZ5SPI",
 			"fillStyle": "solid",
@@ -1135,7 +1134,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564313,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1164,8 +1163,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 183,
-			"versionNonce": 1125911186,
+			"version": 190,
+			"versionNonce": 1311248298,
 			"isDeleted": false,
 			"id": "IEMzPEiXZ3p-AYY7_DTUE",
 			"fillStyle": "solid",
@@ -1185,7 +1184,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564314,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1214,8 +1213,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 159,
-			"versionNonce": 608439826,
+			"version": 166,
+			"versionNonce": 333551606,
 			"isDeleted": false,
 			"id": "6gsym4hburWI0jgCHyKCT",
 			"fillStyle": "solid",
@@ -1224,18 +1223,18 @@ Un libro può essere prestato più volte o neanche una.
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -458.004623894539,
-			"y": 161.21902397938277,
+			"x": -458.0046238939051,
+			"y": 161.219023979439,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2.3999291443033144e-10,
-			"height": 57.415591320206886,
+			"width": 3.751665644813329e-12,
+			"height": 57.415591320263104,
 			"seed": 1028450088,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564314,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1257,15 +1256,15 @@ Un libro può essere prestato più volte o neanche una.
 					0
 				],
 				[
-					2.3999291443033144e-10,
-					-57.415591320206886
+					3.751665644813329e-12,
+					-57.415591320263104
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 88,
-			"versionNonce": 1509293656,
+			"version": 89,
+			"versionNonce": 1184664170,
 			"isDeleted": false,
 			"id": "S0neRGJ3",
 			"fillStyle": "solid",
@@ -1285,7 +1284,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1301,8 +1300,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 609514328,
+			"version": 109,
+			"versionNonce": 1729571126,
 			"isDeleted": false,
 			"id": "rFOi0H6D",
 			"fillStyle": "solid",
@@ -1322,7 +1321,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1338,8 +1337,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 145,
-			"versionNonce": 1696352344,
+			"version": 146,
+			"versionNonce": 406039850,
 			"isDeleted": false,
 			"id": "6hS7r1cv",
 			"fillStyle": "solid",
@@ -1359,7 +1358,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1375,8 +1374,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 123,
-			"versionNonce": 1210154328,
+			"version": 124,
+			"versionNonce": 2013827702,
 			"isDeleted": false,
 			"id": "v8IvZOOw",
 			"fillStyle": "solid",
@@ -1396,7 +1395,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055690416,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1412,8 +1411,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "ellipse",
-			"version": 340,
-			"versionNonce": 1518252840,
+			"version": 341,
+			"versionNonce": 1482192874,
 			"isDeleted": false,
 			"id": "pF_nXtukOg13t1DWZ49jK",
 			"fillStyle": "solid",
@@ -1438,14 +1437,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055728470,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 358,
-			"versionNonce": 66717992,
+			"version": 359,
+			"versionNonce": 1367004086,
 			"isDeleted": false,
 			"id": "eNzOzW5lNC8fahBwJt8wJ",
 			"fillStyle": "solid",
@@ -1470,14 +1469,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055728470,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 353,
-			"versionNonce": 2065162024,
+			"version": 354,
+			"versionNonce": 924183210,
 			"isDeleted": false,
 			"id": "q6SQuVer2Xi2WzPwNdD7x",
 			"fillStyle": "solid",
@@ -1502,14 +1501,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055728470,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 401,
-			"versionNonce": 1250399634,
+			"version": 408,
+			"versionNonce": 1569910006,
 			"isDeleted": false,
 			"id": "fu4XGAJXmbnVWwKfjEb4l",
 			"fillStyle": "solid",
@@ -1529,7 +1528,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564312,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1558,8 +1557,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 376,
-			"versionNonce": 680057106,
+			"version": 383,
+			"versionNonce": 722929002,
 			"isDeleted": false,
 			"id": "HfuyNtdXPmHMq311mXqRR",
 			"fillStyle": "solid",
@@ -1579,7 +1578,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564312,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1608,8 +1607,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 352,
-			"versionNonce": 1789869202,
+			"version": 359,
+			"versionNonce": 2044059190,
 			"isDeleted": false,
 			"id": "Rm139NFT5gcNNG8ce7-CG",
 			"fillStyle": "solid",
@@ -1629,7 +1628,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564313,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1658,8 +1657,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 190,
-			"versionNonce": 494888488,
+			"version": 191,
+			"versionNonce": 497469482,
 			"isDeleted": false,
 			"id": "QA505thl",
 			"fillStyle": "solid",
@@ -1679,7 +1678,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055728471,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1695,8 +1694,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 2013290792,
+			"version": 211,
+			"versionNonce": 187213686,
 			"isDeleted": false,
 			"id": "VggmY48c",
 			"fillStyle": "solid",
@@ -1716,7 +1715,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055728471,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1732,8 +1731,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 262,
-			"versionNonce": 1856633896,
+			"version": 263,
+			"versionNonce": 380646122,
 			"isDeleted": false,
 			"id": "3JbD8bsF",
 			"fillStyle": "solid",
@@ -1753,7 +1752,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055728471,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1769,8 +1768,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "rectangle",
-			"version": 354,
-			"versionNonce": 650629672,
+			"version": 355,
+			"versionNonce": 298862774,
 			"isDeleted": false,
 			"id": "pJ7CjxnBNTYfL4Sy3iGmv",
 			"fillStyle": "solid",
@@ -1799,14 +1798,14 @@ Un libro può essere prestato più volte o neanche una.
 					"id": "dGjysDeW"
 				}
 			],
-			"updated": 1705055857450,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 288,
-			"versionNonce": 358305064,
+			"version": 289,
+			"versionNonce": 1757300138,
 			"isDeleted": false,
 			"id": "dGjysDeW",
 			"fillStyle": "solid",
@@ -1828,7 +1827,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055857450,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1844,8 +1843,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "rectangle",
-			"version": 412,
-			"versionNonce": 2043111464,
+			"version": 413,
+			"versionNonce": 1030865398,
 			"isDeleted": false,
 			"id": "WD1-A37MkVrSCnN0oM1b1",
 			"fillStyle": "solid",
@@ -1872,14 +1871,14 @@ Un libro può essere prestato più volte o neanche una.
 					"id": "rPuDkFj1"
 				}
 			],
-			"updated": 1705055857450,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 535,
-			"versionNonce": 1341661992,
+			"version": 538,
+			"versionNonce": 1355704822,
 			"isDeleted": false,
 			"id": "rPuDkFj1",
 			"fillStyle": "solid",
@@ -1893,7 +1892,7 @@ Un libro può essere prestato più volte o neanche una.
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 222.65625,
-			"height": 168,
+			"height": 144,
 			"seed": 1247969576,
 			"groupIds": [
 				"lIA12K1jO6sVRV-d9S6nU"
@@ -1901,24 +1900,24 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055857450,
+			"updated": 1708158156588,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "- DataInzio | data\n- Concluso | bool\n- DataFine | data\n- Studente |\nFKey(Nome,Cognome)\n- Libro |\nFkey(Titolo,Autore)",
-			"rawText": "- DataInzio | data\n- Concluso | bool\n- DataFine | data\n- Studente | FKey(Nome,Cognome)\n- Libro | Fkey(Titolo,Autore)",
+			"text": "- DataInzio | data\n- DataFine | data\n- Studente |\nFKey(Nome,Cognome)\n- Libro |\nFkey(Titolo,Autore)",
+			"rawText": "- DataInzio | data\n- DataFine | data\n- Studente | FKey(Nome,Cognome)\n- Libro | Fkey(Titolo,Autore)",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": "WD1-A37MkVrSCnN0oM1b1",
-			"originalText": "- DataInzio | data\n- Concluso | bool\n- DataFine | data\n- Studente | FKey(Nome,Cognome)\n- Libro | Fkey(Titolo,Autore)",
+			"originalText": "- DataInzio | data\n- DataFine | data\n- Studente | FKey(Nome,Cognome)\n- Libro | Fkey(Titolo,Autore)",
 			"lineHeight": 1.2,
-			"baseline": 163
+			"baseline": 139
 		},
 		{
 			"type": "ellipse",
-			"version": 353,
-			"versionNonce": 1508511320,
+			"version": 354,
+			"versionNonce": 17961782,
 			"isDeleted": false,
 			"id": "Tv7XUyRWx5zdMfmL4ZbAu",
 			"fillStyle": "solid",
@@ -1943,14 +1942,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055706716,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 348,
-			"versionNonce": 1665947736,
+			"version": 349,
+			"versionNonce": 1597268778,
 			"isDeleted": false,
 			"id": "lioDJZOnUILGOJSEj5H4B",
 			"fillStyle": "solid",
@@ -1975,14 +1974,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055706716,
+			"updated": 1708154192489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 362,
-			"versionNonce": 2082742872,
+			"version": 363,
+			"versionNonce": 655768694,
 			"isDeleted": false,
 			"id": "mMCpcWMR3wa6YnMHAOQco",
 			"fillStyle": "solid",
@@ -2007,14 +2006,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055706716,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 380,
-			"versionNonce": 1695640664,
+			"version": 381,
+			"versionNonce": 701656554,
 			"isDeleted": false,
 			"id": "YbFvmiBkLgxyB_wJqOjXF",
 			"fillStyle": "solid",
@@ -2039,14 +2038,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055706716,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 375,
-			"versionNonce": 917780056,
+			"version": 376,
+			"versionNonce": 1698905526,
 			"isDeleted": false,
 			"id": "l1pafz0Gnq3z_bpu8Mgnn",
 			"fillStyle": "solid",
@@ -2071,14 +2070,14 @@ Un libro può essere prestato più volte o neanche una.
 					"type": "arrow"
 				}
 			],
-			"updated": 1705055706716,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 396,
-			"versionNonce": 687555624,
+			"version": 397,
+			"versionNonce": 1910579370,
 			"isDeleted": false,
 			"id": "Nq6q4RFhkUR16A8F1zVXN",
 			"fillStyle": "solid",
@@ -2098,7 +2097,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055707248,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2123,8 +2122,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 393,
-			"versionNonce": 1343516306,
+			"version": 400,
+			"versionNonce": 1891505910,
 			"isDeleted": false,
 			"id": "NXVO3A9IuSgmrgXCO4Kib",
 			"fillStyle": "solid",
@@ -2144,7 +2143,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564311,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2173,8 +2172,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 443,
-			"versionNonce": 1502988178,
+			"version": 450,
+			"versionNonce": 319519594,
 			"isDeleted": false,
 			"id": "ybFN55g9UMDZazTq7uQEI",
 			"fillStyle": "solid",
@@ -2183,18 +2182,18 @@ Un libro può essere prestato più volte o neanche una.
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -48.62582013019188,
-			"y": 194.71246874135744,
+			"x": -48.62582013019153,
+			"y": 194.71246874135747,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.9184653865522705e-13,
-			"height": 117.81171090189198,
+			"width": 0,
+			"height": 117.811710901892,
 			"seed": 775784536,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564310,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2216,15 +2215,15 @@ Un libro può essere prestato più volte o neanche una.
 					0
 				],
 				[
-					1.9184653865522705e-13,
-					-117.81171090189198
+					0,
+					-117.811710901892
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 418,
-			"versionNonce": 1798474514,
+			"version": 425,
+			"versionNonce": 302762038,
 			"isDeleted": false,
 			"id": "6HBv-3eaPb9JGm8h7v16g",
 			"fillStyle": "solid",
@@ -2244,7 +2243,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346564311,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2273,8 +2272,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "arrow",
-			"version": 378,
-			"versionNonce": 1809226792,
+			"version": 379,
+			"versionNonce": 1000111658,
 			"isDeleted": false,
 			"id": "5ZXy9dGtV31y3VFT_R9Pw",
 			"fillStyle": "solid",
@@ -2294,7 +2293,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055707249,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2319,8 +2318,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 294,
-			"versionNonce": 1719981608,
+			"version": 295,
+			"versionNonce": 957436278,
 			"isDeleted": false,
 			"id": "snZ5fFMX",
 			"fillStyle": "solid",
@@ -2340,7 +2339,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055768649,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2356,8 +2355,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 340,
-			"versionNonce": 1288857688,
+			"version": 341,
+			"versionNonce": 410986730,
 			"isDeleted": false,
 			"id": "ZRt7hgQW",
 			"fillStyle": "solid",
@@ -2377,7 +2376,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055779690,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2393,8 +2392,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 314,
-			"versionNonce": 843540312,
+			"version": 315,
+			"versionNonce": 286503606,
 			"isDeleted": false,
 			"id": "v7obb6Vv",
 			"fillStyle": "solid",
@@ -2414,7 +2413,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055790538,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2430,8 +2429,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 307,
-			"versionNonce": 23794472,
+			"version": 308,
+			"versionNonce": 20872106,
 			"isDeleted": false,
 			"id": "XlLRQP20",
 			"fillStyle": "solid",
@@ -2451,7 +2450,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055803737,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2467,8 +2466,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 2109942360,
+			"version": 33,
+			"versionNonce": 347597814,
 			"isDeleted": false,
 			"id": "pc9qpgsZ",
 			"fillStyle": "solid",
@@ -2488,7 +2487,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055806621,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2504,8 +2503,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "line",
-			"version": 50,
-			"versionNonce": 98381912,
+			"version": 51,
+			"versionNonce": 604337770,
 			"isDeleted": false,
 			"id": "BjpsRDeXtzpe7KEkyn9OZ",
 			"fillStyle": "solid",
@@ -2525,7 +2524,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705055943650,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2546,8 +2545,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 17,
-			"versionNonce": 1655254866,
+			"version": 20,
+			"versionNonce": 570621238,
 			"isDeleted": false,
 			"id": "S2CdzTNt",
 			"fillStyle": "solid",
@@ -2561,13 +2560,13 @@ Un libro può essere prestato più volte o neanche una.
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 168.75,
-			"height": 43.2,
+			"height": 43.199999999999996,
 			"seed": 1849552728,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346926196,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2579,12 +2578,12 @@ Un libro può essere prestato più volte o neanche una.
 			"containerId": null,
 			"originalText": "Studente",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 130,
-			"versionNonce": 1531029198,
+			"version": 133,
+			"versionNonce": 832510250,
 			"isDeleted": false,
 			"id": "KdqJ4LcW",
 			"fillStyle": "solid",
@@ -2598,13 +2597,13 @@ Un libro può essere prestato più volte o neanche una.
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 105.46875,
-			"height": 43.2,
+			"height": 43.199999999999996,
 			"seed": 1408453208,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706346926196,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2616,12 +2615,12 @@ Un libro può essere prestato più volte o neanche una.
 			"containerId": null,
 			"originalText": "Libro",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 257,
-			"versionNonce": 1481311064,
+			"version": 258,
+			"versionNonce": 240772726,
 			"isDeleted": false,
 			"id": "8Cmrj6H5",
 			"fillStyle": "solid",
@@ -2641,7 +2640,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056361416,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2657,8 +2656,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 471,
-			"versionNonce": 1750826536,
+			"version": 472,
+			"versionNonce": 158753770,
 			"isDeleted": false,
 			"id": "G7NsyDQE",
 			"fillStyle": "solid",
@@ -2678,7 +2677,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056361416,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2694,8 +2693,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 204,
-			"versionNonce": 2076235864,
+			"version": 205,
+			"versionNonce": 981575606,
 			"isDeleted": false,
 			"id": "S3PxIUa7",
 			"fillStyle": "solid",
@@ -2715,7 +2714,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056361416,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2731,8 +2730,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 776,
-			"versionNonce": 1895458904,
+			"version": 777,
+			"versionNonce": 1704351402,
 			"isDeleted": false,
 			"id": "DrubpyP2",
 			"fillStyle": "solid",
@@ -2752,7 +2751,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056435372,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2768,8 +2767,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 227,
-			"versionNonce": 8448296,
+			"version": 228,
+			"versionNonce": 647971062,
 			"isDeleted": false,
 			"id": "iGWGe9Kb",
 			"fillStyle": "solid",
@@ -2789,7 +2788,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705056435372,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2805,8 +2804,8 @@ Un libro può essere prestato più volte o neanche una.
 		},
 		{
 			"type": "text",
-			"version": 945,
-			"versionNonce": 219496499,
+			"version": 946,
+			"versionNonce": 111800682,
 			"isDeleted": false,
 			"id": "NHRRtDdY",
 			"fillStyle": "solid",
@@ -2826,7 +2825,7 @@ Un libro può essere prestato più volte o neanche una.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706298054952,
+			"updated": 1708154192490,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2839,6 +2838,42 @@ Un libro può essere prestato più volte o neanche una.
 			"originalText": "Studente (0,N) <-> Prestito (1,1) : \n \nTutti gli studenti possono prendere un prestito ma non \nè obbligatorio.\nUn prestito esiste solo se è collegato a un solo studente.\n\nPrestito (1,1) <-> Libro (0,N) : \n \nUn prestito esiste solo se è collegato a un solo libro.\nUn libro può essere prestato più volte o neanche una.\n\n",
 			"lineHeight": 1.2,
 			"baseline": 283
+		},
+		{
+			"text": "📍[[Mercato]]",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"id": "o11oqy0Y",
+			"type": "text",
+			"x": -385.41232879559516,
+			"y": -1330.1974586804104,
+			"width": 140.625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#e8590c",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 94485,
+			"version": 2,
+			"versionNonce": 104313398,
+			"updated": 1708154192490,
+			"isDeleted": true,
+			"groupIds": [],
+			"boundElements": [],
+			"link": "[[Mercato]]",
+			"locked": false,
+			"containerId": null,
+			"originalText": "📍[[Mercato]]",
+			"rawText": "[[Mercato]]",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -2856,10 +2891,10 @@ Un libro può essere prestato più volte o neanche una.
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 763.0775073670236,
-		"scrollY": 286.43853010898164,
+		"scrollX": 994.6623287955952,
+		"scrollY": -106.2009788195897,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 0.8
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
