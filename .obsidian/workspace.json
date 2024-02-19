@@ -11,9 +11,11 @@
             "id": "045bbb5c902e27bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SISTEMI/DOCS/VLAN_Es.pdf"
+                "file": "SISTEMI/Microcontrollori e SoC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMI/DOCS/VLAN_Es.pdf",
+                "file": "SISTEMI/Microcontrollori e SoC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMI/DOCS/VLAN_Es.pdf",
+                "file": "SISTEMI/Microcontrollori e SoC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMI/DOCS/VLAN_Es.pdf"
+                "file": "SISTEMI/Microcontrollori e SoC.md"
               }
             }
           },
@@ -182,8 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00d9242cc4c73542",
+  "active": "045bbb5c902e27bf",
   "lastOpenFiles": [
+    "SISTEMI/DOCS/VLAN_Es.pdf",
+    "SISTEMI/Microcontrollori e SoC.md",
     "UMANISTICA/ITALIANO/Luigi Pirandello.md",
     "SISTEMI/TCP-IP",
     "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
@@ -216,7 +220,6 @@
     "INFORMATICA/Sql/Database - Introduzione.md",
     "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
     "INFORMATICA/Sql/Database_.md",
-    "GESTIONE PROGETTO/Strutture organizzative.md",
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
     "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "INFORMATICA/Sql/Database.canvas",
