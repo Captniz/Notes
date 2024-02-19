@@ -11,9 +11,9 @@
             "id": "045bbb5c902e27bf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Luigi Pirandello.md"
+                "file": "SISTEMI/DOCS/VLAN_Es.pdf"
               }
             }
           }
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+                "file": "SISTEMI/DOCS/VLAN_Es.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+                "file": "SISTEMI/DOCS/VLAN_Es.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/ITALIANO/Luigi Pirandello.md"
+                "file": "SISTEMI/DOCS/VLAN_Es.pdf"
               }
             }
           },
@@ -183,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "045bbb5c902e27bf",
+  "active": "00d9242cc4c73542",
   "lastOpenFiles": [
+    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+    "SISTEMI/TCP-IP",
     "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
     "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Elementi di Economia.pdf",
@@ -195,7 +196,6 @@
     "MATEMATICA/Derivate.md",
     "MATEMATICA/DOCS/Derivate.pdf",
     "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
-    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
     "GESTIONE PROGETTO/Esercizi.md",
     "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
     "GESTIONE PROGETTO/Untitled.md",
@@ -220,7 +220,6 @@
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
     "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "INFORMATICA/Sql/Database.canvas",
-    "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
     "EMBED/image.png",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
