@@ -24,3 +24,5 @@
 						- Entrata nella 3a internazionale
 						- Fondatori: *Gramsci*, *Togliatti*
 				- Ascesa partito cattolico ( *Partito popolare italiano* ), che promuove l'interclassismo
+
+### Fascismo

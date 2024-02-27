@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abe1acfe55227389",
+        "id": "e5dd327eb941f69d",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d73f970d3a8a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "deb068a42ecc863a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6273f9f11d359692",
+            "id": "f0aaa2890dbdd051",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md"
+                "file": "MATEMATICA/Esercizi.md"
               }
             }
           }
@@ -110,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
+                "file": "MATEMATICA/Esercizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
+                "file": "MATEMATICA/Esercizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md"
+                "file": "MATEMATICA/Esercizi.md"
               }
             }
           },
@@ -201,11 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4d73f970d3a8a06",
+  "active": "f0aaa2890dbdd051",
   "lastOpenFiles": [
+    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+    "GESTIONE PROGETTO/Transazioni.md",
     "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
     "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
-    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
     "SISTEMI/Microcontrollori e SoC.md",
     "MATEMATICA/Esercizi.md",
     "MATEMATICA/DOCS/Derivate.pdf",
@@ -239,7 +222,6 @@
     "INFORMATICA/Sql/Analisi dei dati - ES 2.md",
     "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
     "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
-    "GESTIONE PROGETTO/Untitled.md",
     "INFORMATICA/Sql/Database.canvas",
     "EMBED/image.png",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
