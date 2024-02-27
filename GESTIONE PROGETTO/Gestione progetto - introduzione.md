@@ -2,6 +2,10 @@
 tags:
   - gestioneProgetto
 Date created: 2023-10-03
+Related PDFs: "[[Strutture di scomposizione.pdf]]"
+Related pages:
+  - "[[Schemi organizzativi di scomposizione]]"
+  - "[[Strutture organizzative]]"
 ---
 # Progetto
 

@@ -1,3 +1,16 @@
+---
+tags:
+  - gestioneProgetto
+Date created: 
+Related PDFs:
+  - "[[Gestione Progetto_ Elementi di Economia.pdf]]"
+  - "[[Gestione Progetto_ Obiettivi Costi Ricavi.pdf]]"
+  - "[[Gestione Progetto_ Sistema impresa.pdf]]"
+Related pages:
+  - "[[Economia]]"
+  - "[[Mercato]]"
+  - "[[GESTIONE PROGETTO/Esercizi|Esercizi]]"
+---
 ## Economia
 **Attività:**
 - Su base sociale

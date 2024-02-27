@@ -5,6 +5,10 @@ Related PDFs:
   - "[[Strutture di scomposizione.pdf]]"
   - "[[Strutture costi e risorse.pdf]]"
   - "[[Libro schemi costi e risorse.pdf]]"
+Related pages:
+  - "[[Gestione progetto - introduzione]]"
+  - "[[Strutture organizzative]]"
+Date created:
 ---
 ## WBS (Work Break Down Structure)  
 

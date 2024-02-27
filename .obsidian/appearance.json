@@ -1,7 +1,7 @@
 {
-  "accentColor": "#83A598",
+  "accentColor": "#458588",
   "cssTheme": "Obsidian gruvbox",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "Inter,FiraCode Nerd Font",
   "enabledCssSnippets": [

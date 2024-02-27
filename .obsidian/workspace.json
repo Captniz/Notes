@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "50049e951ef9d214",
+        "id": "abe1acfe55227389",
         "type": "tabs",
         "children": [
           {
-            "id": "045bbb5c902e27bf",
+            "id": "c4d73f970d3a8a06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMI/Microcontrollori e SoC.md",
+                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "deb068a42ecc863a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6273f9f11d359692",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md"
               }
             }
           }
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sistemi",
+                "query": "tag:excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMI/Microcontrollori e SoC.md",
+                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMI/Microcontrollori e SoC.md",
+                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMI/Microcontrollori e SoC.md"
+                "file": "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md"
               }
             }
           },
@@ -184,48 +201,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "045bbb5c902e27bf",
+  "active": "c4d73f970d3a8a06",
   "lastOpenFiles": [
-    "SISTEMI/DOCS/VLAN_Es.pdf",
-    "SISTEMI/Microcontrollori e SoC.md",
-    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
-    "SISTEMI/TCP-IP",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
-    "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Elementi di Economia.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Obiettivi Costi Ricavi.pdf",
-    "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
-    "GESTIONE PROGETTO/Mercato.md",
-    "GESTIONE PROGETTO/Economia.md",
-    "MATEMATICA/Derivate.md",
-    "MATEMATICA/DOCS/Derivate.pdf",
     "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
+    "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
+    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+    "SISTEMI/Microcontrollori e SoC.md",
+    "MATEMATICA/Esercizi.md",
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "MATEMATICA/Derivate.md",
+    "EMBED/TEMPLATES/Default.md",
+    "Untitled.md",
+    "SISTEMI/VLAN.md",
+    "SISTEMI/Crittografia.md",
+    "INFORMATICA/Password.md",
+    "INFORMATICA/C - C++/ADT - Abstract Data Types.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
+    "GESTIONE PROGETTO/DOCS/Strutture costi e risorse.pdf",
+    "GESTIONE PROGETTO/DOCS/Resource leveling.pdf",
+    "GESTIONE PROGETTO/DOCS/PERT CPM.pdf",
+    "GESTIONE PROGETTO/DOCS/Libro schemi costi e risorse.pdf",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Obiettivi Costi Ricavi.pdf",
+    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Elementi di Economia.pdf",
+    "GESTIONE PROGETTO/DOCS/Distribuzione normale.pdf",
+    "GESTIONE PROGETTO/DOCS/Strutture di scomposizione.pdf",
+    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+    "GESTIONE PROGETTO/Mercato.md",
+    "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
+    "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
+    "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
+    "GESTIONE PROGETTO/Economia.md",
     "GESTIONE PROGETTO/Esercizi.md",
+    "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
+    "UMANISTICA/ITALIANO/Ungaretti.md",
+    "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
+    "INFORMATICA/Sql/Analisi dei dati - ES 2.md",
+    "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
     "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
     "GESTIONE PROGETTO/Untitled.md",
-    "UMANISTICA/ITALIANO/RIASSUNTI/Positivismo, Naturalismo, Verismo, Decadentismo.md",
-    "UMANISTICA/ITALIANO/DOCS/3. Il tuono.pdf",
-    "UMANISTICA/ITALIANO/Neoclassicismo.md",
-    "UMANISTICA/ITALIANO/Neorealismo.md",
-    "MATEMATICA/DOCS/Integrali.pdf",
-    "MATEMATICA/DOCS/Funzioni.pdf",
-    "MATEMATICA/Esercizi.md",
-    "UMANISTICA/ITALIANO/Ungaretti.md",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "Untitled.md",
-    "INFORMATICA/Sql/boh.md",
-    "INFORMATICA/Sql/Vincoli nei database.md",
-    "INFORMATICA/Password.md",
-    "INFORMATICA/Sql/Database - Introduzione.md",
-    "INFORMATICA/Sql/Livelli di astrazione di un DB.md",
-    "INFORMATICA/Sql/Database_.md",
-    "MATEMATICA/DOCS/tabella studio di funzione.pdf",
-    "INFORMATICA/Sql/DOCS/231006_SQLCommands.pdf",
     "INFORMATICA/Sql/Database.canvas",
     "EMBED/image.png",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
-    "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "EMBED/Pasted image 20230515185148.png",
     "EMBED/image-2.png",
     "EMBED/image-3.png",

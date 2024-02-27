@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Date created": "date",
+    "Date created": "datetime",
     "Related PDF": "multitext",
     "Related pages": "multitext",
     "excalidraw-plugin": "text",
@@ -23,6 +23,7 @@
     "excalidraw-border-color": "text",
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
-    "excalidraw-iframe-theme": "text"
+    "excalidraw-iframe-theme": "text",
+    "Related PDFs": "multitext"
   }
 }

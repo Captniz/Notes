@@ -2,6 +2,11 @@
 tags:
   - gestioneProgetto
 Date created: 2023-10-03
+Related PDFs:
+  - "[[Libro schemi costi e risorse.pdf]]"
+Related pages:
+  - "[[Schemi organizzativi di scomposizione]]"
+  - "[[Gestione progetto - introduzione]]"
 ---
 ## **Organigramma**
 ### **Definizione**
