@@ -1,0 +1,351 @@
+---
+Date created: 2024-02-28T16:06:00
+tags:
+  - storia
+Related PDFs: 
+Related pages:
+---
+### Dopoguerra
+- Difficoltà a riconvertire le industrie da belliche a civili
+- Difficoltà a reintegrare i reduci
+- Indebitamento dello stato e inflazione
+
+### Biennio rosso
+- **Agitazioni a sfondo socialista/comunista**
+- Scioperi e occupazioni di fabbriche/campagne
+	- **Sud** -> Richiesta della *Riforma agraria* promessa durante la guerra
+	- **Nord** -> Richiesta aumento salari e diminuzione del lavoro
+- Panico tra industriali e proprietari terrieri
+	- Paura di *rivoluzione bolscevica*
+- **Mediazione del governo tramite concessioni e salari migliori**
+	- Fine dell' occupazione di fabbriche/campagne
+	-  Industriali e possidenti ostili al socialismo e al governo
+		- Governo ritenuto debole -> ( *Impresa di fiume* )
+		- Governo non punisce gli atti illegali :FasArrowTurnUp: 
+		- **Liberali in crisi**
+			- Istituiscono il suffragio universale maschile
+			- Le masse non votano i liberali in quanto non tutelano la classe media
+				- **I liberali perdono il partito di massa**
+				- **Ascesa partito socialista italiano ( 1o partito di massa )**, a guida *Filippo Turati*
+					- **Nascita partito comunista italiano ( dal socialista )(1921)**
+						- Entrata nella 3a internazionale
+						- Fondatori: *Gramsci*, *Togliatti*
+				- Ascesa partito cattolico ( *Partito popolare italiano* ), che promuove l'interclassismo
+
+>[!info]- Regimi totalitari: definizione e componenti
+> *Controllo totale dello stato e dell'esistenza degli individui, cioè **pensiero e azioni***
+>
+> - Negazione parlamentarismo -> *No dibattito*
+> - Negazione pluralismo -> *Partito unico*
+> - Uso sistematico della violenza
+> - Ricorso alla propaganda -> *Mezzi di comunicazione di massa*
+> - Leader indiscusso
+> 	- **In Italia non e' cosi, molteplici leader:**
+> 		- Mussolini
+> 		- Re
+> 		- Papa ( *Chiesa* )
+> 	- **Totalitarismo imperfetto italiano**
+> - Ideologia ufficiale:
+> 	- Rinnovazione individuo
+> 	- No dissenso
+> 	- Leader indiscusso
+### Fascismo
+- Nascita dei **Fasci di combattimento** -> 1919
+	- Nazionalisti
+	- Composto da ceti medi:
+		- Studenti
+		- Artisti ( *Futuristi* )
+		- Arditi ( *Reduci di guerra e reparti speciali* )  
+	- Simbolo: *fascio littorio* -> Raggruppamento / Arma romana
+- **Programma di San Sepolcro**
+	- Princìpi dei fasci di combattimento
+		- Eterogeneità
+		- **Riforme a sfondo socialista** & **aspirazioni nazionaliste**
+			- Salario minimo
+			- Meno ore lavorative
+		- Anticlericali
+		- Anti-monarchici
+		- Avversi ai socialisti
+- Esito fallimentare alle elezioni del 1919
+- Squadrismo
+	- Squadre di picchiatori anti-socialisti e sindacalisti -> Difesa della proprietà privata
+		- **Approvazione da parte di proprietari terrieri e industriali**
+	- *Manganello e olio di ricino* -> Pestaggi e umiliazioni
+	- Connivenza dello stato / forze dell'ordine
+- Elezioni del 1921
+	- **Liberali Giolittiani & Fascisti** *vs* **Partiti di massa**  
+		- 35 deputati fascisti in parlamento
+		- Fascisti votati da:
+			- Proprietari terrieri e industriali
+				- Strumentalizzazione fascisti ( *Insieme ai liberali* )
+			- Ceto medio
+				- Non rappresentati da altri
+	- I partiti di massa vincono
+- Patto di pacificazione tra Socialisti e Fascisti
+	- Approvato da Mussolini
+	- Non condivisa da buona parte del partito ( *Capi di provincia* )
+		- Squadrismo parte fondamentale del fascismo
+		- Mussolini non riconosciuto come leader assoluto
+	- Compromesso interno
+		- Fasci di Combattimento -> **PNF** ( *Partito nazionale fascista* ) -> **1921**
+		- Mussolini capo
+		- Invalidamento patto di pacificazione e conferma squadrismo
+- **Marcia su Roma** -> Complesso di operazioni dal 27 al 30 ottobre
+	- Obbiettivo: Far entrare i fascisti al governo
+	- Dimostrazione di forza -> Non c'e' uso di violenza
+	- Avvenimenti:
+		- Squadristi arrivano attorno a Roma e in centro
+		- Occupazione di città strategiche, prefetture, poste e stazioni
+			- Blocco di comunicazioni e trasporti
+		- Il Re va a Roma mentre Mussolini e' pronto a fuggire al nord ( *Non partecipa alla marcia personalmente* ) 
+			- Paura del fallimento -> Trattative politiche parallele alla marcia
+		- Convocato un consiglio di emergenza e proclamato lo stato d'assedio
+			- Non firmato dal Re
+				- Timore di una guerra civile
+				- Simpatizzazione fascista a corte
+				- Risoluzione senza esercito
+				- Sottovaluta i fascisti
+		- Primo ministro da le dimissioni -> Crisi di governo
+			- Convocazione di Mussolini da parte del Re
+			- Mussolini scrive l'articolo sul giornale
+			- Mussolini parte per roma
+		- Nominazione Mussolini come capo del governo
+- La Legge Acerbo -> Elezioni 1924
+	- *Suicidio di un assemblea rappresentativa*
+	- Legge ingiusta riguardante le votazioni che permette ai Fascisti ( *Insieme a vari brogli elettorali* ) di ottenere la maggioranza in parlamento
+- Delitto Matteotti
+	- Proposta di annullamento delle elezioni in quanto illegali -> Giacomo Matteotti 
+	- **Matteotti assassinato da un gruppo di Fascisti** ( *Convinti che fosse il volere di Mussolini* )
+		- Grande scandalo
+		- Mussolini attaccato da Liberali e Fascisti moderati
+	- **Secessione dell'Aventino** -> I deputati dell' opposizione non partecipano in parlamento
+		- Il re se ne sbatte
+	- Mussolini pretende le dimissioni dei colpevoli
+		- Pressioni Fasciste in quanto si mostra debole
+			- **Discorso del 1925**
+			- Presa della responsabilità del delitto Matteotti
+			- Minaccia avversari con lo squadrismo
+- **Leggi Fascistissime** -> 1925 - 1926
+	- Rafforzare il governo e abolire divisione dei poteri
+	- Leggi:
+		- Capo del governo responsabile solo di fronte al re e non più verso il parlamento
+		- Governo può emanare le leggi
+		- Eliminazione del consiglio comunale e istituzione del podestà ( *Nomina governativa* )
+		- Decaduti i deputati e partiti di opposizione
+		- Dipendenti pubblici forzati a iscriversi al PNF
+		- Confino e pena di morte per gli oppositori
+		- Tribunale speciale con sentenze inappellabili
+		- Soppressione libertà di opinione e di stampa
+	- Portano a un **regime totalitario**
+- Riforma elettorale e plebiscito del 1929
+	- Votazione si/no a una lista di candidati scelti dal **Gran Consiglio del Fascismo**
+		- Lista unica nazionale
+	- Voti non segreti -> Violenza
+	- Camera dei deputati -> **Camera dei fasci** ( *Totalmente fascista* )
+- Costruzione del consenso
+	- Indottrinamento
+	- Mussolini come Duce -> *Condottiero*
+		- Culto del Duce
+		- Adunate di massa
+		- Ritratti e frasi del Duce
+	- Palazzo della civiltà italiana a Roma -> *Ospita una esposizione universale*
+	- Media di massa
+		- Regole su come riportare gli articoli su radio e giornali -> *Veline*
+		- Cinegiornali -> Gestiti dall' **istituto Luce**
+			- Cortometraggi fascisti prima di un film
+		- EIAR -> *Radio*
+			- Controllo totale trasmissioni
+			- Radiogiornali
+	- Riforma scolastica -> **Riforma Gentile**
+		- Manifesto intellettuali fascisti
+		- **Opera Nazionale Balilla ( ONB )**
+			- Istruzione militare/sportiva tra gli 8-16 anni
+			- Adunate e campi scuola
+		- Gruppi Universitari Fascisti -> *Università*
+	- Opera Nazionale Dopolavoro -> *Tempo libero*
+	- **Minculpop** -> Censura e controllo stampa
+	- **Uomo nuovo**
+		- Inquadrato nel regime
+		- Operoso
+		- Obbediente al Duce
+		- Pronto a combattere
+	- Politica linguistica
+		- Lotta contro dialetti / lingue minoranze / parole straniere
+		- *"Lei"* vietato in quanto femmineo
+	- Condizione femminile
+		- Donne casalinghe
+		- Numero e' potenza
+			- Madri prolifiche -> Dono dei figli alla patria
+				- Premi in denaro / medaglie
+				- Imposta sui celibi 
+- Repressione del dissenso
+	- Punizioni:
+		- Violenze
+		- Confino
+		- Privazione di proprietà
+		- Carcere
+	- Polizia politica segreta -> **OVRA**
+- Antifascismo
+	- Resistenza in campo intellettuale
+	- **Benedetto Croce** -> **Manifesto intellettuali antifascisti** 
+		- **Appoggio partito comunista** -> **Antonio Gramsci**
+		- Severe punizioni
+- **Patti lateranensi** -> 11 Feb 1929
+	- Ancora in vigore -> Revisione recente ( *Rimozione obbligatorietà cristianesimo* )
+	- Tra Mussolini e **Gasparri**
+	- Porre fine alla questione romana
+		- >[!tldr]-
+		  > Breccia di Porta Pia che rimuove il ruolo di capo di stato al Papa e porta a rapporti incrinati tra chiesa e stato e al *"Non expedit"*
+	- Composto da:
+		- Trattato -> *Religione di stato e Citta' del Vaticano*
+		- Concordato -> Diritto di culto e matrimonio con effetti civili
+		- Convenzione finanziaria
+- Politica economica
+	- Sindacati sostituiti con **Corporazioni**
+		- Promuovono l'interclassismo ( *Unione di lavoratori e datori di lavoro* )
+		- Alternativa a corporativismo e comunismo
+	- Liberismo -> Protezionismo
+		- Indipendenza dagli esteri
+		- Mantenere il benessere e il prestigio
+	- IMI -> Fondi pubblici per industrie in fallimento
+	- IRI -> Acquisto di azioni di imprese da parte dello stato
+	- Protezionismo -> Autarchia
+		- Totale indipendenza dagli esteri ( *Autosufficienza* )
+		- Problemi di produzione
+		- Qualità minore e costi maggiori
+	- **Battaglie** -> Obbiettivi del fascismo
+		- Bonifica paludi per aumentare la superficie coltivabile
+		- Migliorano leggermente il tenore di vita
+- Politica estera
+	- Aggressione Etiopia
+		- Acquisizione prestigio
+		- Trasferire la manodopera italiana
+		- Missione civilizzatrice
+		- Re -> Imperatore
+			- Impero Africa Orientale italiana
+		- GB / FR / Società delle nazioni contrarie
+			- Sanzioni economiche
+	- Avvicinamento Italia - Germania
+		- Contrapposta a FR e GB
+		- Non fa parte della Società delle nazioni
+		- Asse Roma-Berlino
+			- Occupazione Albania per non essere da meno
+	- Legislazioni razziali
+		- Proibiti matrimoni misti
+		- **Manifesto della difesa della razza** -> 1938
+			- Razzismo scientifico
+			- Tesi antiscientifiche
+			- Ebrei emarginati
+			- Preservazione della purezza
+		- Discorso di Trieste -> **Leggi razziali sugli ebrei** -> 1938
+			- No matrimoni misti
+			- No impieghi pubblici
+			- Soglia su beni immobili
+			- No scuola pubblica
+
+### Nazismo
+- **Repubblica di Weimar**
+	- Dopo la WWI abdica il kaiser
+		- Fine 2nd reich
+		- Nascita repubblica
+			- Costituzione avanzata
+- Crisi economica in Germania
+	- Riparazioni di guerra
+	- Mercati sfavorevoli
+	- Disoccupazione
+	- Malcontento
+- Nascita **Partito dei Lavoratori**
+	- **Hitler** ne fa parte
+		- Allarga il partito col suo carisma
+	- Trasformazione in partito **Nazista** ( *NAZional socialISTA* ) ->1920
+		- Uso svastica
+		- Creazione **SA** -> *Organizzazione paramilitare*
+	- Difesa di Germania e tedeschi
+	- 1o programma nazista
+		- Unione dei tedeschi
+		- Abolizione trattati contro la Germania
+		- Importanza di terra, suolo e sangue tedesco
+		- Allargamento territori -> *Politica estera aggressiva*
+		- No ebrei
+		- Popolo ariano
+			- Popolo antico *indoeuropeo*
+			- Tedeschi diretti discendenti
+			- Italiani a maggioranza ariana
+- Putsch di Monaco -> 1923
+	- Colpo di stato fallimentare
+		- Hitler in galera -> *Scrive "Mein Kampf"*
+		- Scelta di prendere il potere per via legale
+- Situazione economica migliora -> Crisi del 1929
+	- Idee nazionaliste
+	- Agli industriali serve un regime autoritario per placare le rivolte popolari
+		- Strumentalizzazione Nazismo <-> ( *Come in Italia* )
+		- **Nazismo primo partito -> 1930-1932**
+		- **Hitler Primo ministro tedesco -> 1933**  
+- **Incendio del Reichstag ( *Parlamento* )**
+	- Colpa attribuita ai comunisti
+	- Svolta repressiva / autoritaria del regime
+		- Arresti indiscriminati
+		- Soppressione libertà
+		- **Partito nazista unico partito**
+		- **Governo ottiene pieni poteri**
+- **Notte dei lunghi coltelli** -> 1934
+	- Hitler accusa le **SA** di aver compiuto un colpo di stato
+	- **SS** uccidono le **SA** 
+	- Motivazioni:
+		- SA non in buoni rapporti con Nazismo e Industriali in quanto indisciplinati
+		- SS molto più abili e accuratamente selezionate
+- **Nascita 3o reich** -> **1933 - 1934**
+- Economia -> Autarchia
+	- Lavori pubblici
+- **Ideologia, indottrinamento e totalitarismo**
+	- Ideologia:
+		- No disabili / gay / malati
+		- Razza ariana pura
+		- Razzismo e nazionalismo disperata
+	- Costruzione del consenso e cultura -> **Goebbels**:
+		- Gioventù Hitleriana
+		- Mostra dell' arte *Degenerata* / *Del regime*
+		- Cinema -> **Leni Riefenstal**
+			- *Trionfo della volontà* -> Divinizzazione di Hitler
+			- Olympia -> Olimpiadi
+		- Olimpiadi di Berlino -> 1936
+	- Repressione:
+		- Abolizione libertà di associazione / espressione
+		- Polizia politica -> **Gestapo**
+		- Reparti di difesa -> **SS con a capo Himmler**  
+		- Campi di concentramento
+		- Musica ebraica / nera bandita
+			- **Wagner** miglior musicista
+		- Distruzione di testi contro la cultura tedesca
+			- Testi di psicologia
+			- Testi di ebrei
+- **Leggi antisemite**
+	- **Leggi di Norimberga** -> **1935**
+		- No libera professione
+		- No libero impiego
+		- No matrimoni misti
+		- No scuole pubbliche
+	- Diplomatico tedesco viene ucciso da un ebreo
+		- Pogrom
+		- Deportazioni
+		- **Stella di David**
+- **La notte dei cristalli** -> 1938
+	- Devastate le proprietà ebree ( *Case, Negozi, Sinagoghe* )
+	- Uccisione o arresto e internazione di svariati ebrei
+	- Diede il via all' internazione nei campi di concentramento
+- Hitler altera gli equilibri europei
+	- Rompe il trattato di Versailles
+	- Uscita dalla società delle nazioni
+	- Riarmo -> Leva obbligatoria e industrie belliche
+- Espansionismo tedesco
+	- Riarmo Renania
+	- Annessioni: 
+		- Austria
+		- Sudeti -> Non c'e' reazione per mantenere la pace
+	- Protettorato in Slovacchia
+	- Richiesta di ammissione nel corridoio di Danzica
+	- Giustificazione ideologica dell'espansionismo
+		- Grande Germania unita
+		- Spazio vitale tedesco
+	- Alleanza militare con l'Italia -> **Patto d'acciaio**
+	- Patto di non aggressione con **URSS** -> **Molotov-Ribbentrop**

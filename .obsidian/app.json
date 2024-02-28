@@ -8,7 +8,7 @@
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "Tabloid",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
