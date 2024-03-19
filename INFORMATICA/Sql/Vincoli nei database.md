@@ -8,8 +8,8 @@ tags:
 CREATE TABLE x (
 a int NOT NULL,   --Impone un valore nel campo
 b int UNIQUE,     --Impone che non ci siano due valori uguali nella colonna
-c int PRIMARY KEY,--Chiave primaria di riconoscimento della tabella
-d int DEFAULT 0   --Si imposta un default per il campo
+c int PRIMARY KEY,-- Un attributo che identifica univocamente un record
+d int DEFAULT 0   -- Si imposta un default per il campo
 )
 ``` 
 Altro esempio di unique:

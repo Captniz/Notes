@@ -30,5 +30,11 @@ Uno dei task più frequenti è quello di comunicare con altre periferiche, come:
 - **Pin analogici** : Pin con la possibilità di leggere una tensione *compresa* tra 0 e 5V attraverso un **ADC** ( *Analog to Digital Converter* ), che trasforma un segnale analogico in entrata in binario. Può anche avvenire la scrittura attraverso un **DAC**, contrario al **ADC**, o con un pin **PWM** ( *Pulse WIdth Modulation* ) che modula l'onda elettrica.
 - **Bus** : 
 	- **Seriale** :  *tx -> rx*
+		- Asincrono
+		- Full duplex
+		- Utile per messaggi di controllo e  comunicazioni
 	- **I2C**
+		- Sincrono
+		- Master-slave communication
+		- Utile per comunicare con dispositivi esterni al controllore
 	- **SPI**

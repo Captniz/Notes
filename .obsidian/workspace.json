@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e5dd327eb941f69d",
+        "id": "e810c19c9836ed91",
         "type": "tabs",
         "children": [
           {
-            "id": "f0aaa2890dbdd051",
+            "id": "24ebce24dee9c105",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MATEMATICA/Esercizi.md"
+                "file": "INFORMATICA/Sql/Vincoli nei database.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:excalidraw",
+                "query": "primary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATICA/Esercizi.md",
+                "file": "INFORMATICA/Sql/Vincoli nei database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATICA/Esercizi.md",
+                "file": "INFORMATICA/Sql/Vincoli nei database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATEMATICA/Esercizi.md"
+                "file": "INFORMATICA/Sql/Vincoli nei database.md"
               }
             }
           },
@@ -183,16 +185,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0aaa2890dbdd051",
+  "active": "24ebce24dee9c105",
   "lastOpenFiles": [
-    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
-    "GESTIONE PROGETTO/Transazioni.md",
-    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
-    "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
-    "SISTEMI/Microcontrollori e SoC.md",
+    "INFORMATICA/Sql/boh - update.md",
+    "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
+    "UMANISTICA/STORIA/Lo stalinismo.md",
+    "GESTIONE PROGETTO/Esercizi.md",
+    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
     "MATEMATICA/Esercizi.md",
-    "MATEMATICA/DOCS/Derivate.pdf",
+    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+    "UMANISTICA/ITALIANO/Dannunzio.md",
+    "UMANISTICA/STORIA/Guerra civile spagnola.md",
     "MATEMATICA/Derivate.md",
+    "UMANISTICA/STORIA/Untitled.md",
+    "UMANISTICA/STORIA/Dal dopoguerra al fascismo.md",
+    "GESTIONE PROGETTO/Informatizzazione aziendale.md",
+    "SISTEMI/Microcontrollori e SoC.md",
+    "GESTIONE PROGETTO/Risorse aziendali.md",
+    "GESTIONE PROGETTO/Mercato.md",
+    "UMANISTICA/STORIA/RIASSUNTI/Dal dopoguerra al Fascismo.md",
+    "MATEMATICA/DOCS/Derivate.pdf",
     "EMBED/TEMPLATES/Default.md",
     "Untitled.md",
     "SISTEMI/VLAN.md",
@@ -209,19 +221,9 @@
     "GESTIONE PROGETTO/DOCS/Distribuzione normale.pdf",
     "GESTIONE PROGETTO/DOCS/Strutture di scomposizione.pdf",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Mercato.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
     "GESTIONE PROGETTO/DOCS/PERT CPM - Stima di costi e tempi.pdf",
-    "GESTIONE PROGETTO/Economia.md",
-    "GESTIONE PROGETTO/Esercizi.md",
-    "GESTIONE PROGETTO/Ciclo di vita del progetto.md",
-    "UMANISTICA/ITALIANO/Ungaretti.md",
-    "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
-    "INFORMATICA/Sql/Analisi dei dati - ES 2.md",
-    "INFORMATICA/Sql/Analisi dei dati - ES 1.md",
-    "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
     "INFORMATICA/Sql/Database.canvas",
     "EMBED/image.png",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
