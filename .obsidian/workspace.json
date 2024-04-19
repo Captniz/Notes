@@ -4,28 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "9739ee3883983d66",
+        "id": "96a715bf4bc86a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5fc0876c7128d7",
+            "id": "bece24a2a898b25b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md",
-                "mode": "preview",
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93662a88dbf9fb09",
+            "id": "99de84def6946fc2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "GESTIONE PROGETTO/Esercizi.md"
+                "file": "UMANISTICA/ITALIANO/DOCS/8. Lo strappo nel cielo di carta.pdf"
+              }
+            }
+          },
+          {
+            "id": "793339e85c7f76d4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UMANISTICA/ITALIANO/DOCS/8.1. Il fu Mattia Pascal (Lo strappo nel cielio di carta) Dal cap. XII - COMMENTO.pdf"
               }
             }
           }
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md",
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md",
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md"
+                "file": "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md"
               }
             }
           },
@@ -176,7 +186,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,38 +196,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": true,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f5fc0876c7128d7",
+  "active": "bece24a2a898b25b",
   "lastOpenFiles": [
-    "GESTIONE PROGETTO/Esercizi.md",
+    "UMANISTICA/ITALIANO/DOCS/8. Lo strappo nel cielo di carta.pdf",
+    "UMANISTICA/ITALIANO/DOCS/8.1. Il fu Mattia Pascal (Lo strappo nel cielio di carta) Dal cap. XII - COMMENTO.pdf",
+    "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md",
+    "UMANISTICA/ITALIANO/DOCS/7. Il fu Mattia Pascal (Il progresso tecnologico e il canarino) - Dal cap. IX.pdf",
+    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
+    "UMANISTICA/ITALIANO/Italo Svevo.md",
+    "UMANISTICA/ITALIANO/DOCS/3. La carriola.pdf",
+    "UMANISTICA/ITALIANO/DOCS/2. Il treno ha fischiato con COMMENTO.pdf",
+    "UMANISTICA/ITALIANO/DOCS/2. Il treno ha fischiato RIASSUNTO.pdf",
+    "UMANISTICA/ITALIANO/DOCS/1. Dal saggio Lumorismo.pdf",
+    "UMANISTICA/ITALIANO/DOCS/1. La coscienza di Zeno - TEMI E STRUTTURA DEL ROMANZO.pdf",
+    "UMANISTICA/ITALIANO/DOCS/4. La coscienza di Zeno - La conclusione.pdf",
+    "UMANISTICA/ITALIANO/DOCS/3. La coscienza di Zeno (L ultima sigaretta) Dal cap. 3.pdf",
+    "EMBED/TEMPLATES/Default.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md",
+    "GESTIONE PROGETTO/Esercizi.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
-    "GESTIONE PROGETTO/RIASSUNTI/\"Riassunto sistemi informativi.md\"",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
     "MATEMATICA/Esercizi.md",
     "MATEMATICA/Derivate.md",
     "UMANISTICA/STORIA/2nda guerra mondiale.md",
-    "UMANISTICA/ITALIANO/Italo Svevo.md",
     "INFORMATICA/Sql/Forme normali e anomalie.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Rappresentazione grafica processi.pdf",
     "INFORMATICA/Sql/Esercizi.md",
-    "GESTIONE PROGETTO/DOCS/XX_Le diverse tipologie di contratti di lavoro.pdf",
-    "GESTIONE PROGETTO/DOCS/XX_SistemiInformativi_InfoV24.pdf",
-    "GESTIONE PROGETTO/DOCS/XX_ GPOI_Processi_Aziendali_libro.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ I processi produttivi e la catena del valore.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Persone e Sistemi informativi aziendali.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ i Sistemi informativi aziendali.pdf",
     "GESTIONE PROGETTO/Es GPO.md",
     "UMANISTICA/STORIA/Lo stalinismo.md",
     "UMANISTICA/STORIA/Untitled.md",
@@ -226,16 +241,12 @@
     "EMBED/Pasted image 20230515185148.png",
     "EMBED/Pasted image 20230515182415.png",
     "Untitled.md",
-    "MATEMATICA/DOCS/equazioni differenziali.pdf",
-    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
     "SISTEMI/Drawing 2024-03-20 08.33.11.excalidraw.md",
     "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
     "GESTIONE PROGETTO/Informatizzazione aziendale.md",
     "GESTIONE PROGETTO/Economia.md",
     "INFORMATICA/Sql/Vincoli nei database.md",
     "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
-    "UMANISTICA/ITALIANO/Dannunzio.md",
-    "UMANISTICA/STORIA/Guerra civile spagnola.md",
     "INFORMATICA/Sql/Database.canvas",
     "EMBED/image.png",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
