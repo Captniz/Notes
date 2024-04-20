@@ -11,7 +11,7 @@
             "id": "10a8a54d4a7cc65c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
                 "file": "UMANISTICA/STORIA/2nda guerra mondiale.md"
               }
@@ -164,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,6 +180,7 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
@@ -188,25 +190,16 @@
     "UMANISTICA/ITALIANO/Il decadentismo.md",
     "GESTIONE PROGETTO/Esercizi.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md",
+    "GESTIONE PROGETTO/Esercizi.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
-    "GESTIONE PROGETTO/RIASSUNTI/\"Riassunto sistemi informativi.md\"",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
     "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
     "MATEMATICA/Esercizi.md",
     "MATEMATICA/Derivate.md",
     "UMANISTICA/STORIA/2nda guerra mondiale.md",
-    "UMANISTICA/ITALIANO/Italo Svevo.md",
     "INFORMATICA/Sql/Forme normali e anomalie.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Rappresentazione grafica processi.pdf",
     "INFORMATICA/Sql/Esercizi.md",
-    "GESTIONE PROGETTO/DOCS/XX_Le diverse tipologie di contratti di lavoro.pdf",
-    "GESTIONE PROGETTO/DOCS/XX_SistemiInformativi_InfoV24.pdf",
-    "GESTIONE PROGETTO/DOCS/XX_ GPOI_Processi_Aziendali_libro.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Sistema impresa.pdf",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ I processi produttivi e la catena del valore.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ Persone e Sistemi informativi aziendali.pdf",
-    "GESTIONE PROGETTO/DOCS/Gestione Progetto_ i Sistemi informativi aziendali.pdf",
     "GESTIONE PROGETTO/Es GPO.md",
     "UMANISTICA/STORIA/Lo stalinismo.md",
     "UMANISTICA/STORIA/Untitled.md",
@@ -216,8 +209,6 @@
     "EMBED/Pasted image 20230515185148.png",
     "EMBED/Pasted image 20230515182415.png",
     "Untitled.md",
-    "MATEMATICA/DOCS/equazioni differenziali.pdf",
-    "UMANISTICA/ITALIANO/Luigi Pirandello.md",
     "SISTEMI/Drawing 2024-03-20 08.33.11.excalidraw.md",
     "UMANISTICA/STORIA/Prima Guerra Mondiale.md",
     "GESTIONE PROGETTO/Informatizzazione aziendale.md",
