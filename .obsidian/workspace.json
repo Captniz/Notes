@@ -6,7 +6,6 @@
       {
         "id": "412d73b4ab308dc8",
         "type": "tabs",
-        "dimension": 38.66090712742981,
         "children": [
           {
             "id": "006add138a5d1f09",
@@ -15,25 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ca4ae6f5469a9635",
-        "type": "tabs",
-        "dimension": 61.33909287257019,
-        "children": [
-          {
-            "id": "e6df8b71d8790d3c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UMANISTICA/STORIA/DOCS/2_URSS_Stalin/1. URSS di Stalin MOODLE.pdf"
               }
             }
           }
@@ -205,12 +187,18 @@
   },
   "active": "006add138a5d1f09",
   "lastOpenFiles": [
-    "UMANISTICA/STORIA/DOCS/2_URSS_Stalin/1. URSS di Stalin MOODLE.pdf",
+    "UMANISTICA/STORIA/DOCS/5_Guerra_Fredda/La guerra fredda (1).pdf",
+    "UMANISTICA/STORIA/DOCS/5_Guerra_Fredda/La guerra fredda (2).pdf",
     "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
-    "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/4. La fine della dittatura in Spagna e Portogallo (Rivoluzione dei garofani, 25 aprile).pdf",
-    "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/3. Il Giappone tra gli anni Venti e Trenta.pdf",
-    "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/2. La guerra civile spagnola e la dittatura di Franco.pdf",
-    "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/1. Europa tra fascismo e democrazia negli anni Venti e Trenta.pdf",
+    "UMANISTICA/STORIA/DOCS/4_Italia_Repubblicana/L Italia repubblicana - Dal Secondo dopoguerra al miracolo economico.pdf",
+    "UMANISTICA/STORIA/DOCS/3_WWII_e_dopoguerra/Manifesto Russel - Einstein (1955).pdf",
+    "UMANISTICA/STORIA/DOCS/3_WWII_e_dopoguerra/La guerra dei codici - Enigma e Alan Turing (p. 310 libro).pdf",
+    "UMANISTICA/STORIA/DOCS/3_WWII_e_dopoguerra/La bomba atomica (p. 311) [VALIDO ANCHE PER ED. CIVICA].pdf",
+    "UMANISTICA/STORIA/DOCS/3_WWII_e_dopoguerra/6.2. Lettera di Einstein a Roosevelt - TESTO.pdf",
+    "UMANISTICA/STORIA/DOCS/3_WWII_e_dopoguerra/6.1 Il ruolo di Einstein rispetto alla bomba atomica - La lettera a Roosevelt.pdf",
+    "UMANISTICA/STORIA/DOCS/3_WWII_e_dopoguerra/Il Secondo dopoguerra.pdf",
+    "UMANISTICA/STORIA/DOCS/3_WWII_e_dopoguerra/La Seconda guerra mondiale (4).pdf",
+    "UMANISTICA/STORIA/DOCS/2_URSS_Stalin/2. Le conseguenze del Patto Molotov-Ribbentrop.png",
     "EMBED/TEMPLATES/Default.md",
     "Certificazioni e qualità.md",
     "INFORMATICA/Sql/Analisi dei dati - ES 4.md",
@@ -219,11 +207,6 @@
     "EMBED/Drawing 2024-04-23 10.47.04.excalidraw.md",
     "UMANISTICA/ITALIANO/Dannunzio.md",
     "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md",
-    "UMANISTICA/ITALIANO/DOCS/8. Lo strappo nel cielo di carta.pdf",
-    "UMANISTICA/ITALIANO/DOCS/4. La coscienza di Zeno - La conclusione.pdf",
-    "UMANISTICA/ITALIANO/DOCS/8.1. Il fu Mattia Pascal (Lo strappo nel cielio di carta) Dal cap. XII - COMMENTO.pdf",
-    "UMANISTICA/ITALIANO/DOCS/5. Il fu Mattia Pascal - Premessa e Premessa filosofica.pdf",
-    "UMANISTICA/ITALIANO/DOCS/6. Il fu Mattia Pascal (La nuova identità e il cagnolino) - Dal cap. VIII.pdf",
     "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
     "UMANISTICA/STORIA/2nda guerra mondiale.md",
     "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
@@ -252,7 +235,6 @@
     "EMBED/image-3.png",
     "EMBED/image-4.png",
     "EMBED/image-1.png",
-    "GESTIONE PROGETTO/image-4.png",
     "INFORMATICA/Teoria/Database.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas"
