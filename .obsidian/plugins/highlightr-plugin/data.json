@@ -1,6 +1,6 @@
 {
-  "highlighterStyle": "realistic",
-  "highlighterMethods": "inline-styles",
+  "highlighterStyle": "floating",
+  "highlighterMethods": "css-classes",
   "highlighters": {
     "Red": "#F85552AA",
     "Orange": "#F57D26AA",
