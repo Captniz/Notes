@@ -43,3 +43,33 @@ Lo strumento principale per garantire i requisiti è **l'audit**.
 
 ### ISO9004
 Principi per la gestione di un azienda in modo durevole
+
+### ISO14001
+**Sistema di Gestione Ambientale (SGA)** -> Fondamenti di gestione ambientale integrata alla produzione aziendale
+
+Comprende:
+- Analisi preliminare -> Valutazione di incidenti precedenti, conformità alle leggi, esame delle procedure esistenti
+- Preparazione politica aziendale -> Cosa l'azienda è disposta a fare
+- Pianificazione degli obiettivi
+- Costruzione SGA
+- Workflow certificazione
+	- Audit
+	- Verifica norma di legge
+	- Ispezione ente certificatore
+	- Documento di consigli o azioni correttive
+- Certificazione ambientale
+- Visite di sorveglianza
+
+### SA 8000:2008
+> Direzione responsabile dei lavoratori e responsabilità sociali
+
+### OHSAS 18001:2007
+> Gestione di salute e sicurezza sul luogo di lavoro e minimizzazione rischi/incidenti/infortuni
+
+Processo:
+- Valutazione rischi e problematiche nell'azienda
+- Ciclo PDCA
+	- Planning: Stabilire obiettivi
+	- D?: Attuare
+	- C?: Misurare i risultati
+	- A?: Azioni migliorative

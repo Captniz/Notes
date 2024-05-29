@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "412d73b4ab308dc8",
+        "id": "0a409d8af885acf4",
         "type": "tabs",
-        "dimension": 38.66090712742981,
         "children": [
           {
-            "id": "006add138a5d1f09",
+            "id": "d834fa8b35027c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
+                "file": "GESTIONE PROGETTO/Certificazioni e qualità.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ca4ae6f5469a9635",
-        "type": "tabs",
-        "dimension": 61.33909287257019,
-        "children": [
-          {
-            "id": "e6df8b71d8790d3c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UMANISTICA/STORIA/DOCS/2_URSS_Stalin/1. URSS di Stalin MOODLE.pdf"
               }
             }
           }
@@ -112,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
+                "file": "GESTIONE PROGETTO/Certificazioni e qualità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
+                "file": "GESTIONE PROGETTO/Certificazioni e qualità.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md"
+                "file": "GESTIONE PROGETTO/Certificazioni e qualità.md"
               }
             }
           },
@@ -203,44 +185,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "006add138a5d1f09",
+  "active": "d834fa8b35027c5f",
   "lastOpenFiles": [
+    "GESTIONE PROGETTO/Risorse aziendali.md",
+    "GESTIONE PROGETTO/Mercato.md",
+    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
+    "TDP/WebServices.md",
+    "MATEMATICA/DOCS/Successioni e Serie.pdf",
+    "MATEMATICA/Esercizi.md",
+    "MATEMATICA/DOCS/Derivate.pdf",
+    "MATEMATICA/DOCS/equazioni differenziali.pdf",
+    "MATEMATICA/DOCS/Funzioni.pdf",
+    "MATEMATICA/DOCS/Integrali.pdf",
+    "MATEMATICA/DOCS/Limiti.pdf",
+    "MATEMATICA/DOCS/tabella studio di funzione.pdf",
+    "MATEMATICA/DOCS/Studio di funzione.pdf",
+    "MATEMATICA/Derivate.md",
+    "GESTIONE PROGETTO/Certificazioni e qualità.md",
+    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "GESTIONE PROGETTO/Informatizzazione aziendale.md",
+    "GESTIONE PROGETTO/Esercizi.md",
     "UMANISTICA/STORIA/DOCS/2_URSS_Stalin/1. URSS di Stalin MOODLE.pdf",
     "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
     "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/4. La fine della dittatura in Spagna e Portogallo (Rivoluzione dei garofani, 25 aprile).pdf",
-    "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/3. Il Giappone tra gli anni Venti e Trenta.pdf",
-    "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/2. La guerra civile spagnola e la dittatura di Franco.pdf",
-    "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/1. Europa tra fascismo e democrazia negli anni Venti e Trenta.pdf",
     "EMBED/TEMPLATES/Default.md",
-    "Certificazioni e qualità.md",
     "INFORMATICA/Sql/Analisi dei dati - ES 4.md",
     "UMANISTICA/INGLESE/Futures.md",
     "UMANISTICA/INGLESE/1984 - Book.md",
     "EMBED/Drawing 2024-04-23 10.47.04.excalidraw.md",
     "UMANISTICA/ITALIANO/Dannunzio.md",
     "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md",
-    "UMANISTICA/ITALIANO/DOCS/8. Lo strappo nel cielo di carta.pdf",
-    "UMANISTICA/ITALIANO/DOCS/4. La coscienza di Zeno - La conclusione.pdf",
-    "UMANISTICA/ITALIANO/DOCS/8.1. Il fu Mattia Pascal (Lo strappo nel cielio di carta) Dal cap. XII - COMMENTO.pdf",
-    "UMANISTICA/ITALIANO/DOCS/5. Il fu Mattia Pascal - Premessa e Premessa filosofica.pdf",
-    "UMANISTICA/ITALIANO/DOCS/6. Il fu Mattia Pascal (La nuova identità e il cagnolino) - Dal cap. VIII.pdf",
     "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
     "UMANISTICA/STORIA/2nda guerra mondiale.md",
     "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
     "UMANISTICA/ITALIANO/Il decadentismo.md",
-    "GESTIONE PROGETTO/Esercizi.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md",
-    "GESTIONE PROGETTO/Esercizi.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
-    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "MATEMATICA/Esercizi.md",
-    "MATEMATICA/Derivate.md",
-    "INFORMATICA/Sql/Forme normali e anomalie.md",
-    "INFORMATICA/Sql/Esercizi.md",
-    "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Es GPO.md",
-    "UMANISTICA/STORIA/Lo stalinismo.md",
     "EMBED/Riflessione.png",
     "EMBED/Rifrazione.png",
     "EMBED/Pasted image 20230515185148.png",
