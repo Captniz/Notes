@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
-                "mode": "preview",
+                "file": "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "9e15f5a43f0abe3d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GESTIONE PROGETTO/Certificazioni e qualità.md",
+                "file": "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GESTIONE PROGETTO/Certificazioni e qualità.md",
+                "file": "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GESTIONE PROGETTO/Certificazioni e qualità.md"
+                "file": "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md"
               }
             }
           },
@@ -187,30 +186,38 @@
   },
   "active": "d834fa8b35027c5f",
   "lastOpenFiles": [
-    "GESTIONE PROGETTO/Risorse aziendali.md",
-    "GESTIONE PROGETTO/Mercato.md",
+    "GESTIONE PROGETTO/Informatizzazione aziendale.md",
     "GESTIONE PROGETTO/Gestione progetto - introduzione.md",
-    "GESTIONE PROGETTO/Strutture organizzative.md",
-    "TDP/WebServices.md",
+    "SISTEMI/Microcontrollori e SoC.md",
+    "SISTEMI/Drawing 2024-03-20 08.33.11.excalidraw.md",
+    "SISTEMI/Crittografia e comunicazioni private.md",
     "MATEMATICA/DOCS/Successioni e Serie.pdf",
+    "TDP/WebServices.md",
     "MATEMATICA/Esercizi.md",
+    "MATEMATICA/Derivate.md",
+    "MATEMATICA/DOCS/Funzioni.pdf",
+    "INFORMATICA/Sql/Analisi dei dati - ES 3.md",
+    "INFORMATICA/Sql/Analisi dei dati - ES 4.md",
+    "GESTIONE PROGETTO/Certificazioni e qualità.md",
+    "GESTIONE PROGETTO/Esercizi.md",
+    "GESTIONE PROGETTO/Mercato.md",
+    "GESTIONE PROGETTO/Strutture organizzative.md",
+    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
+    "GESTIONE PROGETTO/Risorse aziendali.md",
+    "GESTIONE PROGETTO/Economia.md",
+    "EMBED/Pasted image 20230515182415.png",
+    "EMBED/image-1.png",
+    "EMBED/image-3.png",
+    "EMBED/TEMPLATES/Default.md",
+    "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
     "MATEMATICA/DOCS/Derivate.pdf",
     "MATEMATICA/DOCS/equazioni differenziali.pdf",
-    "MATEMATICA/DOCS/Funzioni.pdf",
     "MATEMATICA/DOCS/Integrali.pdf",
     "MATEMATICA/DOCS/Limiti.pdf",
     "MATEMATICA/DOCS/tabella studio di funzione.pdf",
     "MATEMATICA/DOCS/Studio di funzione.pdf",
-    "MATEMATICA/Derivate.md",
-    "GESTIONE PROGETTO/Certificazioni e qualità.md",
-    "GESTIONE PROGETTO/Schemi organizzativi di scomposizione.md",
-    "GESTIONE PROGETTO/Informatizzazione aziendale.md",
-    "GESTIONE PROGETTO/Esercizi.md",
     "UMANISTICA/STORIA/DOCS/2_URSS_Stalin/1. URSS di Stalin MOODLE.pdf",
-    "UMANISTICA/STORIA/RIASSUNTI/WWII Svolgimento e ripresa.md",
     "UMANISTICA/STORIA/DOCS/1_Fascismo_e_Democrazia_in_EU/4. La fine della dittatura in Spagna e Portogallo (Rivoluzione dei garofani, 25 aprile).pdf",
-    "EMBED/TEMPLATES/Default.md",
-    "INFORMATICA/Sql/Analisi dei dati - ES 4.md",
     "UMANISTICA/INGLESE/Futures.md",
     "UMANISTICA/INGLESE/1984 - Book.md",
     "EMBED/Drawing 2024-04-23 10.47.04.excalidraw.md",
@@ -218,22 +225,15 @@
     "UMANISTICA/ITALIANO/RIASSUNTI/Riassunto - Svevo e Pirandello.md",
     "UMANISTICA/ITALIANO/RIASSUNTI/Generale poesie - In ordine temporale.md",
     "UMANISTICA/STORIA/2nda guerra mondiale.md",
-    "UMANISTICA/ITALIANO/La lupa e rosso Malpelo.md",
-    "UMANISTICA/ITALIANO/Il decadentismo.md",
-    "GESTIONE PROGETTO/RIASSUNTI/Riassunto sistemi informativi.md",
     "GESTIONE PROGETTO/RIASSUNTI/Riassunto schemi organizzativi.canvas",
-    "GESTIONE PROGETTO/RIASSUNTI/Riassunto economia.md",
     "EMBED/Riflessione.png",
     "EMBED/Rifrazione.png",
     "EMBED/Pasted image 20230515185148.png",
-    "EMBED/Pasted image 20230515182415.png",
     "INFORMATICA/Sql/Database.canvas",
     "EMBED/image.png",
     "SISTEMI/Livello 2/0 - Riassunto.canvas",
     "EMBED/image-2.png",
-    "EMBED/image-3.png",
     "EMBED/image-4.png",
-    "EMBED/image-1.png",
     "INFORMATICA/Teoria/Database.canvas",
     "UMANISTICA/INGLESE/Homework/Immigration in the U.S.canvas",
     "SISTEMI/Livello 3/0 - Riassunto.canvas"
